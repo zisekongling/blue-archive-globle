@@ -21,6 +21,17 @@ jobs:
       with:
         fetch-depth: 0  # 获取完整历史记录
         
+    - name: Clean data directory
+      run: |
+        # 清空data目录但保留目录结构
+        if [ -d "data" ]; then
+          find data -mindepth 1 -delete
+          echo "已清空data目录内容"
+        else
+          mkdir -p data
+          echo "创建空data目录"
+        fi
+        
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -40,9 +51,6 @@ jobs:
     - name: Run activity cards scraper
       run: python activity.py
       
-    - name: Create data directory if missing
-      run: mkdir -p data
-      
     - name: Verify files exist
       run: |
         if [ ! -f "data/game_cards.json" ]; then
@@ -51,6 +59,7 @@ jobs:
         if [ ! -f "data/activity_cards.json" ]; then
           echo '{"error": "activity_cards.json not generated"}' > data/activity_cards.json
         fi
+        echo "数据文件验证完成"
         
     - name: Commit and push changes
       uses: actions/github-script@v6
@@ -67,23 +76,8 @@ jobs:
           execSync('git config --global user.name "GitHub Actions"');
           execSync('git config --global user.email "actions@users.noreply.github.com"');
           
-          // 安全添加文件
-          const filesToAdd = [];
-          ['data/game_cards.json', 'data/activity_cards.json'].forEach(file => {
-            if (fs.existsSync(file)) {
-              filesToAdd.push(file);
-              console.log(`添加文件: ${file}`);
-            } else {
-              console.warn(`文件不存在: ${file}`);
-            }
-          });
-          
-          if (filesToAdd.length === 0) {
-            core.setFailed('没有需要添加的数据文件');
-            return;
-          }
-          
-          execSync(`git add ${filesToAdd.join(' ')}`);
+          // 添加数据文件
+          execSync('git add data/');
           
           // 检查是否有更改
           const status = execSync('git status --porcelain').toString().trim();
@@ -104,56 +98,14 @@ jobs:
           
           execSync(`git commit -m "${commitMessage}"`);
           
-          // 推送函数（含自动重试逻辑）
-          const pushWithRetry = (maxAttempts = 2) => {
-            let attempt = 0;
-            
-            while (attempt < maxAttempts) {
-              try {
-                if (attempt > 0) {
-                  console.log(`尝试整合远程更改（第 ${attempt} 次）...`);
-                  execSync(`git pull origin ${branchName} --rebase`);
-                  
-                  // 冲突处理：优先保留本地数据
-                  const conflictStatus = execSync('git status --porcelain').toString();
-                  if (conflictStatus.includes('UU')) {
-                    console.log('检测到冲突，保留本地数据版本');
-                    execSync('git checkout --ours data/');
-                    execSync('git add data/');
-                    execSync('git rebase --continue');
-                  }
-                }
-                
-                execSync(`git push origin HEAD:${branchName}`);
-                console.log('推送成功');
-                return true;
-              } catch (error) {
-                attempt++;
-                console.error(`推送失败（尝试 ${attempt}/${maxAttempts}）:`, error.message);
-                
-                if (attempt >= maxAttempts) {
-                  console.log('最终尝试强制推送...');
-                  execSync(`git push origin HEAD:${branchName} --force`);
-                  console.log('强制推送成功');
-                  return true;
-                }
-              }
-            }
-          };
-          
-          // 执行推送
-          pushWithRetry();
-          
-          // 验证推送结果
+          // 简化推送逻辑（直接强制推送）
           try {
-            const remoteHash = execSync(`git ls-remote origin ${branchName} | cut -f1`).toString().trim();
-            const localHash = execSync('git rev-parse HEAD').toString().trim();
-            
-            if (remoteHash !== localHash) {
-              core.setFailed('推送后远程与本地提交不一致');
-            }
-          } catch (verifyError) {
-            console.warn('推送验证失败:', verifyError.message);
+            console.log('强制推送更新...');
+            execSync(`git push origin HEAD:${branchName} --force`);
+            console.log('推送成功');
+          } catch (error) {
+            console.error('推送失败:', error);
+            core.setFailed('推送更新失败');
           }
 
     - name: Push to Gitee Mirror
@@ -163,39 +115,12 @@ jobs:
         GITEE_REPO: blue_archive
       run: |
         # 添加 Gitee 远程仓库
-        git remote add gitee https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/$GITEE_REPO.git
+        git remote add gitee https://$GITEE_USERNAME:$GITEE_TOKEN@gitee.com/$GITEE_USERNAME/$GITEE_REPO.git || true
         
         # 获取当前分支名
         branch_name=${GITHUB_REF#refs/heads/}
         
-        # 推送到 Gitee（带冲突处理）
-        max_attempts=3
-        attempt=1
-        
-        while [ $attempt -le $max_attempts ]; do
-          echo "尝试推送到 Gitee (第 $attempt 次)..."
-          git push gitee HEAD:$branch_name && {
-            echo "推送成功"
-            break
-          } || {
-            echo "推送失败，尝试拉取远程更改..."
-            git pull gitee $branch_name --rebase
-            
-            # 冲突时优先保留本地更改
-            if [ -n "$(git status --porcelain)" ]; then
-              echo "处理冲突..."
-              git checkout --ours data/
-              git add data/
-              git rebase --continue
-            fi
-            
-            attempt=$((attempt+1))
-            [ $attempt -gt $max_attempts ] && {
-              echo "最终尝试强制推送..."
-              git push gitee HEAD:$branch_name --force
-              break
-            }
-          }
-        done
-        
+        # 直接强制推送到 Gitee
+        echo "强制推送到 Gitee 镜像仓库..."
+        git push gitee HEAD:$branch_name --force
         echo "镜像同步完成"
