@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-07-14T09:15:17+08:00",
+  "crawl_time": "2025-07-15T09:15:04+08:00",
   "pools": [
     {
       "title": "莉央",
@@ -9,8 +9,8 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-07-15T09:00:00+08:00+08:00",
+      "progress": "45分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -21,8 +21,8 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-07-15T09:00:00+08:00+08:00",
+      "progress": "45分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -34,73 +34,33 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-07-15T09:00:00+08:00+08:00",
+      "progress": "45分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
       "title": "圣亚",
       "description": "圣亚",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/926157.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下17小时44分钟",
+      "progress": "已经有6小时14分钟未UP",
       "start_time": null,
-      "end_time": "2025-07-15T02:00:00+08:00+08:00"
+      "end_time": "2025-07-15T03:00:00+08:00+08:00"
     },
     {
       "title": "明日奈(制服)",
       "description": "明日奈(制服)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/893526.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下17小时44分钟",
+      "progress": "已经有6小时14分钟未UP",
       "start_time": null,
-      "end_time": "2025-07-15T02:00:00+08:00+08:00"
-    },
-    {
-      "title": "爱丽丝(女仆)",
-      "description": "爱丽丝(女仆)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/5/24/462912.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-08T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "季(兔女郎)",
-      "description": "季(兔女郎)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/5/24/441369.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-08T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "桃井(女仆)",
-      "description": "桃井(女仆)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/5/24/274809.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-08T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "绿(女仆)",
-      "description": "绿(女仆)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/5/24/1114.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有5天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-08T10:00:00+08:00+08:00"
+      "end_time": "2025-07-15T03:00:00+08:00+08:00"
     }
   ]
 }
