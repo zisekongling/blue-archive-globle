@@ -1,42 +1,42 @@
 {
-  "crawl_time": "2025-07-15T09:15:04+08:00",
+  "crawl_time": "2025-07-16T09:13:14+08:00",
   "pools": [
     {
       "title": "莉央",
       "description": "莉央",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/890743.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定"
       ],
-      "progress": "45分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-07-22T09:00:00+08:00+08:00"
     },
     {
       "title": "宁瑠(制服)",
       "description": "宁瑠(制服)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/186941.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定"
       ],
-      "progress": "45分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-07-22T09:00:00+08:00+08:00"
     },
     {
       "title": "花子(泳装)",
       "description": "花子(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/144324.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定",
         "复刻"
       ],
-      "progress": "45分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-07-22T09:00:00+08:00+08:00"
     },
     {
       "title": "圣亚",
@@ -46,7 +46,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有6小时14分钟未UP",
+      "progress": "已经有1天6小时未UP",
       "start_time": null,
       "end_time": "2025-07-15T03:00:00+08:00+08:00"
     },
@@ -58,7 +58,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有6小时14分钟未UP",
+      "progress": "已经有1天6小时未UP",
       "start_time": null,
       "end_time": "2025-07-15T03:00:00+08:00+08:00"
     }
