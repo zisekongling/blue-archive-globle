@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-07-20T09:00:00+08:00",
+  "crawl_time": "2025-07-21T09:00:00+08:00",
   "activities": [
     {
       "title": "[登入活动] 千年EXPO纪念登入活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2400/h_1050/829/43637/2025/6/7/755849.jpg",
-      "progress": "还剩下16天0小时",
+      "progress": "还剩下15天0小时",
       "tags": [
         "签到"
       ],
@@ -16,7 +16,7 @@
       "title": "制约解除决战 – 赛特的愤怒(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/6/7/145462.jpg",
-      "progress": "还剩下15天17小时",
+      "progress": "还剩下14天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -27,7 +27,7 @@
       "title": "[活动] Code:BOX 逼近千年的黑影～一个问题与两个答案～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/6/7/739947.jpg",
-      "progress": "还剩下2天0小时",
+      "progress": "还剩下1天0小时",
       "tags": [
         "活动"
       ],
@@ -38,34 +38,34 @@
       "title": "任务(Hard)3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/6/7/96733.jpg",
-      "progress": "还剩下1天17小时",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": null,
-      "end_time": "2025-07-22T02:00:00+08:00"
-    },
-    {
-      "title": "总力战 – 葛夫拉(野战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/7/771063.jpg",
-      "progress": "还剩下1天17小时",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": null,
-      "end_time": "2025-07-22T02:00:00+08:00"
-    },
-    {
-      "title": "帐号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/7/631158.png",
-      "progress": "还剩下17小时38分钟",
+      "progress": "还剩下17小时41分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
       "end_time": null
+    },
+    {
+      "title": "总力战 – 葛夫拉(野战)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/7/771063.jpg",
+      "progress": "还剩下17小时41分钟",
+      "tags": [
+        "总力战"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "帐号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/7/631158.png",
+      "progress": "2025/07/18-2025/07/20",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-07-18T00:00:00+08:00",
+      "end_time": "2025-07-20T00:00:00+08:00"
     },
     {
       "title": "任务(Normal)3倍",
@@ -110,17 +110,6 @@
       ],
       "start_time": "2025-07-07T00:00:00+08:00",
       "end_time": "2025-07-14T00:00:00+08:00"
-    },
-    {
-      "title": "帐号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/7/340330.png",
-      "progress": "2025/07/11-2025/07/13",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-07-11T00:00:00+08:00",
-      "end_time": "2025-07-13T00:00:00+08:00"
     }
   ]
 }
