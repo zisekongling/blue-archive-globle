@@ -1,6 +1,56 @@
 {
-  "crawl_time": "2025-07-21T09:17:37+08:00",
+  "crawl_time": "2025-07-22T09:13:36+08:00",
   "pools": [
+    {
+      "title": "小玉(露营)",
+      "description": "小玉(露营)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/190404.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "晴(露营)",
+      "description": "晴(露营)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/576155.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "英美(泳装)",
+      "description": "英美(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/461588.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "阳葵",
+      "description": "阳葵",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/957115.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "真纪(露营)",
+      "description": "真纪(露营)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/693953.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "莉央",
       "description": "莉央",
@@ -9,9 +59,9 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2025-07-22T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "宁瑠(制服)",
@@ -21,9 +71,9 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2025-07-22T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "花子(泳装)",
@@ -34,9 +84,9 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2025-07-22T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "圣亚",
@@ -46,7 +96,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有6天6小时未UP",
+      "progress": "已经有7天6小时未UP",
       "start_time": null,
       "end_time": "2025-07-15T03:00:00+08:00+08:00"
     },
@@ -58,7 +108,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有6天6小时未UP",
+      "progress": "已经有7天6小时未UP",
       "start_time": null,
       "end_time": "2025-07-15T03:00:00+08:00+08:00"
     }
