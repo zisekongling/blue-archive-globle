@@ -1,116 +1,92 @@
 {
-  "crawl_time": "2025-07-22T09:13:36+08:00",
+  "crawl_time": "2025-07-23T09:14:52+08:00",
   "pools": [
     {
       "title": "小玉(露营)",
       "description": "小玉(露营)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/190404.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "46分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "晴(露营)",
       "description": "晴(露营)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/576155.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "46分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "英美(泳装)",
       "description": "英美(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/461588.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "46分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "阳葵",
       "description": "阳葵",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/957115.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "46分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "真纪(露营)",
       "description": "真纪(露营)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/693953.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "46分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "莉央",
       "description": "莉央",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/890743.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "FES限定"
       ],
-      "progress": "UP还剩下45分钟",
+      "progress": "已经有23小时15分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-07-22T10:00:00+08:00+08:00"
     },
     {
       "title": "宁瑠(制服)",
       "description": "宁瑠(制服)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/186941.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "FES限定"
       ],
-      "progress": "UP还剩下45分钟",
+      "progress": "已经有23小时15分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-07-22T10:00:00+08:00+08:00"
     },
     {
       "title": "花子(泳装)",
       "description": "花子(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/144324.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "FES限定",
         "复刻"
       ],
-      "progress": "UP还剩下45分钟",
+      "progress": "已经有23小时15分钟未UP",
       "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "圣亚",
-      "description": "圣亚",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/926157.png",
-      "status": "已结束",
-      "tags": [
-        "限定"
-      ],
-      "progress": "已经有7天6小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-15T03:00:00+08:00+08:00"
-    },
-    {
-      "title": "明日奈(制服)",
-      "description": "明日奈(制服)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/7/893526.png",
-      "status": "已结束",
-      "tags": [
-        "限定"
-      ],
-      "progress": "已经有7天6小时未UP",
-      "start_time": null,
-      "end_time": "2025-07-15T03:00:00+08:00+08:00"
+      "end_time": "2025-07-22T10:00:00+08:00+08:00"
     }
   ]
 }
