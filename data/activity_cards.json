@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-07-26T09:00:00+08:00",
+  "crawl_time": "2025-07-27T09:00:00+08:00",
   "activities": [
     {
       "title": "[特别活动] 情人节的约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_768/h_256/829/43637/2025/6/21/234871.png",
-      "progress": "还剩下10天0小时",
+      "progress": "还剩下9天0小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动] 电脑新春行进曲 -复刻-",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/6/21/771835.png",
-      "progress": "还剩下10天0小时",
+      "progress": "还剩下9天0小时",
       "tags": [
         "活动",
         "复刻"
@@ -28,7 +28,7 @@
       "title": "[登入活动] 千年EXPO纪念登入活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2400/h_1050/829/43637/2025/6/7/755849.jpg",
-      "progress": "还剩下10天0小时",
+      "progress": "还剩下9天0小时",
       "tags": [
         "签到"
       ],
@@ -39,7 +39,7 @@
       "title": "制约解除决战 – 赛特的愤怒(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/6/7/145462.jpg",
-      "progress": "还剩下9天17小时",
+      "progress": "还剩下8天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -50,7 +50,7 @@
       "title": "[迷你活动] 特殊调查生命之树",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/6/21/762109.png",
-      "progress": "还剩下3天0小时",
+      "progress": "还剩下2天0小时",
       "tags": [
         "长草活动"
       ],
@@ -61,7 +61,7 @@
       "title": "综合战术考试(防御考试)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/21/419975.png",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "考试"
       ],
@@ -72,7 +72,7 @@
       "title": "特殊任务奖励3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/21/155690.png",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -83,7 +83,7 @@
       "title": "学园交流会奖励3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/21/781578.png",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -94,7 +94,7 @@
       "title": "课程表奖励3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/21/440330.png",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -105,12 +105,12 @@
       "title": "帐号经验值2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/21/937509.png",
-      "progress": "还剩下1天17小时",
+      "progress": "还剩下17小时38分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-07-28T02:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "任务(Hard)奖励3倍",
