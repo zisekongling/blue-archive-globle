@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-02T09:00:00+08:00",
+  "crawl_time": "2025-08-03T09:00:00+08:00",
   "activities": [
     {
       "title": "[特别活动] 情人节的约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_768/h_256/829/43637/2025/6/21/234871.png",
-      "progress": "还剩下3天0小时",
+      "progress": "还剩下2天0小时",
       "tags": [
         "其他"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动] 电脑新春行进曲 -复刻-",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/6/21/771835.png",
-      "progress": "还剩下3天0小时",
+      "progress": "还剩下2天0小时",
       "tags": [
         "活动",
         "复刻"
@@ -28,7 +28,7 @@
       "title": "[登入活动] 千年EXPO纪念登入活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2400/h_1050/829/43637/2025/6/7/755849.jpg",
-      "progress": "还剩下3天0小时",
+      "progress": "还剩下2天0小时",
       "tags": [
         "签到"
       ],
@@ -39,7 +39,7 @@
       "title": "任务(Hard)奖励3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/21/161737.jpg",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -50,7 +50,7 @@
       "title": "大决战 – 葛利果(室内战)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/21/627643.jpg",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "大决战"
       ],
@@ -61,7 +61,7 @@
       "title": "悬赏通缉奖励3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/6/21/489300.jpg",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -72,7 +72,7 @@
       "title": "制约解除决战 – 赛特的愤怒(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/6/7/145462.jpg",
-      "progress": "还剩下2天17小时",
+      "progress": "还剩下1天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -83,12 +83,12 @@
       "title": "帐号经验值2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/6/21/330342.png",
-      "progress": "还剩下1天17小时",
+      "progress": "还剩下17小时37分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-08-04T02:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "任务(Normal)奖励3倍",

@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-08-02T09:11:46+08:00",
+  "crawl_time": "2025-08-03T09:21:35+08:00",
   "pools": [
     {
       "title": "小玉(露营)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/190404.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/576155.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/461588.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/957115.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
@@ -47,7 +47,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/693953.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2025-08-05T09:00:00+08:00+08:00"
     },
@@ -59,7 +59,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2025-07-22T10:00:00+08:00+08:00"
     },
@@ -71,7 +71,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2025-07-22T10:00:00+08:00+08:00"
     },
@@ -84,7 +84,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2025-07-22T10:00:00+08:00+08:00"
     }
