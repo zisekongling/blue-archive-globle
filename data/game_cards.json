@@ -1,15 +1,35 @@
 {
-  "crawl_time": "2025-08-04T09:21:06+08:00",
+  "crawl_time": "2025-08-05T09:17:00+08:00",
   "pools": [
+    {
+      "title": "茱莉(打工)",
+      "description": "茱莉(打工)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/789648.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "43分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "濑奈(私服)",
+      "description": "濑奈(私服)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/124519.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "43分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "小玉(露营)",
       "description": "小玉(露营)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/190404.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下42分钟",
       "start_time": null,
-      "end_time": "2025-08-05T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "晴(露营)",
@@ -17,9 +37,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/576155.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下42分钟",
       "start_time": null,
-      "end_time": "2025-08-05T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "英美(泳装)",
@@ -27,9 +47,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/461588.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下42分钟",
       "start_time": null,
-      "end_time": "2025-08-05T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "阳葵",
@@ -37,9 +57,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/957115.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下42分钟",
       "start_time": null,
-      "end_time": "2025-08-05T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "真纪(露营)",
@@ -47,9 +67,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/693953.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下42分钟",
       "start_time": null,
-      "end_time": "2025-08-05T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "莉央",
@@ -59,7 +79,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-07-22T10:00:00+08:00+08:00"
     },
@@ -71,7 +91,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-07-22T10:00:00+08:00+08:00"
     },
@@ -84,7 +104,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-07-22T10:00:00+08:00+08:00"
     }
