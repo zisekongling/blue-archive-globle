@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-08-10T09:19:28+08:00",
+  "crawl_time": "2025-08-11T09:16:20+08:00",
   "pools": [
     {
       "title": "茱莉(打工)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/789648.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下9天0小时",
+      "progress": "UP还剩下8天0小时",
       "start_time": null,
       "end_time": "2025-08-19T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/124519.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下9天0小时",
+      "progress": "UP还剩下8天0小时",
       "start_time": null,
       "end_time": "2025-08-19T09:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/190404.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/576155.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -47,7 +47,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/461588.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -57,7 +57,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/957115.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -67,7 +67,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/693953.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     }

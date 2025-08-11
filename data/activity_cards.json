@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-10T09:00:00+08:00",
+  "crawl_time": "2025-08-11T09:00:00+08:00",
   "activities": [
     {
       "title": "制约解除决战 – 霍刻玛(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/729305.jpg",
-      "progress": "还剩下15天17小时",
+      "progress": "还剩下14天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动情] 瘟疫危机～奇迹的松饼～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/993452.jpg",
-      "progress": "还剩下9天0小时",
+      "progress": "还剩下8天0小时",
       "tags": [
         "其他"
       ],
@@ -27,40 +27,29 @@
       "title": "总力战 – 猫鬼黑影(城镇战)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/4430.jpg",
-      "progress": "还剩下1天17小时",
+      "progress": "还剩下17小时42分钟",
       "tags": [
         "总力战"
       ],
       "start_time": null,
-      "end_time": "2025-08-12T02:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "任务(Normal)2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/911738.jpg",
-      "progress": "还剩下1天17小时",
+      "progress": "还剩下17小时42分钟",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": "2025-08-12T02:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "课程表2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/922359.png",
-      "progress": "还剩下1天17小时",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": null,
-      "end_time": "2025-08-12T02:00:00+08:00"
-    },
-    {
-      "title": "帐号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/462625.png",
-      "progress": "还剩下17小时39分钟",
+      "progress": "还剩下17小时42分钟",
       "tags": [
         "资源翻倍"
       ],
@@ -112,6 +101,17 @@
       "end_time": "2025-08-17T00:00:00+08:00"
     },
     {
+      "title": "帐号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/462625.png",
+      "progress": "2025/08/08-2025/08/10",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-08T00:00:00+08:00",
+      "end_time": "2025-08-10T00:00:00+08:00"
+    },
+    {
       "title": "[特别活动] 情人节的约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_768/h_256/829/43637/2025/6/21/234871.png",
@@ -154,17 +154,6 @@
         "资源翻倍"
       ],
       "start_time": "2025-08-01T00:00:00+08:00",
-      "end_time": "2025-08-04T00:00:00+08:00"
-    },
-    {
-      "title": "大决战 – 葛利果(室内战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/21/627643.jpg",
-      "progress": "2025/07/29-2025/08/04",
-      "tags": [
-        "大决战"
-      ],
-      "start_time": "2025-07-29T00:00:00+08:00",
       "end_time": "2025-08-04T00:00:00+08:00"
     }
   ]
