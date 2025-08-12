@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-08-11T09:00:00+08:00",
+  "crawl_time": "2025-08-12T09:00:00+08:00",
   "activities": [
     {
       "title": "制约解除决战 – 霍刻玛(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/729305.jpg",
-      "progress": "还剩下14天17小时",
+      "progress": "还剩下13天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动情] 瘟疫危机～奇迹的松饼～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/993452.jpg",
-      "progress": "还剩下8天0小时",
+      "progress": "还剩下7天0小时",
       "tags": [
         "其他"
       ],
@@ -24,37 +24,15 @@
       "end_time": "2025-08-19T09:00:00+08:00"
     },
     {
-      "title": "总力战 – 猫鬼黑影(城镇战)",
+      "title": "特殊任务2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/4430.jpg",
-      "progress": "还剩下17小时42分钟",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "任务(Normal)2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/911738.jpg",
-      "progress": "还剩下17小时42分钟",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/843883.png",
+      "progress": "还剩下6天17小时",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "课程表2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/922359.png",
-      "progress": "还剩下17小时42分钟",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": null,
-      "end_time": null
+      "end_time": "2025-08-19T02:00:00+08:00"
     },
     {
       "title": "[迷你活动] 夏莱总结算with联邦学生会",
@@ -79,17 +57,6 @@
       "end_time": "2025-08-18T00:00:00+08:00"
     },
     {
-      "title": "特殊任务2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/843883.png",
-      "progress": "2025/08/11-2025/08/18",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-08-11T00:00:00+08:00",
-      "end_time": "2025-08-18T00:00:00+08:00"
-    },
-    {
       "title": "帐号经验值2倍",
       "description": "",
       "image_url": "",
@@ -99,6 +66,39 @@
       ],
       "start_time": "2025-08-15T00:00:00+08:00",
       "end_time": "2025-08-17T00:00:00+08:00"
+    },
+    {
+      "title": "总力战 – 猫鬼黑影(城镇战)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/4430.jpg",
+      "progress": "2025/08/05-2025/08/11",
+      "tags": [
+        "总力战"
+      ],
+      "start_time": "2025-08-05T00:00:00+08:00",
+      "end_time": "2025-08-11T00:00:00+08:00"
+    },
+    {
+      "title": "任务(Normal)2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/7/4/911738.jpg",
+      "progress": "2025/08/04-2025/08/11",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-04T00:00:00+08:00",
+      "end_time": "2025-08-11T00:00:00+08:00"
+    },
+    {
+      "title": "课程表2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/4/922359.png",
+      "progress": "2025/08/04-2025/08/11",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-08-04T00:00:00+08:00",
+      "end_time": "2025-08-11T00:00:00+08:00"
     },
     {
       "title": "帐号经验值2倍",
@@ -121,40 +121,6 @@
       ],
       "start_time": "2025-07-22T00:00:00+08:00",
       "end_time": "2025-08-05T00:00:00+08:00"
-    },
-    {
-      "title": "[活动] 电脑新春行进曲 -复刻-",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/6/21/771835.png",
-      "progress": "2025/07/22-2025/08/05",
-      "tags": [
-        "活动",
-        "复刻"
-      ],
-      "start_time": "2025-07-22T00:00:00+08:00",
-      "end_time": "2025-08-05T00:00:00+08:00"
-    },
-    {
-      "title": "[登入活动] 千年EXPO纪念登入活动",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2400/h_1050/829/43637/2025/6/7/755849.jpg",
-      "progress": "2025/07/07-2025/08/05",
-      "tags": [
-        "签到"
-      ],
-      "start_time": "2025-07-07T00:00:00+08:00",
-      "end_time": "2025-08-05T00:00:00+08:00"
-    },
-    {
-      "title": "任务(Hard)奖励3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/6/21/161737.jpg",
-      "progress": "2025/08/01-2025/08/04",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-08-01T00:00:00+08:00",
-      "end_time": "2025-08-04T00:00:00+08:00"
     }
   ]
 }
