@@ -1,15 +1,81 @@
 {
-  "crawl_time": "2025-08-18T09:14:41+08:00",
+  "crawl_time": "2025-08-19T09:07:28+08:00",
   "pools": [
+    {
+      "title": "风华(正月)",
+      "description": "风华(正月)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/907839.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "52分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "羽留奈(正月)",
+      "description": "羽留奈(正月)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/710370.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "52分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "花绘(圣诞节)",
+      "description": "花绘(圣诞节)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/94084.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "52分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "芹奈(圣诞节)",
+      "description": "芹奈(圣诞节)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/341481.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "52分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "亚伽里(正月)",
+      "description": "亚伽里(正月)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/19907.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "52分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "泉(正月)",
+      "description": "泉(正月)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/275233.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "52分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "茱莉(打工)",
       "description": "茱莉(打工)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/789648.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下51分钟",
       "start_time": null,
-      "end_time": "2025-08-19T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "濑奈(私服)",
@@ -17,9 +83,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/124519.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下51分钟",
       "start_time": null,
-      "end_time": "2025-08-19T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "小玉(露营)",
@@ -27,7 +93,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/190404.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -37,7 +103,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/576155.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -47,7 +113,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/461588.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -57,7 +123,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/957115.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     },
@@ -67,7 +133,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/6/21/693953.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-05T10:00:00+08:00+08:00"
     }
