@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-08-25T09:08:13+08:00",
+  "crawl_time": "2025-08-26T09:06:28+08:00",
   "pools": [
     {
       "title": "风华(正月)",
@@ -10,9 +10,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下52分钟",
       "start_time": null,
-      "end_time": "2025-08-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "羽留奈(正月)",
@@ -23,9 +23,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下52分钟",
       "start_time": null,
-      "end_time": "2025-08-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "花绘(圣诞节)",
@@ -33,9 +33,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/94084.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下52分钟",
       "start_time": null,
-      "end_time": "2025-08-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "芹奈(圣诞节)",
@@ -43,9 +43,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/341481.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下52分钟",
       "start_time": null,
-      "end_time": "2025-08-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "亚伽里(正月)",
@@ -53,9 +53,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/19907.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下52分钟",
       "start_time": null,
-      "end_time": "2025-08-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "泉(正月)",
@@ -63,9 +63,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/275233.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下52分钟",
       "start_time": null,
-      "end_time": "2025-08-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "茱莉(打工)",
@@ -73,7 +73,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/789648.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-19T10:00:00+08:00+08:00"
     },
@@ -83,7 +83,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/4/124519.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-19T10:00:00+08:00+08:00"
     }
