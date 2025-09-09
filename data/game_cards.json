@@ -1,15 +1,65 @@
 {
-  "crawl_time": "2025-09-08T09:05:47+08:00",
+  "crawl_time": "2025-09-09T09:03:16+08:00",
   "pools": [
+    {
+      "title": "美奈",
+      "description": "美奈",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/439350.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2025-09-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "瑠美",
+      "description": "瑠美",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/703419.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2025-09-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "佳世子(礼服)",
+      "description": "佳世子(礼服)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/254149.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "56分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "亚瑠(礼服)",
+      "description": "亚瑠(礼服)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/927522.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "56分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "沙织(礼服)",
+      "description": "沙织(礼服)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/190541.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "56分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "莉",
       "description": "莉",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/26/340366.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下55分钟",
       "start_time": null,
-      "end_time": "2025-09-09T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "堇(打工)",
@@ -17,9 +67,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/26/909478.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下55分钟",
       "start_time": null,
-      "end_time": "2025-09-09T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "风华(正月)",
@@ -30,7 +80,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-26T10:00:00+08:00+08:00"
     },
@@ -43,7 +93,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-26T10:00:00+08:00+08:00"
     },
@@ -53,7 +103,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/94084.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-26T10:00:00+08:00+08:00"
     },
@@ -63,7 +113,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/341481.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-26T10:00:00+08:00+08:00"
     },
@@ -73,7 +123,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/19907.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-26T10:00:00+08:00+08:00"
     },
@@ -83,7 +133,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/18/275233.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-08-26T10:00:00+08:00+08:00"
     }
