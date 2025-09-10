@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-09T09:00:00+08:00",
+  "crawl_time": "2025-09-10T09:00:00+08:00",
   "activities": [
     {
       "title": "制约解除决战 – 赛特的愤怒(轻装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/43637/2025/7/26/671412.png",
-      "progress": "还剩下13天17小时",
+      "progress": "还剩下12天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -13,10 +13,33 @@
       "end_time": "2025-09-23T02:00:00+08:00"
     },
     {
+      "title": "[活动] 来自歌剧 0068 的满腔爱意！ -复刻-",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/8/126053.png",
+      "progress": "还剩下6天0小时",
+      "tags": [
+        "活动",
+        "复刻"
+      ],
+      "start_time": null,
+      "end_time": "2025-09-16T09:00:00+08:00"
+    },
+    {
+      "title": "综合战术考试(突破考试)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/8/994001.png",
+      "progress": "还剩下5天17小时",
+      "tags": [
+        "考试"
+      ],
+      "start_time": null,
+      "end_time": "2025-09-16T02:00:00+08:00"
+    },
+    {
       "title": "学园交流会奖励2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/8/569992.png",
-      "progress": "还剩下6天17小时",
+      "progress": "还剩下5天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -27,23 +50,12 @@
       "title": "任务(Hard)奖励2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/8/9667.jpg",
-      "progress": "还剩下6天17小时",
+      "progress": "还剩下5天17小时",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
       "end_time": "2025-09-16T02:00:00+08:00"
-    },
-    {
-      "title": "[活动] Pray-Ball！～瞄准满垒全垒打！～",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/7/26/76865.png",
-      "progress": "还剩下55分钟",
-      "tags": [
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
     },
     {
       "title": "大决战 – 赫赛德(室内战)",
@@ -79,27 +91,15 @@
       "end_time": "2025-09-22T00:00:00+08:00"
     },
     {
-      "title": "[活动] 来自歌剧 0068 的满腔爱意！ -复刻-",
+      "title": "[活动] Pray-Ball！～瞄准满垒全垒打！～",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/8/126053.png",
-      "progress": "2025/09/09-2025/09/16",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/7/26/76865.png",
+      "progress": "2025/08/26-2025/09/09",
       "tags": [
-        "活动",
-        "复刻"
+        "活动"
       ],
-      "start_time": "2025-09-09T00:00:00+08:00",
-      "end_time": "2025-09-16T00:00:00+08:00"
-    },
-    {
-      "title": "综合战术考试(突破考试)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/8/994001.png",
-      "progress": "2025/09/09-2025/09/15",
-      "tags": [
-        "考试"
-      ],
-      "start_time": "2025-09-09T00:00:00+08:00",
-      "end_time": "2025-09-15T00:00:00+08:00"
+      "start_time": "2025-08-26T00:00:00+08:00",
+      "end_time": "2025-09-09T00:00:00+08:00"
     },
     {
       "title": "总力战 – 气垫船(野战)",
@@ -144,17 +144,6 @@
       ],
       "start_time": "2025-08-25T00:00:00+08:00",
       "end_time": "2025-09-01T00:00:00+08:00"
-    },
-    {
-      "title": "帐号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/7/26/258180.jpg",
-      "progress": "2025/08/29-2025/08/31",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-08-29T00:00:00+08:00",
-      "end_time": "2025-08-31T00:00:00+08:00"
     }
   ]
 }
