@@ -1,75 +1,55 @@
 {
-  "crawl_time": "2025-09-16T09:01:32+08:00",
+  "crawl_time": "2025-09-17T09:01:13+08:00",
   "pools": [
     {
       "title": "美奈",
       "description": "美奈",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/439350.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "58分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-09-23T09:00:00+08:00+08:00"
     },
     {
       "title": "瑠美",
       "description": "瑠美",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/703419.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "58分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-09-23T09:00:00+08:00+08:00"
     },
     {
       "title": "佳世子(礼服)",
       "description": "佳世子(礼服)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/254149.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下57分钟",
+      "progress": "已经有23小时2分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-09-16T10:00:00+08:00+08:00"
     },
     {
       "title": "亚瑠(礼服)",
       "description": "亚瑠(礼服)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/927522.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下57分钟",
+      "progress": "已经有23小时2分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-09-16T10:00:00+08:00+08:00"
     },
     {
       "title": "沙织(礼服)",
       "description": "沙织(礼服)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/190541.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下57分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "莉",
-      "description": "莉",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/26/340366.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有23小时2分钟未UP",
       "start_time": null,
-      "end_time": "2025-09-09T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "堇(打工)",
-      "description": "堇(打工)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/7/26/909478.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-09-09T10:00:00+08:00+08:00"
+      "end_time": "2025-09-16T10:00:00+08:00+08:00"
     }
   ]
 }
