@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-09-19T09:03:20+08:00",
+  "crawl_time": "2025-09-20T08:59:52+08:00",
   "pools": [
     {
       "title": "美奈",
@@ -7,9 +7,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/439350.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
-      "end_time": "2025-09-23T09:00:00+08:00+08:00"
+      "end_time": "2025-09-23T08:00:00+08:00+08:00"
     },
     {
       "title": "瑠美",
@@ -17,9 +17,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/703419.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
-      "end_time": "2025-09-23T09:00:00+08:00+08:00"
+      "end_time": "2025-09-23T08:00:00+08:00+08:00"
     },
     {
       "title": "佳世子(礼服)",
@@ -27,9 +27,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/254149.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
-      "end_time": "2025-09-16T10:00:00+08:00+08:00"
+      "end_time": "2025-09-16T09:00:00+08:00+08:00"
     },
     {
       "title": "亚瑠(礼服)",
@@ -37,9 +37,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/927522.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
-      "end_time": "2025-09-16T10:00:00+08:00+08:00"
+      "end_time": "2025-09-16T09:00:00+08:00+08:00"
     },
     {
       "title": "沙织(礼服)",
@@ -47,9 +47,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/190541.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
-      "end_time": "2025-09-16T10:00:00+08:00+08:00"
+      "end_time": "2025-09-16T09:00:00+08:00+08:00"
     }
   ]
 }
