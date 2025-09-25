@@ -1,11 +1,22 @@
 {
-  "crawl_time": "2025-09-24T09:00:00+08:00",
+  "crawl_time": "2025-09-25T09:00:00+08:00",
   "activities": [
+    {
+      "title": "制约解除决战 – 提法瑞特(弹力装甲)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/679894.jpg",
+      "progress": "还剩下25天17小时",
+      "tags": [
+        "制约解除决战"
+      ],
+      "start_time": null,
+      "end_time": "2025-10-21T02:00:00+08:00"
+    },
     {
       "title": "[活动] 高地人铁道暴走事件～于是列车消失了～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/835353.png",
-      "progress": "还剩下13天0小时",
+      "progress": "还剩下12天0小时",
       "tags": [
         "活动"
       ],
@@ -16,7 +27,7 @@
       "title": "悬赏通缉2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/293533.jpg",
-      "progress": "还剩下5天17小时",
+      "progress": "还剩下4天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -66,17 +77,6 @@
         "资源翻倍"
       ],
       "start_time": "2025-10-13T00:00:00+08:00",
-      "end_time": "2025-10-20T00:00:00+08:00"
-    },
-    {
-      "title": "制约解除决战 – 提法瑞特(弹力装甲)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/679894.jpg",
-      "progress": "2025/09/24-2025/10/20",
-      "tags": [
-        "制约解除决战"
-      ],
-      "start_time": "2025-09-24T00:00:00+08:00",
       "end_time": "2025-10-20T00:00:00+08:00"
     },
     {
