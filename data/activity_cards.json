@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2025-09-29T09:00:00+08:00",
+  "crawl_time": "2025-09-30T09:00:00+08:00",
   "activities": [
     {
       "title": "制约解除决战 – 提法瑞特(弹力装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/679894.jpg",
-      "progress": "还剩下21天17小时",
+      "progress": "还剩下20天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -16,7 +16,7 @@
       "title": "[活动] 高地人铁道暴走事件～于是列车消失了～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/835353.png",
-      "progress": "还剩下8天0小时",
+      "progress": "还剩下7天0小时",
       "tags": [
         "活动"
       ],
@@ -24,15 +24,15 @@
       "end_time": "2025-10-07T09:00:00+08:00"
     },
     {
-      "title": "悬赏通缉2倍",
+      "title": "任务(Normal)2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/293533.jpg",
-      "progress": "还剩下17小时54分钟",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/908936.jpg",
+      "progress": "还剩下6天17小时",
       "tags": [
         "资源翻倍"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-07T02:00:00+08:00"
     },
     {
       "title": "[活动] 热热闹闹 融融洽洽活动 -复刻-",
@@ -146,17 +146,6 @@
       "end_time": "2025-10-06T00:00:00+08:00"
     },
     {
-      "title": "任务(Normal)2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/908936.jpg",
-      "progress": "2025/09/29-2025/10/06",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-09-29T00:00:00+08:00",
-      "end_time": "2025-10-06T00:00:00+08:00"
-    },
-    {
       "title": "帐号经验值2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/492743.jpg",
@@ -166,6 +155,17 @@
       ],
       "start_time": "2025-10-02T00:00:00+08:00",
       "end_time": "2025-10-05T00:00:00+08:00"
+    },
+    {
+      "title": "悬赏通缉2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/293533.jpg",
+      "progress": "2025/09/22-2025/09/29",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-09-22T00:00:00+08:00",
+      "end_time": "2025-09-29T00:00:00+08:00"
     },
     {
       "title": "大决战 – 赫赛德(室内战)",
@@ -210,18 +210,6 @@
       ],
       "start_time": "2025-08-27T00:00:00+08:00",
       "end_time": "2025-09-22T00:00:00+08:00"
-    },
-    {
-      "title": "[活动] 来自歌剧 0068 的满腔爱意！ -复刻-",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/8/126053.png",
-      "progress": "2025/09/09-2025/09/16",
-      "tags": [
-        "活动",
-        "复刻"
-      ],
-      "start_time": "2025-09-09T00:00:00+08:00",
-      "end_time": "2025-09-16T00:00:00+08:00"
     }
   ]
 }
