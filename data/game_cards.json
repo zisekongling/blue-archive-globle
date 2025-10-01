@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-09-30T09:03:27+08:00",
+  "crawl_time": "2025-10-01T09:10:09+08:00",
   "pools": [
     {
       "title": "海花",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/848658.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天0小时后开始UP",
+      "progress": "13天0小时后开始UP",
       "start_time": "2025-10-14T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/750049.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天0小时后开始UP",
+      "progress": "13天0小时后开始UP",
       "start_time": "2025-10-14T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/92625.png",
       "status": "将开始",
       "tags": [],
-      "progress": "14天0小时后开始UP",
+      "progress": "13天0小时后开始UP",
       "start_time": "2025-10-14T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/511837.png",
       "status": "将开始",
       "tags": [],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2025-10-07T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -47,7 +47,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/723504.png",
       "status": "将开始",
       "tags": [],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2025-10-07T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -57,7 +57,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/490418.png",
       "status": "将开始",
       "tags": [],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2025-10-07T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -67,7 +67,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/464658.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下7天0小时",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
       "end_time": "2025-10-07T09:00:00+08:00+08:00"
     },
@@ -77,7 +77,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/19329.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下7天0小时",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
       "end_time": "2025-10-07T09:00:00+08:00+08:00"
     },
@@ -87,7 +87,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/439350.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有7天23小时未UP",
       "start_time": null,
       "end_time": "2025-09-23T10:00:00+08:00+08:00"
     },
@@ -97,7 +97,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/8/703419.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有7天23小时未UP",
       "start_time": null,
       "end_time": "2025-09-23T10:00:00+08:00+08:00"
     }
