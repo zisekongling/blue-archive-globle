@@ -1,11 +1,33 @@
 {
-  "crawl_time": "2025-10-13T09:00:00+08:00",
+  "crawl_time": "2025-10-14T09:00:00+08:00",
   "activities": [
+    {
+      "title": "任务(Hard)奖励2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/883276.jpg",
+      "progress": "还剩下6天17小时",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": null,
+      "end_time": "2025-10-21T02:00:00+08:00"
+    },
+    {
+      "title": "学园交流会2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/746692.jpg",
+      "progress": "还剩下6天17小时",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": null,
+      "end_time": "2025-10-21T02:00:00+08:00"
+    },
     {
       "title": "制约解除决战 – 提法瑞特(弹力装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/679894.jpg",
-      "progress": "还剩下7天17小时",
+      "progress": "还剩下6天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -16,42 +38,9 @@
       "title": "[迷你活动] 特殊调查生命之树",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/168901.png",
-      "progress": "还剩下1天0小时",
+      "progress": "还剩下56分钟",
       "tags": [
         "长草活动"
-      ],
-      "start_time": null,
-      "end_time": "2025-10-14T09:00:00+08:00"
-    },
-    {
-      "title": "综合战术考试(射击考试)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/207465.jpg",
-      "progress": "还剩下17小时52分钟",
-      "tags": [
-        "考试"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "特殊任务2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/422129.jpg",
-      "progress": "还剩下17小时52分钟",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "课程表2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/853557.png",
-      "progress": "还剩下17小时52分钟",
-      "tags": [
-        "资源翻倍"
       ],
       "start_time": null,
       "end_time": null
@@ -80,26 +69,37 @@
       "end_time": "2025-10-20T00:00:00+08:00"
     },
     {
-      "title": "任务(Hard)奖励2倍",
+      "title": "综合战术考试(射击考试)",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/883276.jpg",
-      "progress": "2025/10/13-2025/10/20",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/207465.jpg",
+      "progress": "2025/10/07-2025/10/13",
       "tags": [
-        "资源翻倍"
+        "考试"
       ],
-      "start_time": "2025-10-13T00:00:00+08:00",
-      "end_time": "2025-10-20T00:00:00+08:00"
+      "start_time": "2025-10-07T00:00:00+08:00",
+      "end_time": "2025-10-13T00:00:00+08:00"
     },
     {
-      "title": "学园交流会2倍",
+      "title": "特殊任务2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/746692.jpg",
-      "progress": "2025/10/13-2025/10/20",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/422129.jpg",
+      "progress": "2025/10/06-2025/10/13",
       "tags": [
         "资源翻倍"
       ],
-      "start_time": "2025-10-13T00:00:00+08:00",
-      "end_time": "2025-10-20T00:00:00+08:00"
+      "start_time": "2025-10-06T00:00:00+08:00",
+      "end_time": "2025-10-13T00:00:00+08:00"
+    },
+    {
+      "title": "课程表2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/853557.png",
+      "progress": "2025/10/06-2025/10/13",
+      "tags": [
+        "资源翻倍"
+      ],
+      "start_time": "2025-10-06T00:00:00+08:00",
+      "end_time": "2025-10-13T00:00:00+08:00"
     },
     {
       "title": "帐号经验值2倍",
@@ -122,39 +122,6 @@
       ],
       "start_time": "2025-09-23T00:00:00+08:00",
       "end_time": "2025-10-07T00:00:00+08:00"
-    },
-    {
-      "title": "总力战 – 葛利果(室内战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/806989.jpg",
-      "progress": "2025/09/30-2025/10/06",
-      "tags": [
-        "总力战"
-      ],
-      "start_time": "2025-09-30T00:00:00+08:00",
-      "end_time": "2025-10-06T00:00:00+08:00"
-    },
-    {
-      "title": "任务(Normal)2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/908936.jpg",
-      "progress": "2025/09/29-2025/10/06",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-09-29T00:00:00+08:00",
-      "end_time": "2025-10-06T00:00:00+08:00"
-    },
-    {
-      "title": "帐号经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/492743.jpg",
-      "progress": "2025/10/02-2025/10/05",
-      "tags": [
-        "资源翻倍"
-      ],
-      "start_time": "2025-10-02T00:00:00+08:00",
-      "end_time": "2025-10-05T00:00:00+08:00"
     }
   ]
 }
