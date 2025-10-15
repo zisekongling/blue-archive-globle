@@ -1,11 +1,34 @@
 {
-  "crawl_time": "2025-10-14T09:00:00+08:00",
+  "crawl_time": "2025-10-15T09:00:00+08:00",
   "activities": [
+    {
+      "title": "[活动] 热热闹闹 融融洽洽活动 -复刻-",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/12069.png",
+      "progress": "还剩下6天0小时",
+      "tags": [
+        "活动",
+        "复刻"
+      ],
+      "start_time": null,
+      "end_time": "2025-10-21T09:00:00+08:00"
+    },
+    {
+      "title": "大决战 – 白&黑(室内战)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/502214.jpg",
+      "progress": "还剩下5天17小时",
+      "tags": [
+        "大决战"
+      ],
+      "start_time": null,
+      "end_time": "2025-10-21T02:00:00+08:00"
+    },
     {
       "title": "任务(Hard)奖励2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/883276.jpg",
-      "progress": "还剩下6天17小时",
+      "progress": "还剩下5天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -16,7 +39,7 @@
       "title": "学园交流会2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/746692.jpg",
-      "progress": "还剩下6天17小时",
+      "progress": "还剩下5天17小时",
       "tags": [
         "资源翻倍"
       ],
@@ -27,7 +50,7 @@
       "title": "制约解除决战 – 提法瑞特(弹力装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/43637/2025/8/22/679894.jpg",
-      "progress": "还剩下6天17小时",
+      "progress": "还剩下5天17小时",
       "tags": [
         "制约解除决战"
       ],
@@ -38,35 +61,12 @@
       "title": "[迷你活动] 特殊调查生命之树",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/168901.png",
-      "progress": "还剩下56分钟",
+      "progress": "2025/10/07-2025/10/14",
       "tags": [
         "长草活动"
       ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "[活动] 热热闹闹 融融洽洽活动 -复刻-",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/12069.png",
-      "progress": "2025/10/14-2025/10/21",
-      "tags": [
-        "活动",
-        "复刻"
-      ],
-      "start_time": "2025-10-14T00:00:00+08:00",
-      "end_time": "2025-10-21T00:00:00+08:00"
-    },
-    {
-      "title": "大决战 – 白&黑(室内战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/43637/2025/8/22/502214.jpg",
-      "progress": "2025/10/14-2025/10/20",
-      "tags": [
-        "大决战"
-      ],
-      "start_time": "2025-10-14T00:00:00+08:00",
-      "end_time": "2025-10-20T00:00:00+08:00"
+      "start_time": "2025-10-07T00:00:00+08:00",
+      "end_time": "2025-10-14T00:00:00+08:00"
     },
     {
       "title": "综合战术考试(射击考试)",
@@ -111,17 +111,6 @@
       ],
       "start_time": "2025-10-09T00:00:00+08:00",
       "end_time": "2025-10-12T00:00:00+08:00"
-    },
-    {
-      "title": "[活动] 高地人铁道暴走事件～于是列车消失了～",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/43637/2025/8/22/835353.png",
-      "progress": "2025/09/23-2025/10/07",
-      "tags": [
-        "活动"
-      ],
-      "start_time": "2025-09-23T00:00:00+08:00",
-      "end_time": "2025-10-07T00:00:00+08:00"
     }
   ]
 }

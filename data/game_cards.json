@@ -1,85 +1,65 @@
 {
-  "crawl_time": "2025-10-14T09:02:30+08:00",
+  "crawl_time": "2025-10-15T09:04:12+08:00",
   "pools": [
     {
       "title": "海花",
       "description": "海花",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/848658.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "57分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-21T09:00:00+08:00+08:00"
     },
     {
       "title": "椿(导览员)",
       "description": "椿(导览员)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/750049.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "57分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-21T09:00:00+08:00+08:00"
     },
     {
       "title": "菲娜(导览员)",
       "description": "菲娜(导览员)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/92625.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "57分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-21T09:00:00+08:00+08:00"
     },
     {
       "title": "日和",
       "description": "日和",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/511837.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下56分钟",
+      "progress": "已经有23小时5分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-14T10:00:00+08:00+08:00"
     },
     {
       "title": "敦子",
       "description": "敦子",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/723504.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下56分钟",
+      "progress": "已经有23小时5分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-10-14T10:00:00+08:00+08:00"
     },
     {
       "title": "沙织",
       "description": "沙织",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/490418.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下56分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "望",
-      "description": "望",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/464658.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有23小时5分钟未UP",
       "start_time": null,
-      "end_time": "2025-10-07T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "光",
-      "description": "光",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/19329.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-10-07T10:00:00+08:00+08:00"
+      "end_time": "2025-10-14T10:00:00+08:00+08:00"
     }
   ]
 }
