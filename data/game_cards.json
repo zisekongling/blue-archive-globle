@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-10-25T09:02:59+08:00",
+  "crawl_time": "2025-10-26T09:10:00+08:00",
   "pools": [
     {
       "title": "仁耶",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/21/832330.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下10天0小时",
+      "progress": "UP还剩下9天0小时",
       "start_time": null,
       "end_time": "2025-11-04T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/21/775443.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下10天0小时",
+      "progress": "UP还剩下9天0小时",
       "start_time": null,
       "end_time": "2025-11-04T09:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/848658.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2025-10-21T10:00:00+08:00+08:00"
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/750049.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2025-10-21T10:00:00+08:00+08:00"
     },
@@ -47,7 +47,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/8/22/92625.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2025-10-21T10:00:00+08:00+08:00"
     }
