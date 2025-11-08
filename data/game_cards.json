@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-11-07T09:06:39+08:00",
+  "crawl_time": "2025-11-08T09:03:34+08:00",
   "pools": [
     {
       "title": "喜美(乐团)",
@@ -10,7 +10,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下11天0小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
       "end_time": "2025-11-18T09:00:00+08:00+08:00"
     },
@@ -23,7 +23,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下11天0小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
       "end_time": "2025-11-18T09:00:00+08:00+08:00"
     },
@@ -33,7 +33,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/767796.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下11天0小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
       "end_time": "2025-11-18T09:00:00+08:00+08:00"
     },
@@ -43,7 +43,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/963181.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下11天0小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
       "end_time": "2025-11-18T09:00:00+08:00+08:00"
     },
@@ -53,7 +53,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/21/832330.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-04T10:00:00+08:00+08:00"
     },
@@ -63,7 +63,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/21/775443.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-04T10:00:00+08:00+08:00"
     }
