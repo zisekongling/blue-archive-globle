@@ -1,71 +1,81 @@
 {
-  "crawl_time": "2025-11-18T09:06:59+08:00",
+  "crawl_time": "2025-11-19T09:07:01+08:00",
   "pools": [
+    {
+      "title": "莲华(泳装)",
+      "description": "莲华(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/409603.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2025-12-02T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "缘里(泳装)",
+      "description": "缘里(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/865530.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2025-12-02T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "桔梗(泳装)",
+      "description": "桔梗(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/830023.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2025-12-02T09:00:00+08:00+08:00"
+    },
     {
       "title": "喜美(乐团)",
       "description": "喜美(乐团)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/503287.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下52分钟",
+      "progress": "已经有23小时7分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
     {
       "title": "千纱(乐团)",
       "description": "千纱(乐团)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/622457.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下52分钟",
+      "progress": "已经有23小时7分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
     {
       "title": "夏(乐团)",
       "description": "夏(乐团)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/767796.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下52分钟",
+      "progress": "已经有23小时7分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
     {
       "title": "桔梗",
       "description": "桔梗",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/963181.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下52分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "仁耶",
-      "description": "仁耶",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/21/832330.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有13天23小时未UP",
+      "progress": "已经有23小时7分钟未UP",
       "start_time": null,
-      "end_time": "2025-11-04T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "名草",
-      "description": "名草",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/9/21/775443.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2025-11-04T10:00:00+08:00+08:00"
+      "end_time": "2025-11-18T10:00:00+08:00+08:00"
     }
   ]
 }
