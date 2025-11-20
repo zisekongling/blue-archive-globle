@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-11-19T09:07:01+08:00",
+  "crawl_time": "2025-11-20T09:05:40+08:00",
   "pools": [
     {
       "title": "莲华(泳装)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/409603.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天0小时",
+      "progress": "UP还剩下12天0小时",
       "start_time": null,
       "end_time": "2025-12-02T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/865530.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天0小时",
+      "progress": "UP还剩下12天0小时",
       "start_time": null,
       "end_time": "2025-12-02T09:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/830023.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天0小时",
+      "progress": "UP还剩下12天0小时",
       "start_time": null,
       "end_time": "2025-12-02T09:00:00+08:00+08:00"
     },
@@ -40,7 +40,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有23小时7分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -53,7 +53,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有23小时7分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -63,7 +63,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/767796.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有23小时7分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -73,7 +73,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/963181.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有23小时7分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     }
