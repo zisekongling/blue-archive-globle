@@ -1,13 +1,63 @@
 {
-  "crawl_time": "2025-11-28T09:05:03+08:00",
+  "crawl_time": "2025-11-29T09:05:40+08:00",
   "pools": [
+    {
+      "title": "千世(泳装)",
+      "description": "千世(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/28/993740.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "3天0小时后开始UP",
+      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "缘里",
+      "description": "缘里",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/28/871723.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "3天0小时后开始UP",
+      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "莲华",
+      "description": "莲华",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/28/406554.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "3天0小时后开始UP",
+      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "泉奈(泳装)",
+      "description": "泉奈(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/28/350517.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "3天0小时后开始UP",
+      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "莲华(泳装)",
       "description": "莲华(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/409603.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
       "end_time": "2025-12-02T09:00:00+08:00+08:00"
     },
@@ -17,7 +67,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/865530.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
       "end_time": "2025-12-02T09:00:00+08:00+08:00"
     },
@@ -27,7 +77,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/830023.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
       "end_time": "2025-12-02T09:00:00+08:00+08:00"
     },
@@ -40,7 +90,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有9天23小时未UP",
+      "progress": "已经有10天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -53,7 +103,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有9天23小时未UP",
+      "progress": "已经有10天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -63,7 +113,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/767796.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有9天23小时未UP",
+      "progress": "已经有10天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -73,7 +123,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/963181.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有9天23小时未UP",
+      "progress": "已经有10天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     }
