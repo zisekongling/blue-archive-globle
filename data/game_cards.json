@@ -1,6 +1,103 @@
 {
-  "crawl_time": "2025-12-01T09:20:21+08:00",
+  "crawl_time": "2025-12-02T09:08:53+08:00",
   "pools": [
+    {
+      "title": "渚(泳装)",
+      "description": "渚(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/820436.png",
+      "status": "将开始",
+      "tags": [
+        "FES限定"
+      ],
+      "progress": "21天0小时后开始UP",
+      "start_time": "2025-12-23T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "未花(泳装)",
+      "description": "未花(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/491372.png",
+      "status": "将开始",
+      "tags": [
+        "FES限定"
+      ],
+      "progress": "21天0小时后开始UP",
+      "start_time": "2025-12-23T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "日奈(礼服)",
+      "description": "日奈(礼服)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/453520.png",
+      "status": "将开始",
+      "tags": [
+        "FES限定",
+        "复刻"
+      ],
+      "progress": "21天0小时后开始UP",
+      "start_time": "2025-12-23T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "圣娅(泳装)",
+      "description": "圣娅(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/376254.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "14天0小时后开始UP",
+      "start_time": "2025-12-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "莲见(泳装)",
+      "description": "莲见(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/413871.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "14天0小时后开始UP",
+      "start_time": "2025-12-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "宫子(泳装)",
+      "description": "宫子(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/67434.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2025-12-09T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "咲(泳装)",
+      "description": "咲(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/264412.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2025-12-09T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "萌绘(泳装)",
+      "description": "萌绘(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/11/1/548685.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2025-12-09T09:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "千世(泳装)",
       "description": "千世(泳装)",
@@ -10,8 +107,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "progress": "51分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -22,8 +119,8 @@
       "tags": [
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "progress": "51分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -34,8 +131,8 @@
       "tags": [
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "progress": "51分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -47,8 +144,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2025-12-02T09:00:00+08:00+08:00",
+      "progress": "51分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -57,9 +154,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/409603.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下50分钟",
       "start_time": null,
-      "end_time": "2025-12-02T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "缘里(泳装)",
@@ -67,9 +164,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/865530.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下50分钟",
       "start_time": null,
-      "end_time": "2025-12-02T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "桔梗(泳装)",
@@ -77,9 +174,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2025/10/18/830023.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下50分钟",
       "start_time": null,
-      "end_time": "2025-12-02T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "喜美(乐团)",
@@ -90,7 +187,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -103,7 +200,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -113,7 +210,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/767796.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     },
@@ -123,7 +220,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/43637/2025/10/4/963181.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有13天23小时未UP",
       "start_time": null,
       "end_time": "2025-11-18T10:00:00+08:00+08:00"
     }
