@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-12-19T09:11:45+08:00",
+  "crawl_time": "2025-12-20T09:06:57+08:00",
   "pools": [
     {
       "title": "渚(泳装)",
@@ -9,7 +9,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "4天0小时后开始UP",
+      "progress": "3天0小时后开始UP",
       "start_time": "2025-12-23T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -21,7 +21,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "4天0小时后开始UP",
+      "progress": "3天0小时后开始UP",
       "start_time": "2025-12-23T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -34,7 +34,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "4天0小时后开始UP",
+      "progress": "3天0小时后开始UP",
       "start_time": "2025-12-23T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -46,7 +46,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
       "end_time": "2025-12-23T09:00:00+08:00+08:00"
     },
@@ -58,7 +58,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4天0小时",
+      "progress": "UP还剩下3天0小时",
       "start_time": null,
       "end_time": "2025-12-23T09:00:00+08:00+08:00"
     },
@@ -70,7 +70,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-16T10:00:00+08:00+08:00"
     },
@@ -82,7 +82,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-16T10:00:00+08:00+08:00"
     },
@@ -94,7 +94,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-16T10:00:00+08:00+08:00"
     }
