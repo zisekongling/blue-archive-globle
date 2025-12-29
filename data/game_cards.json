@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2025-12-28T09:19:38+08:00",
+  "crawl_time": "2025-12-29T09:17:18+08:00",
   "pools": [
     {
       "title": "康娜（泳装）",
@@ -9,7 +9,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "2天0小时后开始UP",
+      "progress": "1天0小时后开始UP",
       "start_time": "2025-12-30T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -21,7 +21,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "2天0小时后开始UP",
+      "progress": "1天0小时后开始UP",
       "start_time": "2025-12-30T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -33,7 +33,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "UP还剩下2天0小时",
+      "progress": "UP还剩下1天0小时",
       "start_time": null,
       "end_time": "2025-12-30T09:00:00+08:00+08:00"
     },
@@ -45,7 +45,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "UP还剩下2天0小时",
+      "progress": "UP还剩下1天0小时",
       "start_time": null,
       "end_time": "2025-12-30T09:00:00+08:00+08:00"
     },
@@ -58,7 +58,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "UP还剩下2天0小时",
+      "progress": "UP还剩下1天0小时",
       "start_time": null,
       "end_time": "2025-12-30T09:00:00+08:00+08:00"
     },
@@ -70,7 +70,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-23T10:00:00+08:00+08:00"
     },
@@ -82,7 +82,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有4天23小时未UP",
+      "progress": "已经有5天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-23T10:00:00+08:00+08:00"
     }
