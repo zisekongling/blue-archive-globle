@@ -1,51 +1,51 @@
 {
-  "crawl_time": "2025-12-31T09:13:30+08:00",
+  "crawl_time": "2026-01-01T09:19:37+08:00",
   "pools": [
     {
-      "title": "康娜（泳装）",
-      "description": "康娜（泳装）",
+      "title": "康娜(泳装)",
+      "description": "康娜(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/27/421461.png",
       "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
     {
-      "title": "吹雪（泳装）",
-      "description": "吹雪（泳装）",
+      "title": "吹雪(泳装)",
+      "description": "吹雪(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/27/294332.png",
       "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
     {
-      "title": "野宫（泳装）",
-      "description": "野宫（泳装）",
+      "title": "野宫(泳装)",
+      "description": "野宫(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/29/280846.png",
       "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
     {
-      "title": "白子（泳装）",
-      "description": "白子（泳装）",
+      "title": "白子(泳装)",
+      "description": "白子(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/29/620019.png",
       "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
@@ -57,7 +57,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有23小时14分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     },
@@ -69,7 +69,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有23小时14分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     },
@@ -82,7 +82,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "已经有23小时14分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     }
