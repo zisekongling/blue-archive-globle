@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-01-01T09:19:37+08:00",
+  "crawl_time": "2026-01-02T09:13:33+08:00",
   "pools": [
     {
       "title": "康娜(泳装)",
@@ -9,7 +9,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
@@ -21,7 +21,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
@@ -33,7 +33,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
@@ -45,7 +45,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-06T09:00:00+08:00+08:00"
     },
@@ -57,7 +57,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     },
@@ -69,7 +69,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     },
@@ -82,7 +82,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     }
