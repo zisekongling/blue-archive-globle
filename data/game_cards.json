@@ -1,6 +1,56 @@
 {
-  "crawl_time": "2026-01-05T09:19:14+08:00",
+  "crawl_time": "2026-01-06T09:13:31+08:00",
   "pools": [
+    {
+      "title": "千秋",
+      "description": "千秋",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/868359.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "时",
+      "description": "时",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/661353.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "渚",
+      "description": "渚",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/776283.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "康娜",
+      "description": "康娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/119759.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "46分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "康娜(泳装)",
       "description": "康娜(泳装)",
@@ -9,9 +59,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2026-01-06T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "吹雪(泳装)",
@@ -21,9 +71,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2026-01-06T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "野宫(泳装)",
@@ -33,9 +83,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2026-01-06T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "白子(泳装)",
@@ -45,9 +95,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下45分钟",
       "start_time": null,
-      "end_time": "2026-01-06T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "渚(泳装)",
@@ -57,7 +107,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     },
@@ -69,7 +119,7 @@
       "tags": [
         "FES限定"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     },
@@ -82,7 +132,7 @@
         "FES限定",
         "复刻"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2025-12-30T10:00:00+08:00+08:00"
     }
