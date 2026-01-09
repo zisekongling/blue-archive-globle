@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-01-08T09:14:06+08:00",
+  "crawl_time": "2026-01-09T09:14:06+08:00",
   "pools": [
     {
       "title": "千秋",
@@ -9,7 +9,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -22,7 +22,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -35,7 +35,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -47,7 +47,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -59,7 +59,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     },
@@ -71,7 +71,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     },
@@ -83,7 +83,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     },
@@ -95,7 +95,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     }
