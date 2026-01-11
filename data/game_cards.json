@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-01-10T09:11:40+08:00",
+  "crawl_time": "2026-01-11T09:20:22+08:00",
   "pools": [
     {
       "title": "鹿江",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/18143.jpg",
       "status": "将开始",
       "tags": [],
-      "progress": "2天0小时后开始UP",
+      "progress": "1天0小时后开始UP",
       "start_time": "2026-01-12T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/553415.jpg",
       "status": "将开始",
       "tags": [],
-      "progress": "2天0小时后开始UP",
+      "progress": "1天0小时后开始UP",
       "start_time": "2026-01-12T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -29,7 +29,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -42,7 +42,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -55,7 +55,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -67,7 +67,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-01-13T09:00:00+08:00+08:00"
     },
@@ -79,7 +79,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     },
@@ -91,7 +91,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     },
@@ -103,7 +103,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     },
@@ -115,7 +115,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有3天23小时未UP",
+      "progress": "已经有4天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-06T10:00:00+08:00+08:00"
     }
