@@ -1,123 +1,75 @@
 {
-  "crawl_time": "2026-01-13T09:10:42+08:00",
+  "crawl_time": "2026-01-14T09:16:37+08:00",
   "pools": [
     {
       "title": "鹿江",
       "description": "鹿江",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/18143.jpg",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "49分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-01-27T09:00:00+08:00+08:00"
     },
     {
       "title": "绘里",
       "description": "绘里",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/553415.jpg",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "49分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-01-27T09:00:00+08:00+08:00"
     },
     {
       "title": "千秋",
       "description": "千秋",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/868359.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下48分钟",
+      "progress": "已经有23小时17分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-01-13T10:00:00+08:00+08:00"
     },
     {
       "title": "时",
       "description": "时",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/661353.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下48分钟",
+      "progress": "已经有23小时17分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-01-13T10:00:00+08:00+08:00"
     },
     {
       "title": "渚",
       "description": "渚",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/776283.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下48分钟",
+      "progress": "已经有23小时17分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-01-13T10:00:00+08:00+08:00"
     },
     {
       "title": "康娜",
       "description": "康娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/119759.png",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下48分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "康娜(泳装)",
-      "description": "康娜(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/27/421461.png",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有23小时17分钟未UP",
       "start_time": null,
-      "end_time": "2026-01-06T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "吹雪(泳装)",
-      "description": "吹雪(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/27/294332.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-06T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "野宫(泳装)",
-      "description": "野宫(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/29/280846.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-06T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "白子(泳装)",
-      "description": "白子(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/191981/2025/11/29/620019.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-06T10:00:00+08:00+08:00"
+      "end_time": "2026-01-13T10:00:00+08:00+08:00"
     }
   ]
 }
