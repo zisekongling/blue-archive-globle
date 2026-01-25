@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-01-24T09:11:58+08:00",
+  "crawl_time": "2026-01-25T09:21:35+08:00",
   "pools": [
     {
       "title": "鹿江",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/18143.jpg",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-01-27T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/553415.jpg",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-01-27T09:00:00+08:00+08:00"
     },
@@ -29,7 +29,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-13T10:00:00+08:00+08:00"
     },
@@ -42,7 +42,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-13T10:00:00+08:00+08:00"
     },
@@ -55,7 +55,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-13T10:00:00+08:00+08:00"
     },
@@ -67,7 +67,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-01-13T10:00:00+08:00+08:00"
     }
