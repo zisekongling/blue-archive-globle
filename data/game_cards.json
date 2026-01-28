@@ -1,75 +1,101 @@
 {
-  "crawl_time": "2026-01-27T09:19:29+08:00",
+  "crawl_time": "2026-01-28T09:15:22+08:00",
   "pools": [
+    {
+      "title": "花凛(兔女郎)",
+      "description": "花凛(兔女郎)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/27/705888.png",
+      "status": "进行中",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2026-02-10T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "朱音(兔女郎)",
+      "description": "朱音(兔女郎)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/27/573762.png",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2026-02-10T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "美咲(泳装)",
+      "description": "美咲(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/27/716768.png",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2026-02-10T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "纱织(泳装)",
+      "description": "纱织(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/27/519415.png",
+      "status": "进行中",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2026-02-10T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "日和(泳装)",
+      "description": "日和(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/27/923762.png",
+      "status": "进行中",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2026-02-10T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "妮露(兔女郎)",
+      "description": "妮露(兔女郎)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/27/836347.png",
+      "status": "进行中",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "UP还剩下13天0小时",
+      "start_time": null,
+      "end_time": "2026-02-10T09:00:00+08:00+08:00"
+    },
     {
       "title": "鹿江",
       "description": "鹿江",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/18143.jpg",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下39分钟",
+      "progress": "已经有23小时16分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-01-27T10:00:00+08:00+08:00"
     },
     {
       "title": "绘里",
       "description": "绘里",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/0/9/553415.jpg",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下39分钟",
+      "progress": "已经有23小时16分钟未UP",
       "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "千秋",
-      "description": "千秋",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/868359.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-13T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "时",
-      "description": "时",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/661353.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-13T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "渚",
-      "description": "渚",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/776283.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-13T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "康娜",
-      "description": "康娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/0/5/119759.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-01-13T10:00:00+08:00+08:00"
+      "end_time": "2026-01-27T10:00:00+08:00+08:00"
     }
   ]
 }
