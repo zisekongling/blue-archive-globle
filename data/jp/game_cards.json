@@ -1,0 +1,73 @@
+{
+  "crawl_time": "2026-02-17T02:12:23+08:00",
+  "pools": [
+    {
+      "title": "艾米（临战）",
+      "description": "艾米（临战）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/541508.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下8天7小时",
+      "start_time": null,
+      "end_time": "2026-02-25T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "柚子（临战）",
+      "description": "柚子（临战）",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/851339.png",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下8天7小时",
+      "start_time": null,
+      "end_time": "2026-02-25T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "艾米(泳装)",
+      "description": "艾米(泳装)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/1/655520.png",
+      "status": "已结束",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "已经有4天16小时未UP",
+      "start_time": null,
+      "end_time": "2026-02-12T10:00:00+08:00+08:00"
+    },
+    {
+      "title": "霞",
+      "description": "霞",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/1/943935.png",
+      "status": "已结束",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "已经有4天16小时未UP",
+      "start_time": null,
+      "end_time": "2026-02-12T10:00:00+08:00+08:00"
+    },
+    {
+      "title": "一花",
+      "description": "一花",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/1/294866.png",
+      "status": "已结束",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "已经有4天16小时未UP",
+      "start_time": null,
+      "end_time": "2026-02-12T10:00:00+08:00+08:00"
+    },
+    {
+      "title": "樱子",
+      "description": "樱子",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/1/809568.png",
+      "status": "已结束",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "已经有4天16小时未UP",
+      "start_time": null,
+      "end_time": "2026-02-12T10:00:00+08:00+08:00"
+    }
+  ]
+}

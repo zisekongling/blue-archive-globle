@@ -1,0 +1,100 @@
+{
+  "crawl_time": "2026-02-17T02:00:00+08:00",
+  "activities": [
+    {
+      "title": "【Normal关卡】2倍掉落",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/38566.png",
+      "progress": "1天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-02-18T02:00:00+08:00"
+    },
+    {
+      "title": "【联合作战】神名十文字·决战",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/1/11/325350.png",
+      "progress": "1天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-02-18T02:00:00+08:00"
+    },
+    {
+      "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_802/h_444/829/191981/2026/1/11/807705.png",
+      "progress": "29天后结束",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-18T02:00:00+08:00"
+    },
+    {
+      "title": "【账号经验值】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_793/h_444/829/191981/2026/1/11/741131.png",
+      "progress": "26.02.13-26.02.15",
+      "tags": [
+        "资源翻倍",
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【联合作战】钢铁大陆攻略战 -马尔库特战-",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/28/156254.jpg",
+      "progress": "26.01.29-26.02.12",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【特别依赖、学园交流会】掉落量3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/19/899118.jpg",
+      "progress": "26.02.04-26.02.11",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【登录奖励】5周年登录活动",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/19/54323.jpg",
+      "progress": "26.01.20-26.02.11",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【账号经验值】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/19/574764.jpg",
+      "progress": "26.02.06-26.02.08",
+      "tags": [
+        "资源翻倍",
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    }
+  ]
+}
