@@ -6,25 +6,29 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import json
-import os
-import logging
 import time
+import os
+import traceback
 import datetime
 import re
+import random
 
-# 配置日志
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    handlers=[logging.StreamHandler()]
-)
+# 随机用户代理（可选，增强反检测）
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/113.0.0.0 Safari/537.36",
+]
 
-# 定义活动类型映射规则
+def get_server_folder(server_id):
+    """根据服务器ID返回对应的文件夹名称"""
+    mapping = {"15": "jp", "16": "cn", "17": "intl"}
+    return mapping.get(server_id, "intl")  # 默认国际服
+
 def get_activity_types(title):
-    """根据活动标题获取类型列表"""
+    """根据活动标题推断类型（与原脚本保持一致）"""
     types = []
-    
-    # 规则匹配（注意顺序，确保优先匹配特定类型）
     if "2倍" in title or "3倍" in title:
         types.append("资源翻倍")
     if "登入活动" in title:
@@ -45,128 +49,88 @@ def get_activity_types(title):
         types.append("长草活动")
     if "复刻" in title:
         types.append("复刻")
-    
-    # 如果没有匹配到任何类型，添加默认类型
     if not types:
         types.append("其他")
-    
     return types
 
-def parse_time_range(progress_text, crawl_time_dt):
+def parse_time_delta(progress_text, status):
     """
-    解析时间范围字符串，返回开始和结束时间的ISO格式字符串
-    支持两种格式：
-    1. 相对时间："还剩下X天Y小时"
-    2. 绝对时间："YYYY/MM/DD-YYYY/MM/DD" 或 "YYYY/MM/DD HH:MM-YYYY/MM/DD HH:MM"
+    从进度文本解析时间增量（timedelta）
+    支持格式：
+      - "21天后结束"  -> 正 timedelta(days=21)
+      - "5天后开始"   -> 正 timedelta(days=5)
+      - "已结束3天"   -> 负 timedelta(days=3)
+      - "还剩下2天5小时" -> 正 timedelta(days=2, hours=5)
     """
-    # 处理相对时间格式（如"还剩下26天21小时"）
-    if "还剩下" in progress_text:
-        try:
-            # 提取天数和小时数
-            match = re.search(r'还剩下(\d+)天(\d+)小时', progress_text)
+    try:
+        days = 0
+        hours = 0
+        # 优先匹配“X天Y小时”
+        match = re.search(r'(\d+)天(\d+)小时', progress_text)
+        if match:
+            days = int(match.group(1))
+            hours = int(match.group(2))
+        else:
+            # 匹配单独的天数
+            match = re.search(r'(\d+)天', progress_text)
             if match:
                 days = int(match.group(1))
-                hours = int(match.group(2))
-                
-                # 计算结束时间
-                time_delta = datetime.timedelta(days=days, hours=hours)
-                end_time = crawl_time_dt + time_delta
-                
-                # 精确到小时
-                end_time = end_time.replace(minute=0, second=0, microsecond=0)
-                return None, end_time.isoformat()
-        except Exception as e:
-            logging.error(f"解析相对时间失败: {progress_text}, 错误: {str(e)}")
-            return None, None
-    
-    # 处理绝对时间格式
-    if "-" in progress_text:
-        try:
-            # 分割时间范围字符串
-            parts = progress_text.split("-")
-            if len(parts) == 2:
-                start_str, end_str = parts
-                
-                # 统一格式化日期字符串
-                start_str = start_str.strip().replace("/", "-")
-                end_str = end_str.strip().replace("/", "-")
-                
-                # 检查是否包含小时分钟信息
-                if ":" in start_str:
-                    # 包含小时分钟
-                    start_dt = datetime.datetime.strptime(start_str, "%Y-%m-%d %H:%M")
-                    end_dt = datetime.datetime.strptime(end_str, "%Y-%m-%d %H:%M")
-                else:
-                    # 仅包含日期，设置时间为0点
-                    start_dt = datetime.datetime.strptime(start_str, "%Y-%m-%d")
-                    end_dt = datetime.datetime.strptime(end_str, "%Y-%m-%d")
-                
-                # 添加UTC+8时区信息
-                tz = datetime.timezone(datetime.timedelta(hours=8))
-                start_dt = start_dt.replace(tzinfo=tz)
-                end_dt = end_dt.replace(tzinfo=tz)
-                
-                # 精确到小时
-                start_dt = start_dt.replace(minute=0, second=0, microsecond=0)
-                end_dt = end_dt.replace(minute=0, second=0, microsecond=0)
-                
-                return start_dt.isoformat(), end_dt.isoformat()
-        except Exception as e:
-            logging.error(f"解析绝对时间失败: {progress_text}, 错误: {str(e)}")
-            return None, None
-    
-    # 无法识别的格式
-    logging.warning(f"无法解析的时间格式: {progress_text}")
-    return None, None
+            # 匹配小时（可能没有天）
+            match = re.search(r'(\d+)小时', progress_text)
+            if match:
+                hours = int(match.group(1))
+        total_hours = days * 24 + hours
+        if total_hours == 0:
+            return None
+        if "已结束" in status:
+            return datetime.timedelta(hours=-total_hours)
+        else:
+            return datetime.timedelta(hours=total_hours)
+    except Exception as e:
+        print(f"时间解析错误: {progress_text} - {str(e)}")
+        return None
 
-def get_dynamic_cards():
+def get_dynamic_cards(server_id):
     try:
-        # GitHub Actions 环境设置
-        on_github = os.getenv("GITHUB_ACTIONS") == "true"
-        
-        # 配置浏览器选项 - 修改为Chrome
+        # 配置 Chrome 选项
         chrome_options = Options()
-        
-        if on_github:
-            logging.info("在 GitHub Actions 环境中运行")
+        # GitHub Actions 中使用无头模式
+        if os.getenv("GITHUB_ACTIONS") == "true":
             chrome_options.add_argument("--headless=new")
             chrome_options.add_argument("--disable-gpu")
-            chrome_options.add_argument("--disable-dev-shm-usage")
             chrome_options.add_argument("--no-sandbox")
-            chrome_options.add_argument("--disable-extensions")
-            chrome_options.add_argument("--remote-debugging-port=9222")
-            chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36")
-            
-            # 使用自动安装的Chrome驱动
-            driver = webdriver.Chrome(
-                service=Service(ChromeDriverManager().install()),
-                options=chrome_options
-            )
+            chrome_options.add_argument("--disable-dev-shm-usage")
         else:
-            logging.info("在本地环境中运行")
-            chrome_options.add_argument("--headless=new")
-            driver = webdriver.Chrome(
-                service=Service(ChromeDriverManager().install()),
-                options=chrome_options
-            )
+            # 本地使用有头模式（方便调试）
+            chrome_options.headless = False
 
-        # 初始化状态分类列表
-        ongoing_cards = []  # 进行中活动
-        upcoming_cards = []  # 未开启活动
-        ended_cards = []  # 已结束活动
-        
-        target_url = "https://www.gamekee.com/ba/huodong/17"  # 正确的活动URL
-        logging.info(f"访问目标页面: {target_url}")
-        driver.get(target_url)
-        
-        # 显式等待卡片加载
-        wait = WebDriverWait(driver, 25)
-        logging.info("等待卡片容器加载...")
-        wait.until(
-            EC.presence_of_element_located((By.CLASS_NAME, "card-item"))
+        # 可选随机 User-Agent
+        chrome_options.add_argument(f"user-agent={random.choice(USER_AGENTS)}")
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_experimental_option("useAutomationExtension", False)
+
+        # 自动管理 ChromeDriver
+        driver = webdriver.Chrome(
+            service=Service(ChromeDriverManager().install()),
+            options=chrome_options
         )
-        
-        # 滚动页面确保加载所有动态内容
+        # 移除 webdriver 特征
+        driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+            "source": "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+        })
+
+        target_url = f"https://www.gamekee.com/ba/huodong/{server_id}"
+        print(f"开始加载页面: {target_url}")
+        driver.get(target_url)
+
+        # 等待活动卡片加载（新结构类名 activity-item）
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "activity-item"))
+        )
+
+        # 模拟滚动到底部，确保所有动态内容加载
+        print("模拟滚动加载内容...")
         last_height = driver.execute_script("return document.body.scrollHeight")
         while True:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -175,115 +139,167 @@ def get_dynamic_cards():
             if new_height == last_height:
                 break
             last_height = new_height
-        time.sleep(2)  # 确保内容渲染完成
-        
-        # 获取所有卡片元素
-        cards = driver.find_elements(By.CLASS_NAME, "card-item")
-        logging.info(f"发现 {len(cards)} 个卡片元素")
-        
-        # 提取卡片数据
-        for card in cards:
+        time.sleep(3)  # 等待渲染
+
+        # 获取所有卡片
+        cards = driver.find_elements(By.CLASS_NAME, "activity-item")
+        print(f"找到 {len(cards)} 张活动卡片")
+
+        # 分类存储
+        ongoing = []    # 进行中
+        upcoming = []   # 未开始
+        ended = []      # 已结束
+
+        for i, card in enumerate(cards, 1):
             try:
-                # 图片元素
-                img_element = card.find_element(By.CSS_SELECTOR, ".left img.pic")
-                img_url = img_element.get_attribute("src")
-                
+                # 提取活动类型（页面上的小标签，如“爬塔”）
+                type_text = ""
+                try:
+                    type_elem = card.find_element(By.CSS_SELECTOR, ".activity-item_type")
+                    type_text = type_elem.text.strip()
+                except:
+                    pass
+
+                # 图片
+                img_url = ""
+                try:
+                    img_elem = card.find_element(By.CSS_SELECTOR, ".activity-item_img img")
+                    img_url = img_elem.get_attribute("src")
+                except:
+                    pass
+
                 # 标题
-                title = card.find_element(By.CSS_SELECTOR, ".right .title").text
-                
+                title = ""
+                try:
+                    title_elem = card.find_element(By.CSS_SELECTOR, ".activity-item_title")
+                    title = title_elem.text.strip()
+                except:
+                    continue  # 无标题则跳过
+
                 # 描述
-                desc_element = card.find_elements(By.CSS_SELECTOR, ".right .desc")
-                desc = desc_element[0].text if desc_element else ""
-                
+                desc = ""
+                try:
+                    desc_elem = card.find_element(By.CSS_SELECTOR, ".activity-item_description")
+                    desc = desc_elem.text.strip()
+                except:
+                    pass
+
                 # 状态
-                status_element = card.find_element(By.CSS_SELECTOR, ".status-txt")
-                current_status = status_element.text
-                
-                # 进度
-                progress_element = card.find_element(By.CSS_SELECTOR, ".progess-box .txt")
-                progress_text = progress_element.text
-                
-                # 获取活动类型
-                activity_types = get_activity_types(title)
-                
-                card_item = {
+                status = ""
+                try:
+                    status_elem = card.find_element(By.CSS_SELECTOR, ".activity-item_status")
+                    status = status_elem.text.strip()
+                except:
+                    continue
+
+                # 进度文本（如“21天后结束”）
+                progress = ""
+                try:
+                    progress_elem = card.find_element(By.CSS_SELECTOR, ".time")
+                    progress = progress_elem.text.strip()
+                except:
+                    pass
+
+                # 生成标签：标题规则标签 + 页面类型
+                tags = get_activity_types(title)
+                if type_text and type_text not in tags:
+                    tags.append(type_text)
+
+                card_data = {
                     "title": title,
                     "description": desc,
                     "image_url": img_url,
-                    "status": current_status,
-                    "progress": progress_text,
-                    "tags": activity_types  # 保留类型字段
+                    "status": status,
+                    "progress": progress,
+                    "tags": tags
                 }
-                
+
                 # 根据状态分类
-                if "进行中" in current_status:
-                    ongoing_cards.append(card_item)
-                elif "未开始" in current_status:
-                    upcoming_cards.append(card_item)
-                elif "已结束" in current_status:
-                    ended_cards.append(card_item)
-                
-            except Exception as card_err:
-                logging.error(f"卡片解析失败: {str(card_err)[:100]}")
+                if "进行中" in status:
+                    ongoing.append(card_data)
+                elif "未开始" in status:
+                    upcoming.append(card_data)
+                elif "已结束" in status:
+                    ended.append(card_data)
+
+                print(f"已解析卡片 {i}/{len(cards)} - 状态: {status}")
+            except Exception as e:
+                print(f"卡片解析错误: {str(e)[:100]}")
                 continue
-        
-        # 组合最终结果：所有进行中+未开启活动 + 最新的5个已结束活动
-        result_cards = ongoing_cards + upcoming_cards + ended_cards[:5]
-        
-        logging.info(f"活动统计: 进行中 {len(ongoing_cards)} 个, 未开启 {len(upcoming_cards)} 个, 已结束 {len(ended_cards)} 个")
-        logging.info(f"最终保留 {len(result_cards)} 张卡片信息")
-        return result_cards
-        
+
+        # 组合结果：全部进行中 + 全部未开始 + 最新的5个已结束
+        result = ongoing + upcoming + ended[:5]
+        print(f"活动统计: 进行中 {len(ongoing)} 个, 未开始 {len(upcoming)} 个, 已结束 {len(ended)} 个")
+        print(f"最终保留 {len(result)} 张卡片")
+        return result
+
     except Exception as e:
-        logging.error(f"爬取过程发生错误: {str(e)}")
+        print(f"爬取过程发生错误: {str(e)}")
+        traceback.print_exc()
         return []
     finally:
-        if driver:
+        if 'driver' in locals():
             driver.quit()
-            logging.info("浏览器已关闭")
+            print("浏览器已关闭")
 
 if __name__ == "__main__":
+    # 读取服务器ID（从环境变量，默认17国际服）
+    server_id = os.getenv("SERVER_ID", "17")
+    print(f"当前爬取服务器ID: {server_id}")
+
+    # 确定输出目录
+    folder = get_server_folder(server_id)
+    output_dir = os.path.join("data", folder)
+    os.makedirs(output_dir, exist_ok=True)
+
     # 执行爬取
-    results = get_dynamic_cards()
-    
-    # 添加爬取时间（当前时间+8小时），精确到小时
+    results = get_dynamic_cards(server_id)
+
+    # 获取当前东八区时间，精确到小时
     tz = datetime.timezone(datetime.timedelta(hours=8))
-    crawl_time_dt = datetime.datetime.now(tz)
-    crawl_time_dt = crawl_time_dt.replace(minute=0, second=0, microsecond=0)
-    crawl_time = crawl_time_dt.isoformat()
-    
-    # 处理卡片数据：添加时间字段，保留tags字段
-    processed_results = []
-    for card in results:
-        # 解析时间范围
-        start_time, end_time = parse_time_range(card["progress"], crawl_time_dt)
-        
-        # 创建新卡片对象，保留tags字段
-        new_card = {
-            "title": card["title"],
-            "description": card["description"],
-            "image_url": card["image_url"],
-            "progress": card["progress"],
-            "tags": card["tags"],  # 保留tags字段
+    crawl_dt = datetime.datetime.now(tz).replace(minute=0, second=0, microsecond=0)
+    crawl_time = crawl_dt.isoformat()
+
+    # 为每个活动计算开始/结束时间
+    processed = []
+    for act in results:
+        start_time = None
+        end_time = None
+        delta = parse_time_delta(act["progress"], act["status"])
+        if delta:
+            if "未开始" in act["status"]:
+                start_dt = crawl_dt + delta
+                start_time = start_dt.isoformat()
+            elif "进行中" in act["status"]:
+                end_dt = crawl_dt + delta
+                end_time = end_dt.isoformat()
+            elif "已结束" in act["status"]:
+                end_dt = crawl_dt + delta  # delta为负
+                end_time = end_dt.isoformat()
+
+        processed.append({
+            "title": act["title"],
+            "description": act["description"],
+            "image_url": act["image_url"],
+            "progress": act["progress"],
+            "tags": act["tags"],
             "start_time": start_time,
             "end_time": end_time
-        }
-        processed_results.append(new_card)
-    
-    # 构建最终输出结构
-    final_output = {
+        })
+
+    # 构建最终输出
+    output = {
         "crawl_time": crawl_time,
-        "activities": processed_results
+        "activities": processed
     }
-    
-    # 保存结果到JSON文件
-    output_dir = "data"
-    os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, "activity_cards.json")
-    
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(final_output, f, ensure_ascii=False, indent=2)
-    
-    logging.info(f"结果已保存至: {os.path.abspath(output_file)}")
-    if processed_results:
-        logging.info(f"第一张卡片: {processed_results[0]['title']} - 类型: {processed_results[0]['tags']} - 结束时间: {processed_results[0]['end_time']}")
+
+    # 保存JSON
+    out_file = os.path.join(output_dir, "activity_cards.json")
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"结果已保存至: {os.path.abspath(out_file)}")
+    print(f"爬取时间(东八区): {crawl_time}")
+    print(f"提取活动数量: {len(processed)}")
+    if processed:
+        print(f"第一个活动: {processed[0]['title']}")
