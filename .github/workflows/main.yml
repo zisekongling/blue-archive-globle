@@ -6,8 +6,7 @@ on:
   workflow_dispatch:      # 允许手动触发
   push:
     paths-ignore:
-      - 'data/game_cards.json'
-      - 'data/activity_cards.json'
+      - 'data/**'          # 忽略数据目录变更，避免循环触发
 
 jobs:
   update:
@@ -45,20 +44,40 @@ jobs:
     - name: Install Python packages
       run: pip install -r requirements.txt
         
-    - name: Run game cards scraper
-      run: python scraper.py
-      
-    - name: Run activity cards scraper
-      run: python activity.py
+    - name: Run scrapers for all servers
+      env:
+        SERVER_IDS: "15 16 17"
+      run: |
+        for id in 15 16 17; do
+          export SERVER_ID=$id
+          echo "========================================="
+          echo "Running scrapers for server ID: $SERVER_ID"
+          echo "========================================="
+          python scraper.py
+          python activity.py
+        done
       
     - name: Verify files exist
       run: |
-        if [ ! -f "data/game_cards.json" ]; then
-          echo '{"error": "game_cards.json not generated"}' > data/game_cards.json
-        fi
-        if [ ! -f "data/activity_cards.json" ]; then
-          echo '{"error": "activity_cards.json not generated"}' > data/activity_cards.json
-        fi
+        server_ids="15 16 17"
+        for id in $server_ids; do
+          # 映射文件夹名称
+          case $id in
+            15) code="jp" ;;
+            16) code="cn" ;;
+            17) code="intl" ;;
+            *) code="unknown" ;;
+          esac
+          mkdir -p data/$code
+          if [ ! -f "data/$code/game_cards.json" ]; then
+            echo '{"error": "game_cards.json not generated"}' > data/$code/game_cards.json
+            echo "Created error file for data/$code/game_cards.json"
+          fi
+          if [ ! -f "data/$code/activity_cards.json" ]; then
+            echo '{"error": "activity_cards.json not generated"}' > data/$code/activity_cards.json
+            echo "Created error file for data/$code/activity_cards.json"
+          fi
+        done
         echo "数据文件验证完成"
         
     - name: Commit and push changes
