@@ -12,6 +12,11 @@ import traceback
 import datetime
 import re
 
+def get_server_folder(server_id):
+    """根据服务器ID返回对应的文件夹名称"""
+    mapping = {"15": "jp", "16": "cn", "17": "intl"}
+    return mapping.get(server_id, "intl")  # 默认国际服
+
 def parse_time_delta(progress_text, status):
     """解析时间增量文本为timedelta对象"""
     # 匹配天和小时
@@ -29,7 +34,7 @@ def parse_time_delta(progress_text, status):
         return datetime.timedelta(hours=-total_hours)
     return None
 
-def get_dynamic_cards():
+def get_dynamic_cards(server_id):
     try:
         # 配置 Chrome 浏览器选项
         chrome_options = Options()
@@ -45,7 +50,7 @@ def get_dynamic_cards():
             options=chrome_options
         )
         
-        target_url = "https://www.gamekee.com/ba/kachi/17"
+        target_url = f"https://www.gamekee.com/ba/kachi/{server_id}"
         
         print("开始加载页面...")
         driver.get(target_url)
@@ -156,11 +161,17 @@ def get_dynamic_cards():
             print("浏览器已关闭")
 
 if __name__ == "__main__":
-    # 确保数据目录存在
-    os.makedirs("data", exist_ok=True)
-    
+    # 读取服务器ID（从环境变量，默认17国际服）
+    server_id = os.getenv("SERVER_ID", "17")
+    print(f"当前爬取服务器ID: {server_id}")
+
+    # 确定输出目录
+    folder = get_server_folder(server_id)
+    output_dir = os.path.join("data", folder)
+    os.makedirs(output_dir, exist_ok=True)
+
     # 执行爬取
-    results = get_dynamic_cards()
+    results = get_dynamic_cards(server_id)
     
     # 获取当前时间并转换为东八区时间（UTC+8）
     utc_now = datetime.datetime.utcnow()
@@ -195,7 +206,7 @@ if __name__ == "__main__":
     }
     
     # 保存结果
-    output_file = "data/game_cards.json"
+    output_file = os.path.join(output_dir, "game_cards.json")
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     
