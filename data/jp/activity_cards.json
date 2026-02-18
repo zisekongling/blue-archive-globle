@@ -1,41 +1,53 @@
 {
-  "crawl_time": "2026-02-17T09:00:00+08:00",
+  "crawl_time": "2026-02-18T09:00:00+08:00",
   "activities": [
-    {
-      "title": "【Normal关卡】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/38566.png",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-02-18T02:00:00+08:00"
-    },
     {
       "title": "【联合作战】神名十文字·决战",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/1/11/325350.png",
-      "progress": "1天后结束",
+      "progress": "16分钟后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-02-18T09:00:00+08:00"
+      "end_time": null
+    },
+    {
+      "title": "【指名手配】2倍掉落",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/324187.png",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-02-24T09:00:00+08:00"
     },
     {
       "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_802/h_444/829/191981/2026/1/11/807705.png",
-      "progress": "28天后结束",
+      "progress": "27天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-03-17T09:00:00+08:00"
+    },
+    {
+      "title": "【Normal关卡】2倍掉落",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/38566.png",
+      "progress": "26.02.11-26.02.17",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【账号经验值】2倍",
@@ -79,18 +91,6 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/19/54323.jpg",
       "progress": "26.01.20-26.02.11",
       "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【账号经验值】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/19/574764.jpg",
-      "progress": "26.02.06-26.02.08",
-      "tags": [
-        "资源翻倍",
         "其他"
       ],
       "start_time": null,
