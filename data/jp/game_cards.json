@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-02-19T09:43:05+08:00",
+  "crawl_time": "2026-02-20T09:26:32+08:00",
   "pools": [
     {
       "title": "艾米（临战）",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/541508.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-02-25T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/851339.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-02-25T09:00:00+08:00+08:00"
     },
@@ -29,7 +29,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有7天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     },
@@ -41,7 +41,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有7天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     },
@@ -53,7 +53,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有7天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     },
@@ -65,7 +65,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有7天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     }
