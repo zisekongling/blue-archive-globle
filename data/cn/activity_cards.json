@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-02-20T09:00:00+08:00",
+  "crawl_time": "2026-02-21T09:00:00+08:00",
   "activities": [
-    {
-      "title": "大决战 - 格兹（野外战）",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/830879.jpg",
-      "progress": "18小时后结束",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-02-21T03:00:00+08:00"
-    },
     {
       "title": "【普通难度任务】3倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/363921.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +17,7 @@
       "title": "【日程】3倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/275668.jpg",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -41,7 +29,7 @@
       "title": "限时网页活动【玄龙共舞，携友同行】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/842492.jpg",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他"
       ],
@@ -49,13 +37,12 @@
       "end_time": "2026-02-27T09:00:00+08:00"
     },
     {
-      "title": "情人节的特别约定",
+      "title": "限时网页活动【鼓乐鸣，钟鼎盛】",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/649991.jpg",
-      "progress": "8天后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/723945.jpg",
+      "progress": "7天后结束",
       "tags": [
-        "其他",
-        "活动"
+        "其他"
       ],
       "start_time": null,
       "end_time": "2026-02-28T09:00:00+08:00"
@@ -64,7 +51,7 @@
       "title": "五尘降临",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/175462.jpg",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他",
         "活动"
@@ -73,12 +60,13 @@
       "end_time": "2026-02-28T09:00:00+08:00"
     },
     {
-      "title": "限时网页活动【鼓乐鸣，钟鼎盛】",
+      "title": "情人节的特别约定",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/723945.jpg",
-      "progress": "8天后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/649991.jpg",
+      "progress": "7天后结束",
       "tags": [
-        "其他"
+        "其他",
+        "活动"
       ],
       "start_time": null,
       "end_time": "2026-02-28T09:00:00+08:00"
@@ -87,13 +75,25 @@
       "title": "无限制决战【赛特之怒 • 特殊装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/399789/2026/1/4/567056.webp",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-03-04T09:00:00+08:00"
+    },
+    {
+      "title": "大决战 - 格兹（野外战）",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/830879.jpg",
+      "progress": "26.02.14-26.02.20",
+      "tags": [
+        "大决战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【签到活动】向绿洲出发纪念签到",
@@ -125,17 +125,6 @@
       "progress": "26.02.13-26.02.15",
       "tags": [
         "资源翻倍",
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "100次免费招募",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/260894.jpg",
-      "progress": "26.02.05-26.02.14",
-      "tags": [
         "其他"
       ],
       "start_time": null,

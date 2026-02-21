@@ -1,11 +1,23 @@
 {
-  "crawl_time": "2026-02-20T09:00:00+08:00",
+  "crawl_time": "2026-02-21T09:00:00+08:00",
   "activities": [
+    {
+      "title": "【账号经验值】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_793/h_444/829/191981/2026/1/11/113564.png",
+      "progress": "2天后结束",
+      "tags": [
+        "资源翻倍",
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": "2026-02-23T09:00:00+08:00"
+    },
     {
       "title": "【指名手配】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/324187.png",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +29,7 @@
       "title": "总力战 S86 - 比纳(室外战)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_797/h_446/829/191981/2026/1/11/454070.png",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "总力战",
         "总力大决"
@@ -29,7 +41,7 @@
       "title": "【活动】情人节的约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_796/h_446/829/191981/2026/1/11/877172.png",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,7 +53,7 @@
       "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_802/h_444/829/191981/2026/1/11/807705.png",
-      "progress": "25天后结束",
+      "progress": "24天后结束",
       "tags": [
         "其他",
         "爬塔"
