@@ -1,23 +1,23 @@
 {
-  "crawl_time": "2026-02-21T09:00:00+08:00",
+  "crawl_time": "2026-02-22T09:00:00+08:00",
   "activities": [
     {
       "title": "【普通难度任务】3倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/363921.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-02-22T09:00:00+08:00"
+      "end_time": "2026-02-23T03:00:00+08:00"
     },
     {
       "title": "【日程】3倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/275668.jpg",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -26,10 +26,22 @@
       "end_time": "2026-02-25T09:00:00+08:00"
     },
     {
+      "title": "综合战术测试 - 射击·重装甲",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/4/310266.jpg",
+      "progress": "5天后结束",
+      "tags": [
+        "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-02-27T09:00:00+08:00"
+    },
+    {
       "title": "限时网页活动【玄龙共舞，携友同行】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/842492.jpg",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +52,7 @@
       "title": "限时网页活动【鼓乐鸣，钟鼎盛】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/723945.jpg",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他"
       ],
@@ -51,7 +63,7 @@
       "title": "五尘降临",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/175462.jpg",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -63,7 +75,7 @@
       "title": "情人节的特别约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/649991.jpg",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -75,7 +87,7 @@
       "title": "无限制决战【赛特之怒 • 特殊装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/399789/2026/1/4/567056.webp",
-      "progress": "11天后结束",
+      "progress": "10天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -131,13 +143,12 @@
       "end_time": null
     },
     {
-      "title": "【活动】Sheside Outside",
+      "title": "100次免费招募",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/399789/2026/0/27/70399.png",
-      "progress": "26.01.29-26.02.14",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/260894.jpg",
+      "progress": "26.02.05-26.02.14",
       "tags": [
-        "其他",
-        "活动"
+        "其他"
       ],
       "start_time": null,
       "end_time": null

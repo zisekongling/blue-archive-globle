@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-02-21T09:26:37+08:00",
+  "crawl_time": "2026-02-22T09:43:07+08:00",
   "pools": [
     {
       "title": "美代",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/450834.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-02-24T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/780098.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-02-24T09:00:00+08:00+08:00"
     },
@@ -29,7 +29,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3天0小时",
+      "progress": "UP还剩下2天0小时",
       "start_time": null,
       "end_time": "2026-02-24T09:00:00+08:00+08:00"
     },
@@ -42,7 +42,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-10T10:00:00+08:00+08:00"
     },
@@ -54,7 +54,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-10T10:00:00+08:00+08:00"
     },
@@ -66,7 +66,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-10T10:00:00+08:00+08:00"
     },
@@ -79,7 +79,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-10T10:00:00+08:00+08:00"
     },
@@ -92,7 +92,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-10T10:00:00+08:00+08:00"
     },
@@ -105,7 +105,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有10天23小时未UP",
+      "progress": "已经有11天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-10T10:00:00+08:00+08:00"
     }
