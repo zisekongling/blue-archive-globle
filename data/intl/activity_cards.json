@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-02-22T09:00:00+08:00",
+  "crawl_time": "2026-02-23T09:00:00+08:00",
   "activities": [
-    {
-      "title": "【账号经验值】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_772/h_434/829/191981/2026/1/15/187463.png",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-02-23T02:00:00+08:00"
-    },
     {
       "title": "为了谁的艺术 虚伪装饰的绘画与美学的去向",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_169/829/191981/2026/1/9/635715.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "其他",
         "活动"
@@ -29,7 +17,7 @@
       "title": "總力戰 – 葛夫拉(野戰)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_771/h_430/829/191981/2026/1/9/524931.png",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "其他",
         "总力大决"
@@ -41,7 +29,7 @@
       "title": "[官方網頁活動] 尋找隱藏的種子！",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/191981/2026/1/9/405035.png",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他"
       ],
@@ -52,13 +40,25 @@
       "title": "賽特的憤怒(特殊裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/1/9/472556.png",
-      "progress": "15天后结束",
+      "progress": "14天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-03-09T09:00:00+08:00"
+    },
+    {
+      "title": "【账号经验值】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_772/h_434/829/191981/2026/1/15/187463.png",
+      "progress": "26.02.20-26.02.22",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "懸賞&交流會2倍活動",
@@ -104,18 +104,6 @@
       "tags": [
         "大决战",
         "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【特别依赖】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/399789/2026/0/27/312664.jpeg",
-      "progress": "26.02.02-26.02.09",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
