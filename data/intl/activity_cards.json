@@ -1,35 +1,59 @@
 {
-  "crawl_time": "2026-02-23T09:00:00+08:00",
+  "crawl_time": "2026-02-24T09:00:00+08:00",
   "activities": [
     {
       "title": "为了谁的艺术 虚伪装饰的绘画与美学的去向",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_169/829/191981/2026/1/9/635715.jpg",
-      "progress": "1天后结束",
+      "progress": "29分钟后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-02-24T09:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "總力戰 – 葛夫拉(野戰)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_771/h_430/829/191981/2026/1/9/524931.png",
-      "progress": "1天后结束",
+      "progress": "30分钟后结束",
       "tags": [
         "其他",
         "总力大决"
       ],
       "start_time": null,
-      "end_time": "2026-02-24T09:00:00+08:00"
+      "end_time": null
+    },
+    {
+      "title": "【任务(Hard)】2倍掉落",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/399789/2026/1/23/221947.jpeg",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-02T09:00:00+08:00"
+    },
+    {
+      "title": "【日程表】2倍掉落",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/399789/2026/1/23/353471.png",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-02T09:00:00+08:00"
     },
     {
       "title": "[官方網頁活動] 尋找隱藏的種子！",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/191981/2026/1/9/405035.png",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +64,7 @@
       "title": "賽特的憤怒(特殊裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/1/9/472556.png",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "爬塔"

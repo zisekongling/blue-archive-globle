@@ -1,35 +1,23 @@
 {
-  "crawl_time": "2026-02-23T09:00:00+08:00",
+  "crawl_time": "2026-02-24T09:00:00+08:00",
   "activities": [
-    {
-      "title": "【账号经验值】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_793/h_444/829/191981/2026/1/11/113564.png",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": "2026-02-24T02:00:00+08:00"
-    },
     {
       "title": "【指名手配】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/324187.png",
-      "progress": "1天后结束",
+      "progress": "17小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-02-24T09:00:00+08:00"
+      "end_time": "2026-02-25T02:00:00+08:00"
     },
     {
       "title": "总力战 S86 - 比纳(室外战)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_797/h_446/829/191981/2026/1/11/454070.png",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "总力战",
         "总力大决"
@@ -41,7 +29,7 @@
       "title": "【活动】情人节的约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_796/h_446/829/191981/2026/1/11/877172.png",
-      "progress": "9天后结束",
+      "progress": "8天后结束",
       "tags": [
         "其他",
         "活动"
@@ -53,13 +41,25 @@
       "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_802/h_444/829/191981/2026/1/11/807705.png",
-      "progress": "22天后结束",
+      "progress": "21天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-03-17T09:00:00+08:00"
+    },
+    {
+      "title": "【账号经验值】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_793/h_444/829/191981/2026/1/11/113564.png",
+      "progress": "26.02.20-26.02.23",
+      "tags": [
+        "资源翻倍",
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【联合作战】神名十文字·决战",
@@ -105,18 +105,6 @@
       "tags": [
         "其他",
         "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【特别依赖、学园交流会】掉落量3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/399789/2026/0/19/899118.jpg",
-      "progress": "26.02.04-26.02.11",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
