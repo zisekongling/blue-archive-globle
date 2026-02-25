@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-02-24T09:27:56+08:00",
+  "crawl_time": "2026-02-25T09:42:08+08:00",
   "pools": [
     {
       "title": "晴奈(正月)",
@@ -10,7 +10,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "8天0小时后开始UP",
+      "progress": "7天0小时后开始UP",
       "start_time": "2026-03-04T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -23,8 +23,57 @@
         "限定",
         "复刻"
       ],
-      "progress": "8天0小时后开始UP",
+      "progress": "7天0小时后开始UP",
       "start_time": "2026-03-04T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "桃井(女仆)",
+      "description": "桃井(女仆)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/24/13554.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "18分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "绿(女仆)",
+      "description": "绿(女仆)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/24/494311.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "18分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "爱丽丝(女仆)",
+      "description": "爱丽丝(女仆)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/24/391327.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "18分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "佳代子(正月)",
+      "description": "佳代子(正月)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/24/768422.png",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "18分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -33,9 +82,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/541508.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下18分钟",
       "start_time": null,
-      "end_time": "2026-02-25T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "柚子(临战)",
@@ -43,9 +92,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/851339.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下17分钟",
       "start_time": null,
-      "end_time": "2026-02-25T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "艾米(泳装)",
@@ -55,7 +104,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     },
@@ -67,7 +116,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     },
@@ -79,7 +128,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     },
@@ -91,7 +140,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-12T10:00:00+08:00+08:00"
     }
