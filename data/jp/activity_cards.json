@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-02-25T09:00:00+08:00",
+  "crawl_time": "2026-02-26T09:00:00+08:00",
   "activities": [
-    {
-      "title": "总力战 S86 - 比纳(室外战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_797/h_446/829/191981/2026/1/11/454070.png",
-      "progress": "17分钟后结束",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
     {
       "title": "【特别依赖】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/385019.png",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +17,7 @@
       "title": "【活动】情人节的约定",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_796/h_446/829/191981/2026/1/11/877172.png",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -38,16 +26,40 @@
       "end_time": "2026-03-04T09:00:00+08:00"
     },
     {
+      "title": "合同火力演习 S49 - 射击演习(市街/轻装甲)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_799/h_447/829/191981/2026/1/11/465021.png",
+      "progress": "6天后结束",
+      "tags": [
+        "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-04T09:00:00+08:00"
+    },
+    {
       "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_802/h_444/829/191981/2026/1/11/807705.png",
-      "progress": "20天后结束",
+      "progress": "19天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-03-17T09:00:00+08:00"
+    },
+    {
+      "title": "总力战 S86 - 比纳(室外战)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_797/h_446/829/191981/2026/1/11/454070.png",
+      "progress": "26.02.18-26.02.25",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【指名手配】2倍掉落",
@@ -93,18 +105,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【账号经验值】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_793/h_444/829/191981/2026/1/11/741131.png",
-      "progress": "26.02.13-26.02.15",
-      "tags": [
-        "资源翻倍",
-        "其他"
       ],
       "start_time": null,
       "end_time": null

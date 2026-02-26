@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-02-25T09:00:00+08:00",
+  "crawl_time": "2026-02-26T09:00:00+08:00",
   "activities": [
     {
       "title": "【日程表】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/399789/2026/1/23/353471.png",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "【任务(Hard)】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/399789/2026/1/23/221947.jpeg",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "[官方網頁活動] 尋找隱藏的種子！",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/191981/2026/1/9/405035.png",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +40,7 @@
       "title": "合同火力演习 S44 - 防御演习",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/399789/2026/1/23/943373.jpeg",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "战术测试"
@@ -52,7 +52,7 @@
       "title": "賽特的憤怒(特殊裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/1/9/472556.png",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "爬塔"
