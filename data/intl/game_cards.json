@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-02-26T09:28:43+08:00",
+  "crawl_time": "2026-02-27T09:26:36+08:00",
   "pools": [
     {
       "title": "日奈(泳装)",
@@ -10,7 +10,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "5天0小时后开始UP",
+      "progress": "4天0小时后开始UP",
       "start_time": "2026-03-03T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -23,7 +23,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "5天0小时后开始UP",
+      "progress": "4天0小时后开始UP",
       "start_time": "2026-03-03T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -35,7 +35,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "5天0小时后开始UP",
+      "progress": "4天0小时后开始UP",
       "start_time": "2026-03-03T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -47,7 +47,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-03-03T09:00:00+08:00+08:00"
     },
@@ -59,7 +59,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-03-03T09:00:00+08:00+08:00"
     },
@@ -69,7 +69,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/895801.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下5天0小时",
+      "progress": "UP还剩下4天0小时",
       "start_time": null,
       "end_time": "2026-03-03T09:00:00+08:00+08:00"
     },
@@ -79,7 +79,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/450834.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-24T10:00:00+08:00+08:00"
     },
@@ -89,7 +89,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/780098.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-24T10:00:00+08:00+08:00"
     },
@@ -101,7 +101,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有1天23小时未UP",
+      "progress": "已经有2天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-24T10:00:00+08:00+08:00"
     }
