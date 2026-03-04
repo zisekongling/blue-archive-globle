@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-03-03T09:30:04+08:00",
+  "crawl_time": "2026-03-04T09:25:19+08:00",
   "pools": [
     {
       "title": "晴奈(正月)",
@@ -10,8 +10,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-04T09:00:00+08:00+08:00",
+      "progress": "35分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -23,8 +23,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-04T09:00:00+08:00+08:00",
+      "progress": "35分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -35,9 +35,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-04T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "绿(女仆)",
@@ -47,9 +47,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-04T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "爱丽丝(女仆)",
@@ -59,9 +59,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-04T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "佳代子(正月)",
@@ -72,9 +72,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-04T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "艾米(临战)",
@@ -82,7 +82,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/541508.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-25T10:00:00+08:00+08:00"
     },
@@ -92,7 +92,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/13/851339.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-02-25T10:00:00+08:00+08:00"
     }

@@ -1,109 +1,77 @@
 {
-  "crawl_time": "2026-03-03T09:31:28+08:00",
+  "crawl_time": "2026-03-04T09:27:11+08:00",
   "pools": [
     {
       "title": "日奈(泳装)",
       "description": "日奈(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/264364.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "28分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-10T09:00:00+08:00+08:00"
     },
     {
       "title": "伊织(泳装)",
       "description": "伊织(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/930654.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "28分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-10T09:00:00+08:00+08:00"
     },
     {
       "title": "三森(泳装)",
       "description": "三森(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/1/23/997329.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "28分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-10T09:00:00+08:00+08:00"
     },
     {
       "title": "美游",
       "description": "美游",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/468896.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下27分钟",
+      "progress": "已经有23小时27分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-03T10:00:00+08:00+08:00"
     },
     {
       "title": "时雨",
       "description": "时雨",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/715693.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下27分钟",
+      "progress": "已经有23小时27分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-03T10:00:00+08:00+08:00"
     },
     {
       "title": "律",
       "description": "律",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/895801.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下27分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "美代",
-      "description": "美代",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/450834.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有23小时27分钟未UP",
       "start_time": null,
-      "end_time": "2026-02-24T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "冬",
-      "description": "冬",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/780098.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-02-24T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "皋月",
-      "description": "皋月",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/1/9/701075.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-02-24T10:00:00+08:00+08:00"
+      "end_time": "2026-03-03T10:00:00+08:00+08:00"
     }
   ]
 }
