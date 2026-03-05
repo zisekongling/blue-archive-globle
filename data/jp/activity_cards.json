@@ -1,35 +1,23 @@
 {
-  "crawl_time": "2026-03-04T09:00:00+08:00",
+  "crawl_time": "2026-03-05T09:00:00+08:00",
   "activities": [
     {
-      "title": "合同火力演习 S49 - 射击演习(市街/轻装甲)",
+      "title": "大决战 S31 - 希罗尼穆斯(市街地战)",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_799/h_447/829/191981/2026/1/11/465021.png",
-      "progress": "34分钟后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/399789/2026/2/4/36867.webp",
+      "progress": "5天后结束",
       "tags": [
-        "其他",
-        "战术测试"
+        "大决战",
+        "总力大决"
       ],
       "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【活动】情人节的约定",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_796/h_446/829/191981/2026/1/11/877172.png",
-      "progress": "34分钟后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-10T09:00:00+08:00"
     },
     {
       "title": "【学园交流会】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/226702.png",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -41,13 +29,49 @@
       "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_802/h_444/829/191981/2026/1/11/807705.png",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-03-17T09:00:00+08:00"
+    },
+    {
+      "title": "【复刻活动】秘密午夜派对 ～鬼手与钟声同响～",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/399789/2026/2/4/477256.webp",
+      "progress": "13天后结束",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-18T09:00:00+08:00"
+    },
+    {
+      "title": "合同火力演习 S49 - 射击演习(市街/轻装甲)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_799/h_447/829/191981/2026/1/11/465021.png",
+      "progress": "26.02.25-26.03.04",
+      "tags": [
+        "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【活动】情人节的约定",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_796/h_446/829/191981/2026/1/11/877172.png",
+      "progress": "26.02.18-26.03.04",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【特别依赖】2倍掉落",
@@ -81,30 +105,6 @@
       "tags": [
         "总力战",
         "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【指名手配】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_798/h_443/829/191981/2026/1/11/324187.png",
-      "progress": "26.02.17-26.02.24",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【账号经验值】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_793/h_444/829/191981/2026/1/11/113564.png",
-      "progress": "26.02.20-26.02.23",
-      "tags": [
-        "资源翻倍",
-        "其他"
       ],
       "start_time": null,
       "end_time": null
