@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-03-05T09:00:00+08:00",
+  "crawl_time": "2026-03-06T09:00:00+08:00",
   "activities": [
     {
       "title": "任务（普通难度）道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/187179.jpg",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -14,10 +14,22 @@
       "end_time": "2026-03-08T09:00:00+08:00"
     },
     {
+      "title": "[复刻活动]夏日特别行动！RABBIT小队与虾的消失之谜",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/555239.jpg",
+      "progress": "6天后结束",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-12T09:00:00+08:00"
+    },
+    {
       "title": "沙勒总决算",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/689268.jpg",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他"
       ],
