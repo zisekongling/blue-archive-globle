@@ -1,23 +1,23 @@
 {
-  "crawl_time": "2026-03-07T09:00:00+08:00",
+  "crawl_time": "2026-03-08T09:00:00+08:00",
   "activities": [
     {
       "title": "任务（普通难度）道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/187179.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-03-08T09:00:00+08:00"
+      "end_time": "2026-03-09T03:00:00+08:00"
     },
     {
       "title": "[复刻活动]夏日特别行动！RABBIT小队与虾的消失之谜",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/555239.jpg",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "复刻",
         "活动"
@@ -29,7 +29,7 @@
       "title": "沙勒总决算",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/689268.jpg",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +40,7 @@
       "title": "[无限制决战]赛特之怒 • 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/261433.jpg",
-      "progress": "18天后结束",
+      "progress": "17天后结束",
       "tags": [
         "其他",
         "爬塔"
