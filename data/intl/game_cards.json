@@ -1,6 +1,30 @@
 {
-  "crawl_time": "2026-03-09T09:30:20+08:00",
+  "crawl_time": "2026-03-10T09:25:02+08:00",
   "pools": [
+    {
+      "title": "铃美(魔法少女)",
+      "description": "铃美(魔法少女)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/9/927996.webp",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "35分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "澪纱(魔法少女)",
+      "description": "澪纱(魔法少女)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/9/748461.webp",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "35分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "日奈(泳装)",
       "description": "日奈(泳装)",
@@ -10,9 +34,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-10T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "伊织(泳装)",
@@ -23,9 +47,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-10T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "三森(泳装)",
@@ -35,9 +59,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下34分钟",
       "start_time": null,
-      "end_time": "2026-03-10T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "美游",
@@ -47,7 +71,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-03T10:00:00+08:00+08:00"
     },
@@ -59,7 +83,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-03T10:00:00+08:00+08:00"
     },
@@ -69,7 +93,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/895801.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-03T10:00:00+08:00+08:00"
     }
