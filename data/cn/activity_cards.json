@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-03-12T09:00:00+08:00",
+  "crawl_time": "2026-03-13T09:00:00+08:00",
   "activities": [
-    {
-      "title": "[复刻活动]夏日特别行动！RABBIT小队与虾的消失之谜",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/555239.jpg",
-      "progress": "4小时后结束",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-03-12T13:00:00+08:00"
-    },
     {
       "title": "悬赏通缉、日程、学院交流会-道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/694089.jpg",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -26,10 +14,22 @@
       "end_time": "2026-03-18T09:00:00+08:00"
     },
     {
+      "title": "[综合战术测试]防御 · 轻装甲",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/741580.jpg",
+      "progress": "5天后结束",
+      "tags": [
+        "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-18T09:00:00+08:00"
+    },
+    {
       "title": "沙勒总决算",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/689268.jpg",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +40,7 @@
       "title": "[无限制决战]赛特之怒 • 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/261433.jpg",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -49,13 +49,25 @@
       "end_time": "2026-03-25T09:00:00+08:00"
     },
     {
-      "title": "任务（困难难度）道具掉落量2倍",
+      "title": "[复刻活动]寻找隐藏的遗产~崔尼蒂的课外活动~",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/840921.jpg",
-      "progress": "26.03.08-26.03.11",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/386346.jpg",
+      "progress": "13天后结束",
       "tags": [
-        "资源翻倍",
-        "多倍活动"
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-26T09:00:00+08:00"
+    },
+    {
+      "title": "[复刻活动]夏日特别行动！RABBIT小队与虾的消失之谜",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/555239.jpg",
+      "progress": "26.03.05-26.03.12",
+      "tags": [
+        "复刻",
+        "活动"
       ],
       "start_time": null,
       "end_time": null
@@ -73,6 +85,18 @@
       "end_time": null
     },
     {
+      "title": "任务（困难难度）道具掉落量2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/840921.jpg",
+      "progress": "26.03.08-26.03.11",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
       "title": "任务（普通难度）道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/187179.jpg",
@@ -85,25 +109,13 @@
       "end_time": null
     },
     {
-      "title": "【特别委托】3倍掉落",
+      "title": "紧急总力战 - 回转 FXMk.0·街区战",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/4/441018.jpg",
-      "progress": "26.02.25-26.03.04",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/4/944768.jpg",
+      "progress": "26.02.28-26.03.04",
       "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "无限制决战【赛特之怒 • 特殊装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1192/h_671/829/399789/2026/1/4/567056.webp",
-      "progress": "26.02.08-26.03.04",
-      "tags": [
-        "其他",
-        "爬塔"
+        "总力战",
+        "总力大决"
       ],
       "start_time": null,
       "end_time": null
