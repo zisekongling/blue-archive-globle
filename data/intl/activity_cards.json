@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-03-17T09:00:00+08:00",
+  "crawl_time": "2026-03-18T09:00:00+08:00",
   "activities": [
     {
       "title": "【特别依赖】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/2/9/479718.webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -14,10 +14,22 @@
       "end_time": "2026-03-23T09:00:00+08:00"
     },
     {
+      "title": "总力战 – 耶索德(城镇战)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_794/h_441/829/191981/2026/2/9/626856.png",
+      "progress": "5天后结束",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-23T09:00:00+08:00"
+    },
+    {
       "title": "魔法少女Heavy Caliber﻿ ﻿～艾拉的野心与正义的资格～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_168/829/191981/2026/2/9/340557.webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -29,7 +41,7 @@
       "title": "制約解除決戰-﻿提法瑞特(彈力裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_794/h_444/829/191981/2026/2/9/812823.png",
-      "progress": "20天后结束",
+      "progress": "19天后结束",
       "tags": [
         "其他",
         "爬塔"

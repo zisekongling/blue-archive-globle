@@ -1,35 +1,35 @@
 {
-  "crawl_time": "2026-03-17T09:00:00+08:00",
+  "crawl_time": "2026-03-18T09:00:00+08:00",
   "activities": [
     {
       "title": "悬赏通缉、日程、学院交流会-道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/694089.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-03-18T09:00:00+08:00"
+      "end_time": "2026-03-19T03:00:00+08:00"
     },
     {
       "title": "[综合战术测试]防御 · 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/741580.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "其他",
         "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-03-18T09:00:00+08:00"
+      "end_time": "2026-03-19T03:00:00+08:00"
     },
     {
       "title": "沙勒总决算",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/689268.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +40,7 @@
       "title": "[无限制决战]赛特之怒 • 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/261433.jpg",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -52,7 +52,7 @@
       "title": "[复刻活动]寻找隐藏的遗产~崔尼蒂的课外活动~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/386346.jpg",
-      "progress": "9天后结束",
+      "progress": "8天后结束",
       "tags": [
         "复刻",
         "活动"
