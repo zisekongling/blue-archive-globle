@@ -1,29 +1,41 @@
 {
-  "crawl_time": "2026-03-18T09:00:00+08:00",
+  "crawl_time": "2026-03-19T09:00:00+08:00",
   "activities": [
-    {
-      "title": "【复刻活动】秘密午夜派对 ～鬼手与钟声同响～",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/399789/2026/2/4/477256.webp",
-      "progress": "13分钟后结束",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
     {
       "title": "【指名手配】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/17/373548.png",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
       "end_time": "2026-03-24T09:00:00+08:00"
+    },
+    {
+      "title": "基沃托斯·未确认之谜 ～驱邪之槌蛇大调查～",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/17/271078.jpg",
+      "progress": "13天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-04-01T09:00:00+08:00"
+    },
+    {
+      "title": "【复刻活动】秘密午夜派对 ～鬼手与钟声同响～",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/399789/2026/2/4/477256.webp",
+      "progress": "26.03.04-26.03.18",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "制约解除作战 - 赛特的愤怒（特殊装甲）",
@@ -69,18 +81,6 @@
       "tags": [
         "大决战",
         "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "合同火力演习 S49 - 射击演习(市街/轻装甲)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_799/h_447/829/191981/2026/1/11/465021.png",
-      "progress": "26.02.25-26.03.04",
-      "tags": [
-        "其他",
-        "战术测试"
       ],
       "start_time": null,
       "end_time": null
