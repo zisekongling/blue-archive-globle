@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-03-24T09:00:00+08:00",
+  "crawl_time": "2026-03-25T09:00:00+08:00",
   "activities": [
-    {
-      "title": "魔法少女Heavy Caliber﻿ ﻿～艾拉的野心与正义的资格～",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_168/829/191981/2026/2/9/340557.webp",
-      "progress": "32分钟后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
     {
       "title": "交流會2倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/2/24/739727.webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +17,7 @@
       "title": "【日程表】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/2/24/669767.webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -38,16 +26,52 @@
       "end_time": "2026-03-30T09:00:00+08:00"
     },
     {
+      "title": "综合战术考试(护卫考试)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/2/24/151375.webp",
+      "progress": "6天后结束",
+      "tags": [
+        "考试",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-31T09:00:00+08:00"
+    },
+    {
+      "title": "月华梦骚 -复刻-",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/191981/2026/2/24/304835.webp",
+      "progress": "6天后结束",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-31T09:00:00+08:00"
+    },
+    {
       "title": "制約解除決戰-﻿提法瑞特(彈力裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_794/h_444/829/191981/2026/2/9/812823.png",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-04-06T09:00:00+08:00"
+    },
+    {
+      "title": "魔法少女Heavy Caliber﻿ ﻿～艾拉的野心与正义的资格～",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_168/829/191981/2026/2/9/340557.webp",
+      "progress": "26.03.10-26.03.24",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【特别依赖】2倍掉落",
@@ -90,18 +114,6 @@
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/2/9/34301.webp",
       "progress": "26.03.09-26.03.16",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【账号经验值】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/2/9/587452.webp",
-      "progress": "26.03.13-26.03.15",
       "tags": [
         "资源翻倍",
         "多倍活动"

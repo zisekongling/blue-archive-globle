@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-03-24T09:27:50+08:00",
+  "crawl_time": "2026-03-25T09:45:30+08:00",
   "pools": [
     {
       "title": "忧(泳装)",
@@ -10,7 +10,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -20,7 +20,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/234508.webp",
       "status": "将开始",
       "tags": [],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -32,7 +32,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -44,7 +44,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -57,7 +57,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "7天0小时后开始UP",
+      "progress": "6天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -65,123 +65,85 @@
       "title": "玛丽娜(旗袍)",
       "description": "玛丽娜(旗袍)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/951954.webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "32分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
     {
       "title": "智惠(旗袍)",
       "description": "智惠(旗袍)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/504133.webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "32分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
     {
       "title": "都子",
       "description": "都子",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/65741.webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "32分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
     {
       "title": "咲希",
       "description": "咲希",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/744269.webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "32分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
     {
       "title": "萌",
       "description": "萌",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/238708.webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "32分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
     {
       "title": "铃美(魔法少女)",
       "description": "铃美(魔法少女)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/9/927996.webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下32分钟",
+      "progress": "已经有23小时45分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-03-24T10:00:00+08:00+08:00"
     },
     {
       "title": "澪纱(魔法少女)",
       "description": "澪纱(魔法少女)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/9/748461.webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下32分钟",
+      "progress": "已经有23小时45分钟未UP",
       "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "日奈(泳装)",
-      "description": "日奈(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/264364.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-03-10T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "伊织(泳装)",
-      "description": "伊织(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/399789/2026/1/23/930654.png",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-03-10T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "三森(泳装)",
-      "description": "三森(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/399789/2026/1/23/997329.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-03-10T10:00:00+08:00+08:00"
+      "end_time": "2026-03-24T10:00:00+08:00+08:00"
     }
   ]
 }

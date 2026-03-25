@@ -1,47 +1,47 @@
 {
-  "crawl_time": "2026-03-24T09:00:00+08:00",
+  "crawl_time": "2026-03-25T09:00:00+08:00",
   "activities": [
     {
       "title": "特别委托-道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/870231.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-03-25T09:00:00+08:00"
+      "end_time": "2026-03-26T03:00:00+08:00"
     },
     {
       "title": "[无限制决战]赛特之怒 • 轻装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/261433.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-03-25T09:00:00+08:00"
+      "end_time": "2026-03-26T03:00:00+08:00"
     },
     {
       "title": "[总力战]比纳 • 街区战",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/795353.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "总力战",
         "总力大决"
       ],
       "start_time": null,
-      "end_time": "2026-03-25T09:00:00+08:00"
+      "end_time": "2026-03-26T03:00:00+08:00"
     },
     {
       "title": "[复刻活动]寻找隐藏的遗产~崔尼蒂的课外活动~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/386346.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "复刻",
         "活动"
