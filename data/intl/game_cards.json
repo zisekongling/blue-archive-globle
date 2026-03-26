@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-03-25T09:45:30+08:00",
+  "crawl_time": "2026-03-26T09:51:22+08:00",
   "pools": [
     {
       "title": "忧(泳装)",
@@ -10,7 +10,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "6天0小时后开始UP",
+      "progress": "5天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -20,7 +20,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/234508.webp",
       "status": "将开始",
       "tags": [],
-      "progress": "6天0小时后开始UP",
+      "progress": "5天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -32,7 +32,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "6天0小时后开始UP",
+      "progress": "5天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -44,7 +44,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "6天0小时后开始UP",
+      "progress": "5天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -57,7 +57,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "6天0小时后开始UP",
+      "progress": "5天0小时后开始UP",
       "start_time": "2026-03-31T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -69,7 +69,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
@@ -81,7 +81,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
@@ -93,7 +93,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
@@ -105,7 +105,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
@@ -117,7 +117,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下5天0小时",
       "start_time": null,
       "end_time": "2026-03-31T09:00:00+08:00+08:00"
     },
@@ -129,7 +129,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有23小时45分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-24T10:00:00+08:00+08:00"
     },
@@ -141,7 +141,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有23小时45分钟未UP",
+      "progress": "已经有1天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-24T10:00:00+08:00+08:00"
     }
