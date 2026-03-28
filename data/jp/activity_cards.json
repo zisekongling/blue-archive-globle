@@ -1,11 +1,23 @@
 {
-  "crawl_time": "2026-03-27T09:00:00+08:00",
+  "crawl_time": "2026-03-28T09:00:00+08:00",
   "activities": [
+    {
+      "title": "【账号经验值】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_796/h_445/829/191981/2026/2/17/378919.png",
+      "progress": "1天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-03-29T09:00:00+08:00"
+    },
     {
       "title": "【Normal关卡】2倍掉落",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/17/296105.png",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +29,7 @@
       "title": "总力战 「室外战·格兹」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_801/h_447/829/191981/2026/2/17/416707.png",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "总力战",
         "总力大决"
@@ -29,7 +41,7 @@
       "title": "基沃托斯·未确认之谜 ～驱邪之槌蛇大调查～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/17/271078.jpg",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,7 +53,7 @@
       "title": "约束解除决战「提法雷特」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_271/829/191981/2026/2/17/630415.png",
-      "progress": "24天后结束",
+      "progress": "23天后结束",
       "tags": [
         "其他",
         "爬塔"
