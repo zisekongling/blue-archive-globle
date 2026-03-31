@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-03-30T09:56:44+08:00",
+  "crawl_time": "2026-03-31T09:52:52+08:00",
   "pools": [
     {
       "title": "忧(泳装)",
@@ -10,8 +10,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-31T09:00:00+08:00+08:00",
+      "progress": "7分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -20,8 +20,8 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/234508.webp",
       "status": "将开始",
       "tags": [],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-31T09:00:00+08:00+08:00",
+      "progress": "7分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -32,8 +32,8 @@
       "tags": [
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-31T09:00:00+08:00+08:00",
+      "progress": "7分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -44,8 +44,8 @@
       "tags": [
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-31T09:00:00+08:00+08:00",
+      "progress": "7分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -57,8 +57,8 @@
         "限定",
         "复刻"
       ],
-      "progress": "1天0小时后开始UP",
-      "start_time": "2026-03-31T09:00:00+08:00+08:00",
+      "progress": "7分钟后开始UP",
+      "start_time": null,
       "end_time": null
     },
     {
@@ -69,9 +69,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下7分钟",
       "start_time": null,
-      "end_time": "2026-03-31T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "智惠(旗袍)",
@@ -81,9 +81,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下7分钟",
       "start_time": null,
-      "end_time": "2026-03-31T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "都子",
@@ -93,9 +93,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下7分钟",
       "start_time": null,
-      "end_time": "2026-03-31T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "咲希",
@@ -105,9 +105,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下7分钟",
       "start_time": null,
-      "end_time": "2026-03-31T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "萌",
@@ -117,9 +117,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下7分钟",
       "start_time": null,
-      "end_time": "2026-03-31T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "铃美(魔法少女)",
@@ -129,7 +129,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-24T10:00:00+08:00+08:00"
     },
@@ -141,7 +141,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-24T10:00:00+08:00+08:00"
     }

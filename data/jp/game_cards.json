@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-03-30T09:55:25+08:00",
+  "crawl_time": "2026-03-31T09:51:23+08:00",
   "pools": [
     {
       "title": "木乃香",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/200294.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下2天1小时",
+      "progress": "UP还剩下1天1小时",
       "start_time": null,
       "end_time": "2026-04-01T10:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/850367.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下2天1小时",
+      "progress": "UP还剩下1天1小时",
       "start_time": null,
       "end_time": "2026-04-01T10:00:00+08:00+08:00"
     },
@@ -30,7 +30,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-18T10:00:00+08:00+08:00"
     },
@@ -43,7 +43,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-18T10:00:00+08:00+08:00"
     },
@@ -55,7 +55,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-18T10:00:00+08:00+08:00"
     },
@@ -67,7 +67,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-18T10:00:00+08:00+08:00"
     },
@@ -79,7 +79,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有11天23小时未UP",
+      "progress": "已经有12天23小时未UP",
       "start_time": null,
       "end_time": "2026-03-18T10:00:00+08:00+08:00"
     }
