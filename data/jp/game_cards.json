@@ -1,15 +1,59 @@
 {
-  "crawl_time": "2026-03-31T09:51:23+08:00",
+  "crawl_time": "2026-04-01T09:59:57+08:00",
   "pools": [
+    {
+      "title": "朱音(制服)",
+      "description": "C&C，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_550/h_550/829/492704/2026/2/31/202523.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "1小时0分钟后开始UP",
+      "start_time": "2026-04-01T10:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "圣娅",
+      "description": "茶话会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/766027.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "1小时0分钟后开始UP",
+      "start_time": "2026-04-01T10:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "明日奈(制服)",
+      "description": "C&C，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/211093.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "1小时0分钟后开始UP",
+      "start_time": "2026-04-01T10:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "时(兔女郎)",
+      "description": "C&C，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/274193.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "1小时0分钟后开始UP",
+      "start_time": "2026-04-01T10:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "木乃香",
       "description": "木乃香",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/200294.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天1小时",
+      "progress": "UP还剩下59分钟",
       "start_time": null,
-      "end_time": "2026-04-01T10:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "蕾娜",
@@ -17,9 +61,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/850367.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天1小时",
+      "progress": "UP还剩下59分钟",
       "start_time": null,
-      "end_time": "2026-04-01T10:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "晴奈(正月)",
@@ -30,9 +74,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有14天0小时未UP",
       "start_time": null,
-      "end_time": "2026-03-18T10:00:00+08:00+08:00"
+      "end_time": "2026-03-18T09:00:00+08:00+08:00"
     },
     {
       "title": "枫香(正月)",
@@ -43,9 +87,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有14天0小时未UP",
       "start_time": null,
-      "end_time": "2026-03-18T10:00:00+08:00+08:00"
+      "end_time": "2026-03-18T09:00:00+08:00+08:00"
     },
     {
       "title": "优香(睡衣)",
@@ -55,9 +99,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有14天0小时未UP",
       "start_time": null,
-      "end_time": "2026-03-18T10:00:00+08:00+08:00"
+      "end_time": "2026-03-18T09:00:00+08:00+08:00"
     },
     {
       "title": "诺亚(睡衣)",
@@ -67,9 +111,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有14天0小时未UP",
       "start_time": null,
-      "end_time": "2026-03-18T10:00:00+08:00+08:00"
+      "end_time": "2026-03-18T09:00:00+08:00+08:00"
     },
     {
       "title": "小雪(睡衣)",
@@ -79,9 +123,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有12天23小时未UP",
+      "progress": "已经有14天0小时未UP",
       "start_time": null,
-      "end_time": "2026-03-18T10:00:00+08:00+08:00"
+      "end_time": "2026-03-18T09:00:00+08:00+08:00"
     }
   ]
 }
