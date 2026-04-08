@@ -1,35 +1,35 @@
 {
-  "crawl_time": "2026-04-07T09:00:00+08:00",
+  "crawl_time": "2026-04-08T09:00:00+08:00",
   "activities": [
     {
       "title": "学院交流会-道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/521997.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-08T09:00:00+08:00"
+      "end_time": "2026-04-09T03:00:00+08:00"
     },
     {
       "title": "[紧急总力战]格里高利 • 室内战",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/780215.jpg",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "总力战",
         "总力大决"
       ],
       "start_time": null,
-      "end_time": "2026-04-08T09:00:00+08:00"
+      "end_time": "2026-04-09T03:00:00+08:00"
     },
     {
       "title": "[新活动]Serenade Promenade",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/833936.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,7 +41,7 @@
       "title": "[无限制决战]获刻玛 • 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/650322.jpg",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "爬塔"

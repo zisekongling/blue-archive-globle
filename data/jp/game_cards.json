@@ -1,13 +1,61 @@
 {
-  "crawl_time": "2026-04-07T09:52:03+08:00",
+  "crawl_time": "2026-04-08T09:52:42+08:00",
   "pools": [
+    {
+      "title": "美咲",
+      "description": "美咲",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/874995.webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2026-04-15T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "真纪(露营)",
+      "description": "真纪(露营)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/24314.webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2026-04-15T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "晴(露营)",
+      "description": "晴(露营)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/304369.webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2026-04-15T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "小玉(露营)",
+      "description": "小玉(露营)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/534078.webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "7天0小时后开始UP",
+      "start_time": "2026-04-15T09:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "朱音(制服)",
       "description": "C&C，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/1/220399.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下8天1小时",
+      "progress": "UP还剩下7天1小时",
       "start_time": null,
       "end_time": "2026-04-15T10:00:00+08:00+08:00"
     },
@@ -19,7 +67,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下8天1小时",
+      "progress": "UP还剩下7天1小时",
       "start_time": null,
       "end_time": "2026-04-15T10:00:00+08:00+08:00"
     },
@@ -31,7 +79,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下8天1小时",
+      "progress": "UP还剩下7天1小时",
       "start_time": null,
       "end_time": "2026-04-15T10:00:00+08:00+08:00"
     },
@@ -41,7 +89,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/274193.png",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下8天1小时",
+      "progress": "UP还剩下7天1小时",
       "start_time": null,
       "end_time": "2026-04-15T10:00:00+08:00+08:00"
     },
@@ -51,7 +99,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/200294.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天22小时未UP",
+      "progress": "已经有6天22小时未UP",
       "start_time": null,
       "end_time": "2026-04-01T11:00:00+08:00+08:00"
     },
@@ -61,7 +109,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/850367.png",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天22小时未UP",
+      "progress": "已经有6天22小时未UP",
       "start_time": null,
       "end_time": "2026-04-01T11:00:00+08:00+08:00"
     }
