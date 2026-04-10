@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-04-09T09:00:00+08:00",
+  "crawl_time": "2026-04-10T09:00:00+08:00",
   "activities": [
     {
       "title": "總力戰 - 貓鬼黑影(城鎮戰)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/783896.webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "总力大决"
@@ -17,7 +17,7 @@
       "title": "懸賞通緝獎勵2倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/3/7/279015.webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,19 +29,19 @@
       "title": "冬日天空的文藝復興～關於文化交流的實踐綱領～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/922915.webp",
-      "progress": "12天后结束",
+      "progress": "10天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00"
+      "end_time": "2026-04-20T09:00:00+08:00"
     },
     {
       "title": "制約解除決戰 - 霍刻瑪(重裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/16825.webp",
-      "progress": "18天后结束",
+      "progress": "17天后结束",
       "tags": [
         "其他",
         "爬塔"

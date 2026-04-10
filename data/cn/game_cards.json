@@ -1,41 +1,213 @@
 {
-  "crawl_time": "2026-04-09T09:45:50+08:00",
+  "crawl_time": "2026-04-10T09:57:42+08:00",
   "pools": [
     {
-      "title": "惠",
-      "description": "惠",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/391867.png",
+      "title": "优香(体操服)",
+      "description": "研讨会，千禧年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/134455.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "34天4小时后开始UP",
+      "start_time": "2026-05-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "玛丽(体操服)",
+      "description": "姐妹会，崔尼蒂",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/9114.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "34天4小时后开始UP",
+      "start_time": "2026-05-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "晴奈(体操服)",
+      "description": "美食研，歌赫娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/190543.png",
       "status": "将开始",
       "tags": [
         "复刻"
       ],
-      "progress": "4小时14分钟后开始UP",
-      "start_time": "2026-04-09T13:00:00+08:00+08:00",
+      "progress": "34天4小时后开始UP",
+      "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
+    },
+    {
+      "title": "琴里(应援团)",
+      "description": "工程部，千禧年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/769946.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "34天4小时后开始UP",
+      "start_time": "2026-05-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "歌原(应援团)",
+      "description": "工程部，千禧年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/514893.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "34天4小时后开始UP",
+      "start_time": "2026-05-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "诺亚",
+      "description": "研讨会，千禧年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/547530.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "34天4小时后开始UP",
+      "start_time": "2026-05-14T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "优香(睡衣)",
+      "description": "研讨会，千禧年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/653853.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "20天4小时后开始UP",
+      "start_time": "2026-04-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "诺亚(睡衣)",
+      "description": "研讨会，千禧年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/714127.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "20天4小时后开始UP",
+      "start_time": "2026-04-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "爱露(新年)",
+      "description": "便利屋68，歌赫娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/486768.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "20天4小时后开始UP",
+      "start_time": "2026-04-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "睦月(新年)",
+      "description": "便利屋68，歌赫娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/443816.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "20天4小时后开始UP",
+      "start_time": "2026-04-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "佳代子(新年)",
+      "description": "便利屋68，歌赫娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/101583.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "20天4小时后开始UP",
+      "start_time": "2026-04-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "春香(新年)",
+      "description": "便利屋68，歌赫娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/543370.png",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "20天4小时后开始UP",
+      "start_time": "2026-04-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "千明",
+      "description": "万魔殿，歌赫娜学院",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/94917.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6天4小时后开始UP",
+      "start_time": "2026-04-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "皋月",
+      "description": "万魔殿，歌赫娜学院",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/41158.png",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6天4小时后开始UP",
+      "start_time": "2026-04-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "真琴",
+      "description": "万魔殿，歌赫娜学院",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/260952.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "6天4小时后开始UP",
+      "start_time": "2026-04-16T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "亚子(礼服)",
+      "description": "风纪委员会，歌赫娜学院",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/589940.png",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "5天14小时后开始UP",
+      "start_time": "2026-04-15T23:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "惠",
+      "description": "惠",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/391867.png",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2026-04-16T13:00:00+08:00+08:00"
     },
     {
       "title": "霞",
       "description": "霞",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/185008.png",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4小时14分钟后开始UP",
-      "start_time": "2026-04-09T13:00:00+08:00+08:00",
-      "end_time": null
-    },
-    {
-      "title": "伊织",
-      "description": "伊织",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/492704/2026/1/26/139353.jpg",
-      "status": "将开始",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "4小时14分钟后开始UP",
-      "start_time": "2026-04-09T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2026-04-16T13:00:00+08:00+08:00"
     },
     {
       "title": "一花",
@@ -45,69 +217,45 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天14小时",
+      "progress": "UP还剩下6天4小时",
       "start_time": null,
-      "end_time": "2026-04-15T23:00:00+08:00+08:00"
+      "end_time": "2026-04-16T13:00:00+08:00+08:00"
+    },
+    {
+      "title": "伊织",
+      "description": "伊织",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/492704/2026/1/26/139353.jpg",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天4小时",
+      "start_time": null,
+      "end_time": "2026-04-16T13:00:00+08:00+08:00"
     },
     {
       "title": "玛丽（偶像）",
       "description": "玛丽（偶像）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/40953.png",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下4小时13分钟",
+      "progress": "已经有19小时58分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-09T13:00:00+08:00+08:00"
+      "end_time": "2026-04-09T14:00:00+08:00+08:00"
     },
     {
       "title": "樱子（偶像）",
       "description": "樱子（偶像）",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/234357.png",
-      "status": "进行中",
-      "tags": [
-        "限定"
-      ],
-      "progress": "UP还剩下4小时13分钟",
-      "start_time": null,
-      "end_time": "2026-04-09T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "伊吕波",
-      "description": "伊吕波",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/506463.png",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2026-03-26T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "日向（泳装）",
-      "description": "日向（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/981040.png",
       "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "已经有13天19小时未UP",
+      "progress": "已经有19小时58分钟未UP",
       "start_time": null,
-      "end_time": "2026-03-26T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "忧（泳装）",
-      "description": "忧（泳装）",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/193980.png",
-      "status": "已结束",
-      "tags": [
-        "限定"
-      ],
-      "progress": "已经有13天19小时未UP",
-      "start_time": null,
-      "end_time": "2026-03-26T14:00:00+08:00+08:00"
+      "end_time": "2026-04-09T14:00:00+08:00+08:00"
     }
   ]
 }
