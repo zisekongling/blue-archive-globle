@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-04-10T09:00:00+08:00",
+  "crawl_time": "2026-04-11T09:00:00+08:00",
   "activities": [
     {
       "title": "[综合战术测试]护卫 · 弹力装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3628/h_2040/829/492704/2026/1/26/255237.jpg",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "战术测试"
@@ -17,7 +17,7 @@
       "title": "特别委托-道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/389915.jpg",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "[复刻活动]Trip-Trap-Train",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/325447.jpg",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "复刻",
         "活动"
@@ -41,7 +41,7 @@
       "title": "[无限制决战]获刻玛 • 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/650322.jpg",
-      "progress": "11天后结束",
+      "progress": "10天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -53,7 +53,7 @@
       "title": "[新活动]特殊调查“质点之树”",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/640914.jpg",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "活动"

@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-04-10T09:58:28+08:00",
+  "crawl_time": "2026-04-11T09:48:54+08:00",
   "pools": [
     {
       "title": "贵音",
@@ -7,9 +7,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/506955.webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "八云",
@@ -17,9 +17,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/54932.webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "梅露",
@@ -29,9 +29,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "红叶",
@@ -41,9 +41,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "实梨",
@@ -53,9 +53,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "时雨(温泉)",
@@ -65,9 +65,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "芹香(泳装)",
@@ -77,9 +77,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下10天23小时",
+      "progress": "UP还剩下10天0小时",
       "start_time": null,
-      "end_time": "2026-04-21T08:00:00+08:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "忧(泳装)",
@@ -90,7 +90,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -100,7 +100,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/234508.webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -112,7 +112,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -124,7 +124,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -137,7 +137,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有2天23小时未UP",
+      "progress": "已经有3天23小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     }
