@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-04-12T10:00:42+08:00",
+  "crawl_time": "2026-04-13T10:05:52+08:00",
   "pools": [
     {
       "title": "贵音",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/506955.webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/54932.webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -29,7 +29,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -41,7 +41,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -53,7 +53,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -65,7 +65,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -77,7 +77,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下8天23小时",
+      "progress": "UP还剩下7天23小时",
       "start_time": null,
       "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
@@ -90,7 +90,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有5天0小时未UP",
+      "progress": "已经有6天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -100,7 +100,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/234508.webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有5天0小时未UP",
+      "progress": "已经有6天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -112,7 +112,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有5天0小时未UP",
+      "progress": "已经有6天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -124,7 +124,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有5天0小时未UP",
+      "progress": "已经有6天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     },
@@ -137,7 +137,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有5天0小时未UP",
+      "progress": "已经有6天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-07T10:00:00+08:00+08:00"
     }
