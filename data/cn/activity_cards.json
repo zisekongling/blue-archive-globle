@@ -1,65 +1,65 @@
 {
-  "crawl_time": "2026-04-13T10:00:00+08:00",
+  "crawl_time": "2026-04-14T09:00:00+08:00",
   "activities": [
     {
       "title": "[综合战术测试]护卫 · 弹力装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3628/h_2040/829/492704/2026/1/26/255237.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "其他",
         "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-04-15T10:00:00+08:00"
+      "end_time": "2026-04-15T09:00:00+08:00"
     },
     {
       "title": "特别委托-道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/389915.jpg",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-15T10:00:00+08:00"
+      "end_time": "2026-04-15T09:00:00+08:00"
     },
     {
       "title": "[复刻活动]Trip-Trap-Train",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/325447.jpg",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "复刻",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-16T10:00:00+08:00"
+      "end_time": "2026-04-16T09:00:00+08:00"
     },
     {
       "title": "[无限制决战]获刻玛 • 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/650322.jpg",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-04-21T10:00:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00"
     },
     {
       "title": "[新活动]特殊调查“质点之树”",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/640914.jpg",
-      "progress": "10天后结束",
+      "progress": "9天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-23T10:00:00+08:00"
+      "end_time": "2026-04-23T09:00:00+08:00"
     },
     {
       "title": "战术对抗赛-第八赛季更新[野外战]",

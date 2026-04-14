@@ -1,35 +1,35 @@
 {
-  "crawl_time": "2026-04-13T10:00:00+08:00",
+  "crawl_time": "2026-04-14T10:00:00+08:00",
   "activities": [
     {
-      "title": "懸賞通緝獎勵2倍活動",
+      "title": "任務(Normal)獎勵2倍活動",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/3/7/279015.webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/3/7/144431.webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-14T02:00:00+08:00"
+      "end_time": "2026-04-20T10:00:00+08:00"
     },
     {
-      "title": "總力戰 - 貓鬼黑影(城鎮戰)",
+      "title": "綜合戰術考試 (突破考試)",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/783896.webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/3/7/215971.webp",
+      "progress": "6天后结束",
       "tags": [
         "其他",
-        "总力大决"
+        "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-04-14T02:00:00+08:00"
+      "end_time": "2026-04-20T10:00:00+08:00"
     },
     {
       "title": "冬日天空的文藝復興～關於文化交流的實踐綱領～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/922915.webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -38,16 +38,52 @@
       "end_time": "2026-04-20T10:00:00+08:00"
     },
     {
+      "title": "任務(Hard)獎勵2倍活動",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/3/7/839002.webp",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-04-20T10:00:00+08:00"
+    },
+    {
       "title": "制約解除決戰 - 霍刻瑪(重裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/16825.webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-04-27T10:00:00+08:00"
+    },
+    {
+      "title": "懸賞通緝獎勵2倍活動",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/191981/2026/3/7/279015.webp",
+      "progress": "26.04.06-26.04.13",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "總力戰 - 貓鬼黑影(城鎮戰)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/3/7/783896.webp",
+      "progress": "26.04.07-26.04.13",
+      "tags": [
+        "其他",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "帳號經驗值獲取2倍活動",
@@ -81,30 +117,6 @@
       "tags": [
         "其他",
         "爬塔"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "大决战-主教(城镇战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/191981/2026/2/24/553151.webp",
-      "progress": "26.03.31-26.04.06",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【任务(Normal)】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/191981/2026/2/24/475073.webp",
-      "progress": "26.03.30-26.04.03",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
