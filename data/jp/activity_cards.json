@@ -1,53 +1,65 @@
 {
-  "crawl_time": "2026-04-14T09:00:00+08:00",
+  "crawl_time": "2026-04-15T09:00:00+08:00",
   "activities": [
-    {
-      "title": "【Hard关卡】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/422702.png",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-15T02:00:00+08:00"
-    },
-    {
-      "title": "大决战 「室外战·佩洛洛斯拉」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/633816.jpg",
-      "progress": "18小时后结束",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-15T03:00:00+08:00"
-    },
     {
       "title": "[复刻]Code: BOX 迫近千年的阴影 ～一个问题与两个答案～",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/892105.jpg",
-      "progress": "1天后结束",
+      "progress": "1小时后结束",
       "tags": [
         "复刻",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-15T09:00:00+08:00"
+      "end_time": "2026-04-15T10:00:00+08:00"
     },
     {
       "title": "约束解除决战「提法雷特」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_271/829/191981/2026/2/17/630415.png",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-04-20T09:00:00+08:00"
+    },
+    {
+      "title": "【指名手配&特别依赖】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/794978.png",
+      "progress": "5天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-04-20T09:00:00+08:00"
+    },
+    {
+      "title": "大决战 「室外战·佩洛洛斯拉」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/633816.jpg",
+      "progress": "26.04.08-26.04.14",
+      "tags": [
+        "大决战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【Hard关卡】2倍掉落",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/422702.png",
+      "progress": "26.04.07-26.04.14",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "合同火力演习「突破演习」",
@@ -81,30 +93,6 @@
       "tags": [
         "其他",
         "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "总力战 「室外战·格兹」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_801/h_447/829/191981/2026/2/17/416707.png",
-      "progress": "26.03.25-26.03.31",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【Normal关卡】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/17/296105.png",
-      "progress": "26.03.24-26.03.31",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
