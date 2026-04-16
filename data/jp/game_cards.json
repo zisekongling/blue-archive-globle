@@ -1,117 +1,97 @@
 {
-  "crawl_time": "2026-04-15T09:55:34+08:00",
+  "crawl_time": "2026-04-16T10:03:37+08:00",
   "pools": [
     {
       "title": "美咲",
       "description": "美咲",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/874995.webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/874995.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "真纪(露营)",
       "description": "真纪(露营)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/24314.webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/24314.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "晴(露营)",
       "description": "晴(露营)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/304369.webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/304369.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "小玉(露营)",
       "description": "小玉(露营)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/534078.webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/534078.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-21T09:00:00+08:00+08:00"
     },
     {
       "title": "朱音(制服)",
       "description": "C&C，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/1/220399.png",
-      "status": "进行中",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/1/220399.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下1小时3分钟",
+      "progress": "已经有23小时4分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-15T10:00:00+08:00+08:00"
+      "end_time": "2026-04-15T11:00:00+08:00+08:00"
     },
     {
       "title": "圣娅",
       "description": "茶话会，三一",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/766027.png",
-      "status": "进行中",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/766027.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下1小时3分钟",
+      "progress": "已经有23小时4分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-15T10:00:00+08:00+08:00"
+      "end_time": "2026-04-15T11:00:00+08:00+08:00"
     },
     {
       "title": "明日奈(制服)",
       "description": "C&C，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/211093.png",
-      "status": "进行中",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/211093.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下1小时3分钟",
+      "progress": "已经有23小时4分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-15T10:00:00+08:00+08:00"
+      "end_time": "2026-04-15T11:00:00+08:00+08:00"
     },
     {
       "title": "时(兔女郎)",
       "description": "C&C，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/274193.png",
-      "status": "进行中",
-      "tags": [],
-      "progress": "UP还剩下1小时3分钟",
-      "start_time": null,
-      "end_time": "2026-04-15T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "木乃香",
-      "description": "木乃香",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/200294.png",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/31/274193.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有13天22小时未UP",
+      "progress": "已经有23小时4分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-01T11:00:00+08:00+08:00"
-    },
-    {
-      "title": "蕾娜",
-      "description": "蕾娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/2/18/850367.png",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天22小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-01T11:00:00+08:00+08:00"
+      "end_time": "2026-04-15T11:00:00+08:00+08:00"
     }
   ]
 }
