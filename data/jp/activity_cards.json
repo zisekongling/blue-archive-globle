@@ -1,41 +1,41 @@
 {
-  "crawl_time": "2026-04-16T10:00:00+08:00",
+  "crawl_time": "2026-04-17T09:00:00+08:00",
   "activities": [
     {
       "title": "约束解除决战「提法雷特」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_271/829/191981/2026/2/17/630415.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-04-20T10:00:00+08:00"
+      "end_time": "2026-04-20T09:00:00+08:00"
     },
     {
       "title": "【指名手配&特别依赖】2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/794978.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-20T10:00:00+08:00"
+      "end_time": "2026-04-20T09:00:00+08:00"
     },
     {
       "title": "夏莱总结算 with 联邦学生会",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/139323.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "指引任务"
       ],
       "start_time": null,
-      "end_time": "2026-04-21T10:00:00+08:00"
+      "end_time": "2026-04-21T09:00:00+08:00"
     },
     {
       "title": "[复刻]Code: BOX 迫近千年的阴影 ～一个问题与两个答案～",

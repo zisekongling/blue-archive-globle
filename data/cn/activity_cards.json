@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-04-16T10:00:00+08:00",
+  "crawl_time": "2026-04-17T10:00:00+08:00",
   "activities": [
-    {
-      "title": "[复刻活动]Trip-Trap-Train",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/325447.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3小时后结束",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-16T13:00:00+08:00"
-    },
     {
       "title": "[无限制决战]获刻玛 • 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/650322.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -26,10 +14,22 @@
       "end_time": "2026-04-21T10:00:00+08:00"
     },
     {
+      "title": "[总力战]希罗尼穆斯 • 街区战",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/9/187209.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": "2026-04-22T10:00:00+08:00"
+    },
+    {
       "title": "【悬赏通缉、日程、学院交流会】道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/9/389161.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -41,13 +41,37 @@
       "title": "[新活动]特殊调查“质点之树”",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/640914.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
       "end_time": "2026-04-23T10:00:00+08:00"
+    },
+    {
+      "title": "[复刻活动]阳光绽放，她们的小夜曲",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/9/755584.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-04-30T10:00:00+08:00"
+    },
+    {
+      "title": "[复刻活动]Trip-Trap-Train",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/325447.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.09-26.04.16",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "[综合战术测试]护卫 · 弹力装甲",
@@ -91,18 +115,6 @@
       "progress": "26.04.09-26.04.09",
       "tags": [
         "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "[新活动]Serenade Promenade",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/1/26/833936.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.03.26-26.04.09",
-      "tags": [
-        "其他",
-        "活动"
       ],
       "start_time": null,
       "end_time": null
