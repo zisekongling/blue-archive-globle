@@ -1,145 +1,192 @@
 {
-  "crawl_time": "2026-04-20T10:05:51+08:00",
+  "crawl_time": "2026-04-21T10:01:53+08:00",
   "pools": [
+    {
+      "title": "若藻",
+      "description": "百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/907787.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆招募"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-05-05T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "星野(泳装)",
+      "description": "对策委员会，阿拜多斯",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/989236.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆招募"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-05-05T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "未花",
+      "description": "弥香，茶话会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/558588.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆招募"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-05-05T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "月咏(礼服)",
+      "description": "月夜，忍术研究会，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/9535.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6天23小时后开始UP",
+      "start_time": "2026-04-28T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "满(礼服)",
+      "description": "三千留，忍术研究会，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/397515.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6天23小时后开始UP",
+      "start_time": "2026-04-28T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "玛丽(偶像)",
+      "description": "修女会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/97035.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "限定"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-04-28T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "樱子(偶像)",
+      "description": "修女会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/356782.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "限定"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-04-28T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "果穗",
+      "description": "佳穗，阴阳部，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/682230.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-04-28T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "和纱",
+      "description": "千纱，甜点部，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/235943.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-04-28T09:00:00+08:00+08:00"
+    },
     {
       "title": "贵音",
       "description": "贵音",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/506955.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下23小时52分钟",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "八云",
       "description": "八云",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/54932.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下23小时52分钟",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "梅露",
       "description": "梅露",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/632394.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时52分钟",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "红叶",
       "description": "红叶",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/567062.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时52分钟",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "实梨",
       "description": "实梨",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/753680.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时52分钟",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "时雨(温泉)",
       "description": "时雨(温泉)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/317709.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时52分钟",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "芹香(泳装)",
       "description": "芹香(泳装)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/3/7/638046.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下23小时52分钟",
-      "start_time": null,
-      "end_time": "2026-04-21T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "忧(泳装)",
-      "description": "忧(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/274069.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-07T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "昴",
-      "description": "昴",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/234508.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-07T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "澪纱",
-      "description": "澪纱",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/285936.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有13天0小时未UP",
+      "progress": "已经有3分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-07T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "美祢",
-      "description": "美祢",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/434871.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-07T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "日向(泳装)",
-      "description": "日向(泳装)",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/191981/2026/2/24/861530.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-07T10:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }

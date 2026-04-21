@@ -1,95 +1,92 @@
 {
-  "crawl_time": "2026-04-20T10:00:00+08:00",
+  "crawl_time": "2026-04-21T10:00:00+08:00",
   "activities": [
-    {
-      "title": "约束解除决战「提法雷特」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_271/829/191981/2026/2/17/630415.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "其他",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-21T02:00:00+08:00"
-    },
-    {
-      "title": "【指名手配&特别依赖】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/794978.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-21T02:00:00+08:00"
-    },
     {
       "title": "夏莱总结算 with 联邦学生会",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/139323.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "58分钟后结束",
       "tags": [
         "其他",
         "指引任务"
       ],
       "start_time": null,
-      "end_time": "2026-04-21T10:00:00+08:00"
-    },
-    {
-      "title": "[复刻]Code: BOX 迫近千年的阴影 ～一个问题与两个答案～",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/892105.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.01-26.04.15",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
       "end_time": null
     },
     {
-      "title": "大决战 「室外战·佩洛洛斯拉」",
+      "title": "日程、学园交流会掉落2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/633816.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.08-26.04.14",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【Hard关卡】2倍掉落",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/422702.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.07-26.04.14",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/419440.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "7天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-28T10:00:00+08:00"
     },
     {
-      "title": "合同火力演习「突破演习」",
+      "title": "特殊作战「追踪洛亚」篇",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/2/31/199197.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.01-26.04.07",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/247492.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "14天后结束",
       "tags": [
         "其他",
-        "战术测试"
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-05-05T10:00:00+08:00"
+    },
+    {
+      "title": "第二部 主线剧情Ex.「追踪洛亚」篇 第一章「正午的阳炎」开放",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/921273.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.21-26.04.21",
+      "tags": [
+        "其他"
       ],
       "start_time": null,
       "end_time": null
     },
     {
-      "title": "【课程表&学园交流会】2倍",
+      "title": "第二部 主线剧情「序章」开放",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/166753.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.03.31-26.04.07",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/715913.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.21-26.04.21",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "第二部 主线剧情Vol.0「联邦学生会」篇 第一章「春日杏花盛开的那天」开放",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/270055.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.21-26.04.21",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "约束解除决战「提法雷特」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_271/829/191981/2026/2/17/630415.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.03.19-26.04.20",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【指名手配&特别依赖】2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/794978.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.14-26.04.20",
       "tags": [
         "资源翻倍",
         "多倍活动"
