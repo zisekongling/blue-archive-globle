@@ -1,29 +1,17 @@
 {
-  "crawl_time": "2026-04-21T10:00:00+08:00",
+  "crawl_time": "2026-04-22T09:00:00+08:00",
   "activities": [
-    {
-      "title": "夏莱总结算 with 联邦学生会",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/139323.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "58分钟后结束",
-      "tags": [
-        "其他",
-        "指引任务"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
     {
       "title": "日程、学园交流会掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/419440.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-28T10:00:00+08:00"
+      "end_time": "2026-04-28T09:00:00+08:00"
     },
     {
       "title": "特殊作战「追踪洛亚」篇",
@@ -35,7 +23,19 @@
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-05-05T10:00:00+08:00"
+      "end_time": "2026-05-06T09:00:00+08:00"
+    },
+    {
+      "title": "夏莱总结算 with 联邦学生会",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/2/31/139323.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.15-26.04.21",
+      "tags": [
+        "其他",
+        "指引任务"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "第二部 主线剧情Ex.「追踪洛亚」篇 第一章「正午的阳炎」开放",
@@ -78,18 +78,6 @@
       "tags": [
         "其他",
         "爬塔"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【指名手配&特别依赖】2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_447/829/191981/2026/2/18/794978.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.14-26.04.20",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
