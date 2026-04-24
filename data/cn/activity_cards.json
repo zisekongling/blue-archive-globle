@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-04-23T10:00:00+08:00",
+  "crawl_time": "2026-04-24T10:00:00+08:00",
   "activities": [
-    {
-      "title": "[新活动]特殊调查“质点之树”",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/640914.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-23T13:00:00+08:00"
-    },
     {
       "title": "【任务（普通难度）】道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/9/884639.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,13 +17,37 @@
       "title": "[复刻活动]阳光绽放，她们的小夜曲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/9/755584.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "复刻",
         "活动"
       ],
       "start_time": null,
       "end_time": "2026-04-30T10:00:00+08:00"
+    },
+    {
+      "title": "[无限制决战]赛特之怒 • 特殊装甲",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/9/283339.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26天后结束",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-05-20T10:00:00+08:00"
+    },
+    {
+      "title": "[新活动]特殊调查“质点之树”",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/1/26/640914.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.09-26.04.23",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【悬赏通缉、日程、学院交流会】道具掉落量2倍",
@@ -81,18 +93,6 @@
       "tags": [
         "复刻",
         "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "[综合战术测试]护卫 · 弹力装甲",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3628/h_2040/829/492704/2026/1/26/255237.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.09-26.04.15",
-      "tags": [
-        "其他",
-        "战术测试"
       ],
       "start_time": null,
       "end_time": null
