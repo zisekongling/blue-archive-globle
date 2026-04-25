@@ -1,17 +1,29 @@
 {
-  "crawl_time": "2026-04-24T10:00:00+08:00",
+  "crawl_time": "2026-04-25T09:00:00+08:00",
   "activities": [
     {
-      "title": "日程、学园交流会掉落2倍",
+      "title": "经验值2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/419440.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/610400.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-04-28T10:00:00+08:00"
+      "end_time": "2026-04-26T09:00:00+08:00"
+    },
+    {
+      "title": "日程、学园交流会掉落2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/419440.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "3天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-04-28T09:00:00+08:00"
     },
     {
       "title": "特殊作战「追踪洛亚」篇",
@@ -23,19 +35,19 @@
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-05-05T10:00:00+08:00"
+      "end_time": "2026-05-06T09:00:00+08:00"
     },
     {
       "title": "限制解除决战「可库玛」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/346891.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "32天后结束",
+      "progress": "31天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-05-26T10:00:00+08:00"
+      "end_time": "2026-05-26T09:00:00+08:00"
     },
     {
       "title": "夏莱总结算 with 联邦学生会",
