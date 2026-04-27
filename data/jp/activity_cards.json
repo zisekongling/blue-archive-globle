@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-04-26T10:00:00+08:00",
+  "crawl_time": "2026-04-27T10:00:00+08:00",
   "activities": [
-    {
-      "title": "经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/610400.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-04-27T02:00:00+08:00"
-    },
     {
       "title": "日程、学园交流会掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/419440.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +17,7 @@
       "title": "特殊作战「追踪洛亚」篇",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/247492.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "9天后结束",
+      "progress": "8天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,13 +29,25 @@
       "title": "限制解除决战「可库玛」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/346891.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "30天后结束",
+      "progress": "29天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-05-26T10:00:00+08:00"
+    },
+    {
+      "title": "经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/610400.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.24-26.04.26",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "夏莱总结算 with 联邦学生会",
@@ -90,18 +90,6 @@
       "progress": "26.04.21-26.04.21",
       "tags": [
         "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "约束解除决战「提法雷特」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_495/h_271/829/191981/2026/2/17/630415.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.03.19-26.04.20",
-      "tags": [
-        "其他",
-        "爬塔"
       ],
       "start_time": null,
       "end_time": null
