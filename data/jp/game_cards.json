@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-04-28T10:15:01+08:00",
+  "crawl_time": "2026-04-29T10:25:04+08:00",
   "pools": [
     {
       "title": "妮可",
@@ -9,7 +9,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下7天23小时",
+      "progress": "UP还剩下6天23小时",
       "start_time": null,
       "end_time": "2026-05-06T09:00:00+08:00+08:00"
     },
@@ -21,7 +21,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下7天23小时",
+      "progress": "UP还剩下6天23小时",
       "start_time": null,
       "end_time": "2026-05-06T09:00:00+08:00+08:00"
     },
@@ -33,7 +33,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天0小时未UP",
+      "progress": "已经有8天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-21T10:00:00+08:00+08:00"
     },
@@ -45,7 +45,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天0小时未UP",
+      "progress": "已经有8天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-21T10:00:00+08:00+08:00"
     },
@@ -57,7 +57,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天0小时未UP",
+      "progress": "已经有8天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-21T10:00:00+08:00+08:00"
     },
@@ -69,7 +69,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天0小时未UP",
+      "progress": "已经有8天0小时未UP",
       "start_time": null,
       "end_time": "2026-04-21T10:00:00+08:00+08:00"
     }

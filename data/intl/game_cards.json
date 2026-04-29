@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-04-28T10:16:34+08:00",
+  "crawl_time": "2026-04-29T10:26:33+08:00",
   "pools": [
     {
       "title": "若藻",
@@ -10,7 +10,7 @@
         "复刻",
         "回忆招募"
       ],
-      "progress": "6天23小时后开始UP",
+      "progress": "5天23小时后开始UP",
       "start_time": "2026-05-05T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -23,7 +23,7 @@
         "复刻",
         "回忆招募"
       ],
-      "progress": "6天23小时后开始UP",
+      "progress": "5天23小时后开始UP",
       "start_time": "2026-05-05T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -36,7 +36,7 @@
         "复刻",
         "回忆招募"
       ],
-      "progress": "6天23小时后开始UP",
+      "progress": "5天23小时后开始UP",
       "start_time": "2026-05-05T09:00:00+08:00+08:00",
       "end_time": null
     },
@@ -46,7 +46,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/9535.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-05-12T09:00:00+08:00+08:00"
     },
@@ -56,7 +56,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/397515.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-05-12T09:00:00+08:00+08:00"
     },
@@ -68,9 +68,9 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有16分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-28T10:00:00+08:00+08:00"
     },
     {
       "title": "樱子(偶像)",
@@ -80,9 +80,9 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有16分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-28T10:00:00+08:00+08:00"
     },
     {
       "title": "果穗",
@@ -92,9 +92,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有16分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-28T10:00:00+08:00+08:00"
     },
     {
       "title": "和纱",
@@ -104,9 +104,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有16分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-04-28T10:00:00+08:00+08:00"
     }
   ]
 }
