@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-04-29T10:25:48+08:00",
+  "crawl_time": "2026-04-30T10:26:31+08:00",
   "pools": [
     {
       "title": "优香(体操服)",
@@ -9,7 +9,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "15天3小时后开始UP",
+      "progress": "14天3小时后开始UP",
       "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -21,7 +21,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "15天3小时后开始UP",
+      "progress": "14天3小时后开始UP",
       "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -33,7 +33,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "15天3小时后开始UP",
+      "progress": "14天3小时后开始UP",
       "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -45,7 +45,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "15天3小时后开始UP",
+      "progress": "14天3小时后开始UP",
       "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -57,7 +57,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "15天3小时后开始UP",
+      "progress": "14天3小时后开始UP",
       "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -69,7 +69,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "15天3小时后开始UP",
+      "progress": "14天3小时后开始UP",
       "start_time": "2026-05-14T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -79,7 +79,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/653853.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "1天3小时后开始UP",
+      "progress": "3小时33分钟后开始UP",
       "start_time": "2026-04-30T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -89,7 +89,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/714127.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "1天3小时后开始UP",
+      "progress": "3小时33分钟后开始UP",
       "start_time": "2026-04-30T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -101,7 +101,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "1天3小时后开始UP",
+      "progress": "3小时33分钟后开始UP",
       "start_time": "2026-04-30T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -113,7 +113,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "1天3小时后开始UP",
+      "progress": "3小时33分钟后开始UP",
       "start_time": "2026-04-30T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -125,7 +125,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "1天3小时后开始UP",
+      "progress": "3小时33分钟后开始UP",
       "start_time": "2026-04-30T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -137,7 +137,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "1天3小时后开始UP",
+      "progress": "3小时33分钟后开始UP",
       "start_time": "2026-04-30T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -147,7 +147,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/94917.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天3小时",
+      "progress": "UP还剩下3小时33分钟",
       "start_time": null,
       "end_time": "2026-04-30T13:00:00+08:00+08:00"
     },
@@ -157,7 +157,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/41158.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下1天3小时",
+      "progress": "UP还剩下3小时33分钟",
       "start_time": null,
       "end_time": "2026-04-30T13:00:00+08:00+08:00"
     },
@@ -169,7 +169,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下1天3小时",
+      "progress": "UP还剩下3小时33分钟",
       "start_time": null,
       "end_time": "2026-04-30T13:00:00+08:00+08:00"
     },
@@ -177,61 +177,13 @@
       "title": "亚子(礼服)",
       "description": "风纪委员会，歌赫娜学院",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/589940.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下13小时34分钟",
+      "progress": "已经有10小时26分钟未UP",
       "start_time": null,
-      "end_time": "2026-04-29T23:00:00+08:00+08:00"
-    },
-    {
-      "title": "惠",
-      "description": "惠",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/391867.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有12天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-16T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "霞",
-      "description": "霞",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/185008.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有12天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-16T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "一花",
-      "description": "一花",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/1/26/150995.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有12天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-16T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "伊织",
-      "description": "伊织",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_266/h_300/829/492704/2026/1/26/139353.jpg?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有12天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-16T14:00:00+08:00+08:00"
+      "end_time": "2026-04-30T00:00:00+08:00+08:00"
     }
   ]
 }
