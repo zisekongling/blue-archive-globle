@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-05-02T10:00:00+08:00",
+  "crawl_time": "2026-05-03T10:00:00+08:00",
   "activities": [
     {
       "title": "Normal任务掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/851731.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "总力战「市区战・KAITEN FX Mk.0」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/747201.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "总力战",
         "总力大决"
@@ -29,7 +29,7 @@
       "title": "特殊作战「追踪洛亚」篇",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/247492.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,7 +41,7 @@
       "title": "经验值2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/174747.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -53,7 +53,7 @@
       "title": "限制解除决战「可库玛」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/346891.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "24天后结束",
+      "progress": "23天后结束",
       "tags": [
         "其他",
         "爬塔"
