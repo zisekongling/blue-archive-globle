@@ -1,65 +1,101 @@
 {
-  "crawl_time": "2026-05-11T10:00:00+08:00",
+  "crawl_time": "2026-05-12T10:00:00+08:00",
   "activities": [
     {
-      "title": "任务(Normal)奖励2倍",
+      "title": "任務(Hard)獎勵2倍活動",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/490030.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/408107/2026/4/12/910583.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-05-12T02:00:00+08:00"
+      "end_time": "2026-05-18T10:00:00+08:00"
     },
     {
-      "title": "课程表奖励2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/492704/2026/3/20/746983.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-05-12T02:00:00+08:00"
-    },
-    {
-      "title": "氣墊船(野戰)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/32323.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "title": "綜合戰術考試(護衛考試)",
+      "description": "- 經過三次測試後，以最終考試分數為基礎，可以獲得綜合戰術考試硬幣與信用貨幣。",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/408107/2026/4/12/492801.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "其他",
-        "总力大决"
+        "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-05-12T02:00:00+08:00"
-    },
-    {
-      "title": "不忍之道～时装秀警备任务！之卷～",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/492704/2026/3/20/136009.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "23小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-05-12T09:00:00+08:00"
+      "end_time": "2026-05-18T10:00:00+08:00"
     },
     {
       "title": "賽特的憤怒(輕裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/485130.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-05-25T10:00:00+08:00"
+    },
+    {
+      "title": "五塵降臨 -復刻-",
+      "description": "- 完成「任務(Normal) 2-3」時可以進行「五塵降臨」活動。﻿ ﻿- 活動劇情由包含戰鬥的「劇情(Story)」、「任務(Quest)」、「挑戰(Challenge)」，以及可查看章節的「劇情」，還有與獎勵相關的「商店」、「任務」、「尋寶」等選單所組成。﻿ ﻿- 掃蕩功能僅能在「任務(Quest)」中使用。﻿ ﻿- 使用特化學生通關，可在之後的重複獎勵中獲得更多獎勵。﻿ ﻿* 活動獎勵獲得與兌換時間結束後，[未使用的活動貨幣]1個將會轉換為[信用貨幣]1個發送至信箱。﻿ ﻿* 詳細活動劇情資訊請至遊戲中確認。",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/829/408107/2026/4/12/435773.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-05-25T10:00:00+08:00"
+    },
+    {
+      "title": "不忍之道～时装秀警备任务！之卷～",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/492704/2026/3/20/136009.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.04.28-26.05.12",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "任务(Normal)奖励2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/490030.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.04-26.05.11",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "课程表奖励2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/492704/2026/3/20/746983.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.04-26.05.11",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "氣墊船(野戰)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/32323.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.05-26.05.11",
+      "tags": [
+        "其他",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "账号经验值获取2倍",
@@ -69,54 +105,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "悬赏通缉奖励2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/492704/2026/3/20/949825.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.27-26.05.04",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "账号经验值获取2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/492704/2026/3/20/348831.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.05.01-26.05.03",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "夏莱总结算with联邦学生会",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_439/829/492704/2026/3/20/514568.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.21-26.04.28",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "[复刻]﻿Serenade Promenade",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_440/829/492704/2026/3/20/402873.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.21-26.04.28",
-      "tags": [
-        "复刻",
-        "活动"
       ],
       "start_time": null,
       "end_time": null
