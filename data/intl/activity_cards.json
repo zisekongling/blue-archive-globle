@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-05-12T10:00:00+08:00",
+  "crawl_time": "2026-05-13T10:00:00+08:00",
   "activities": [
     {
       "title": "任務(Hard)獎勵2倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/408107/2026/4/12/910583.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "綜合戰術考試(護衛考試)",
       "description": "- 經過三次測試後，以最終考試分數為基礎，可以獲得綜合戰術考試硬幣與信用貨幣。",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/408107/2026/4/12/492801.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "战术测试"
@@ -29,7 +29,7 @@
       "title": "賽特的憤怒(輕裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/485130.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -41,7 +41,7 @@
       "title": "五塵降臨 -復刻-",
       "description": "- 完成「任務(Normal) 2-3」時可以進行「五塵降臨」活動。﻿ ﻿- 活動劇情由包含戰鬥的「劇情(Story)」、「任務(Quest)」、「挑戰(Challenge)」，以及可查看章節的「劇情」，還有與獎勵相關的「商店」、「任務」、「尋寶」等選單所組成。﻿ ﻿- 掃蕩功能僅能在「任務(Quest)」中使用。﻿ ﻿- 使用特化學生通關，可在之後的重複獎勵中獲得更多獎勵。﻿ ﻿* 活動獎勵獲得與兌換時間結束後，[未使用的活動貨幣]1個將會轉換為[信用貨幣]1個發送至信箱。﻿ ﻿* 詳細活動劇情資訊請至遊戲中確認。",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/829/408107/2026/4/12/435773.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "活动"
