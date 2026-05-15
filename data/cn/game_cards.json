@@ -1,177 +1,145 @@
 {
-  "crawl_time": "2026-05-14T10:36:00+08:00",
+  "crawl_time": "2026-05-15T10:36:11+08:00",
   "pools": [
     {
       "title": "优香(体操服)",
       "description": "研讨会，千禧年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/134455.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定"
       ],
-      "progress": "3小时24分钟后开始UP",
-      "start_time": "2026-05-14T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-05-21T13:00:00+08:00+08:00"
     },
     {
       "title": "玛丽(体操服)",
       "description": "姐妹会，崔尼蒂",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/9114.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定"
       ],
-      "progress": "3小时24分钟后开始UP",
-      "start_time": "2026-05-14T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-05-21T13:00:00+08:00+08:00"
     },
     {
       "title": "晴奈(体操服)",
       "description": "美食研，歌赫娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/190543.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时24分钟后开始UP",
-      "start_time": "2026-05-14T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-05-21T13:00:00+08:00+08:00"
     },
     {
       "title": "琴里(应援团)",
       "description": "工程部，千禧年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/769946.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时24分钟后开始UP",
-      "start_time": "2026-05-14T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-05-21T13:00:00+08:00+08:00"
     },
     {
       "title": "歌原(应援团)",
       "description": "工程部，千禧年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/514893.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时24分钟后开始UP",
-      "start_time": "2026-05-14T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-05-21T13:00:00+08:00+08:00"
     },
     {
       "title": "诺亚",
       "description": "研讨会，千禧年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/547530.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时24分钟后开始UP",
-      "start_time": "2026-05-14T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-05-21T13:00:00+08:00+08:00"
     },
     {
       "title": "优香(睡衣)",
       "description": "研讨会，千禧年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/653853.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下3小时24分钟",
+      "progress": "已经有20小时35分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-14T13:00:00+08:00+08:00"
+      "end_time": "2026-05-14T14:00:00+08:00+08:00"
     },
     {
       "title": "诺亚(睡衣)",
       "description": "研讨会，千禧年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/714127.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下3小时24分钟",
+      "progress": "已经有20小时35分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-14T13:00:00+08:00+08:00"
+      "end_time": "2026-05-14T14:00:00+08:00+08:00"
     },
     {
       "title": "爱露(新年)",
       "description": "便利屋68，歌赫娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/486768.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下3小时24分钟",
+      "progress": "已经有20小时35分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-14T13:00:00+08:00+08:00"
+      "end_time": "2026-05-14T14:00:00+08:00+08:00"
     },
     {
       "title": "睦月(新年)",
       "description": "便利屋68，歌赫娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/443816.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下3小时24分钟",
+      "progress": "已经有20小时35分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-14T13:00:00+08:00+08:00"
+      "end_time": "2026-05-14T14:00:00+08:00+08:00"
     },
     {
       "title": "佳代子(新年)",
       "description": "便利屋68，歌赫娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/101583.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3小时24分钟",
+      "progress": "已经有20小时35分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-14T13:00:00+08:00+08:00"
+      "end_time": "2026-05-14T14:00:00+08:00+08:00"
     },
     {
       "title": "春香(新年)",
       "description": "便利屋68，歌赫娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/543370.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3小时24分钟",
+      "progress": "已经有20小时35分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-14T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "千明",
-      "description": "万魔殿，歌赫娜学院",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/94917.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-30T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "皋月",
-      "description": "万魔殿，歌赫娜学院",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/41158.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-30T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "真琴",
-      "description": "万魔殿，歌赫娜学院",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_404/h_456/829/492704/2026/3/9/260952.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定"
-      ],
-      "progress": "已经有13天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-04-30T14:00:00+08:00+08:00"
+      "end_time": "2026-05-14T14:00:00+08:00+08:00"
     }
   ]
 }
