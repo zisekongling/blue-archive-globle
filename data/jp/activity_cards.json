@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-05-16T10:00:00+08:00",
+  "crawl_time": "2026-05-17T10:00:00+08:00",
   "activities": [
     {
       "title": "特别依赖掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/958547.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "大决战「市街地战・黑影」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/475847.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "大决战",
         "总力大决"
@@ -29,7 +29,7 @@
       "title": "目标！满贯全垒打！~ 复刻",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_215/h_118/829/191981/2026/4/5/783527.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "复刻",
         "活动"
@@ -41,7 +41,7 @@
       "title": "限制解除决战「可库玛」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/20/346891.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "10天后结束",
+      "progress": "9天后结束",
       "tags": [
         "其他",
         "爬塔"
