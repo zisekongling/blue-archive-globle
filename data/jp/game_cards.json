@@ -1,13 +1,13 @@
 {
-  "crawl_time": "2026-05-20T10:41:01+08:00",
+  "crawl_time": "2026-05-21T10:43:23+08:00",
   "pools": [
     {
       "title": "绘里香",
       "description": "回家部，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_349/829/492704/2026/4/19/1779196388433_1779196266496_i8nkw38myq_kpfknllvzc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/492704/2026/4/21/1779329272615_1779283722150_dd6hyi0y2u_qfysxffchz.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-05-27T09:00:00+08:00+08:00"
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/19/1779196430548_1779196273276_01vanrd2z0_ln3orve2ad.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-05-27T09:00:00+08:00+08:00"
     },
@@ -27,7 +27,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/19/1779196478435_1779196281830_kpk7tt2r2a_vvnniuhft1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-05-27T09:00:00+08:00+08:00"
     },
@@ -37,7 +37,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/19/1779196522572_1779196293621_twt8x00ydz_3s1iegtq1d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-05-27T09:00:00+08:00+08:00"
     },
@@ -47,7 +47,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/19/1779196563883_1779196284446_y6kka1zl02_j2s9kct1gm.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-05-27T09:00:00+08:00+08:00"
     },
@@ -59,9 +59,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有40分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-20T10:00:00+08:00+08:00"
     },
     {
       "title": "莱伊",
@@ -71,9 +71,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有40分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-20T10:00:00+08:00+08:00"
     },
     {
       "title": "泉(正月)",
@@ -83,9 +83,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有40分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-20T10:00:00+08:00+08:00"
     },
     {
       "title": "明里(正月)",
@@ -95,9 +95,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有40分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-20T10:00:00+08:00+08:00"
     },
     {
       "title": "遥香(正月)",
@@ -107,9 +107,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有40分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-20T10:00:00+08:00+08:00"
     }
   ]
 }
