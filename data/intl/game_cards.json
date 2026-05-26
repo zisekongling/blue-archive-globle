@@ -1,114 +1,79 @@
 {
-  "crawl_time": "2026-05-25T10:50:25+08:00",
+  "crawl_time": "2026-05-26T10:38:56+08:00",
   "pools": [
+    {
+      "title": "莉音(临战)",
+      "description": "研讨会",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/191981/2026/4/25/1779722427682_1779722418995_atubn4xawh_40psmf2vo7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "限定"
+      ],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-06-09T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "日鞠(临战)",
+      "description": "特搜部",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/191981/2026/4/25/1779722456464_1779722424551_iec0nyif7w_2mjdc4qt8i.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "限定"
+      ],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-06-09T09:00:00+08:00+08:00"
+    },
     {
       "title": "妃咲",
       "description": "玄龙门，山海经",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/11/371370.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时9分钟",
+      "progress": "已经有38分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "丽情",
       "description": "玄武商会，山海经",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/11/588136.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时9分钟",
+      "progress": "已经有38分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "优香(体操服)",
       "description": "研讨会，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/11/835297.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下23小时9分钟",
+      "progress": "已经有38分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-26T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "玛丽(体操服)",
       "description": "修女会，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/11/475997.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下23小时9分钟",
+      "progress": "已经有38分钟未UP",
       "start_time": null,
-      "end_time": "2026-05-26T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "若藻",
-      "description": "百鬼夜行",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/907787.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻",
-        "回忆招募"
-      ],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "星野(泳装)",
-      "description": "对策委员会，阿拜多斯",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/989236.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻",
-        "回忆招募"
-      ],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "未花",
-      "description": "弥香，茶话会，三一",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/558588.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻",
-        "回忆招募"
-      ],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "月咏(礼服)",
-      "description": "月夜，忍术研究会，百鬼夜行",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/9535.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "满(礼服)",
-      "description": "三千留，忍术研究会，百鬼夜行",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_300/h_338/829/492704/2026/3/20/397515.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-12T10:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }
