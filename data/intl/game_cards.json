@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-05-26T10:38:56+08:00",
+  "crawl_time": "2026-05-27T10:49:04+08:00",
   "pools": [
     {
       "title": "莉音(临战)",
@@ -9,7 +9,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-06-09T09:00:00+08:00+08:00"
     },
@@ -21,7 +21,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-06-09T09:00:00+08:00+08:00"
     },
@@ -33,9 +33,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有38分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-26T10:00:00+08:00+08:00"
     },
     {
       "title": "丽情",
@@ -45,9 +45,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有38分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-26T10:00:00+08:00+08:00"
     },
     {
       "title": "优香(体操服)",
@@ -58,9 +58,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有38分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-26T10:00:00+08:00+08:00"
     },
     {
       "title": "玛丽(体操服)",
@@ -71,9 +71,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有38分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-05-26T10:00:00+08:00+08:00"
     }
   ]
 }
