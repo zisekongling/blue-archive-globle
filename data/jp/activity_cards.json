@@ -1,11 +1,23 @@
 {
-  "crawl_time": "2026-05-29T10:00:00+08:00",
+  "crawl_time": "2026-05-30T10:00:00+08:00",
   "activities": [
+    {
+      "title": "经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/4/26/1779782299206_1779780890373_y2gpclkfac_zl9cv303uq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "1天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-05-31T10:00:00+08:00"
+    },
     {
       "title": "指名手配掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/4/26/1779782159817_1779780886528_3fgfg9oaw1_w2a9y5f4ke.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +29,7 @@
       "title": "特殊作战【追寻洛亚】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/829/492704/2026/4/26/1779782025648_1779780853629_qead93cjn9_s2sm5pmyt3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "11天后结束",
+      "progress": "10天后结束",
       "tags": [
         "其他",
         "活动"
@@ -29,7 +41,7 @@
       "title": "制约解除决战「赛特的愤怒」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/4/26/1779782066579_1779780872631_vzrsfod9bo_48wiff6e9a.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "25天后结束",
+      "progress": "24天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"

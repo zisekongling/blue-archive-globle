@@ -1,11 +1,23 @@
 {
-  "crawl_time": "2026-05-29T10:00:00+08:00",
+  "crawl_time": "2026-05-30T10:00:00+08:00",
   "activities": [
+    {
+      "title": "账号经验值2倍活动",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/952382.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "1天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-05-31T10:00:00+08:00"
+    },
     {
       "title": "综合战术测试 · 射击 · 特殊装甲",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/593924.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "战术测试"
@@ -17,7 +29,7 @@
       "title": "【悬赏通缉、日程、学院交流会】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/643082.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +41,7 @@
       "title": "100次免费招募",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/547452.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +52,7 @@
       "title": "无限制决战【获刻玛 • 重装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/257039.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -52,7 +64,7 @@
       "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/621925.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "活动"
@@ -64,7 +76,7 @@
       "title": "限时签到【千禧年博览会开幕礼】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/80936.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26天后结束",
+      "progress": "25天后结束",
       "tags": [
         "其他"
       ],
