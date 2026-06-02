@@ -1,65 +1,89 @@
 {
-  "crawl_time": "2026-06-01T11:00:00+08:00",
+  "crawl_time": "2026-06-02T10:00:00+08:00",
   "activities": [
     {
-      "title": "Hard獎勵3倍活動",
+      "title": "課程表獎勵3倍活動",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722986242_1779722962811_sd8qdstbw3_pm7ucl13lt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/191981/2026/4/25/1779723090557_1779723087052_5fpnv5qcpx_uz16445o2n.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-02T03:00:00+08:00"
+      "end_time": "2026-06-08T10:00:00+08:00"
     },
     {
-      "title": "Normal獎勵3倍活動",
+      "title": "特殊任務獎勵3倍活動",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722953441_1779722950080_wns3sq3875_v6rx1zxw8x.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/191981/2026/4/25/1779723132266_1779723128614_8ycl8v3p88_juwcgyrtep.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-02T03:00:00+08:00"
-    },
-    {
-      "title": "懸賞通緝獎勵3倍活動",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/191981/2026/4/25/1779722911452_1779722875660_b34c8mogso_chj09cglw3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-06-02T03:00:00+08:00"
+      "end_time": "2026-06-08T10:00:00+08:00"
     },
     {
       "title": "鋼鐵大陸攻略戰&聯合作戰",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_169/829/191981/2026/4/25/1779722575714_1779721588927_hg99geh38k_yrpys12ywk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-08T11:00:00+08:00"
+      "end_time": "2026-06-08T10:00:00+08:00"
     },
     {
       "title": "制約解除決戰 - 霍刻瑪(特殊裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722643922_1779722601165_cwgn17dss1_k35v4vb2dv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "21天后结束",
+      "progress": "20天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-06-22T11:00:00+08:00"
+      "end_time": "2026-06-22T10:00:00+08:00"
+    },
+    {
+      "title": "Hard獎勵3倍活動",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722986242_1779722962811_sd8qdstbw3_pm7ucl13lt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.25-26.06.01",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "Normal獎勵3倍活動",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722953441_1779722950080_wns3sq3875_v6rx1zxw8x.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.25-26.06.01",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "懸賞通緝獎勵3倍活動",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/191981/2026/4/25/1779722911452_1779722875660_b34c8mogso_chj09cglw3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.25-26.06.01",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "帳號經驗值獲取2倍活動",
@@ -81,42 +105,6 @@
       "tags": [
         "其他",
         "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "賽特的憤怒(輕裝甲)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1280/h_720/829/492704/2026/3/20/485130.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.04.29-26.05.25",
-      "tags": [
-        "其他",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "特殊任務2倍活動",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/408107/2026/4/12/431682.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.05.18-26.05.25",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "大決戰 – 白&黑(城鎮戰)",
-      "description": "- 活動期間內消滅大決戰頭目，即可獲得通關獎勵、累積點數獎勵與排名獎勵。﻿ ﻿* 詳細獎勵請至遊戲中確認。﻿ ﻿* 排名獎勵中的「10次招募票券」使用期限至6月30日(二)下午10點59分。",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/408107/2026/4/12/175945.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.05.19-26.05.25",
-      "tags": [
-        "其他",
-        "总力大决"
       ],
       "start_time": null,
       "end_time": null
