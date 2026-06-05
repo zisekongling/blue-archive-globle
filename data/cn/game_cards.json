@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-06-04T10:59:52+08:00",
+  "crawl_time": "2026-06-05T10:48:21+08:00",
   "pools": [
     {
       "title": "朱莉(打工)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/759091.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "28天3小时后开始UP",
+      "progress": "27天3小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/348164.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "28天3小时后开始UP",
+      "progress": "27天3小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -30,7 +30,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "28天3小时后开始UP",
+      "progress": "27天3小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -43,7 +43,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "28天3小时后开始UP",
+      "progress": "27天3小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -55,7 +55,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "28天3小时后开始UP",
+      "progress": "27天3小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -67,7 +67,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "28天3小时后开始UP",
+      "progress": "27天3小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -77,7 +77,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/641656.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天3小时后开始UP",
       "start_time": "2026-06-18T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -89,7 +89,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天3小时后开始UP",
       "start_time": "2026-06-18T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -101,7 +101,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天3小时后开始UP",
       "start_time": "2026-06-18T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -113,7 +113,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天3小时后开始UP",
       "start_time": "2026-06-18T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -125,7 +125,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "7天3小时后开始UP",
+      "progress": "6天3小时后开始UP",
       "start_time": "2026-06-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -137,7 +137,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "7天3小时后开始UP",
+      "progress": "6天3小时后开始UP",
       "start_time": "2026-06-11T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -145,122 +145,62 @@
       "title": "花子(泳装)",
       "description": "补习部，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/348410.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定",
         "复刻"
       ],
-      "progress": "3小时0分钟后开始UP",
-      "start_time": "2026-06-04T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-06-11T13:00:00+08:00+08:00"
     },
     {
       "title": "莉音",
       "description": "研讨会，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/116569.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定"
       ],
-      "progress": "3小时0分钟后开始UP",
-      "start_time": "2026-06-04T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-06-11T13:00:00+08:00+08:00"
     },
     {
       "title": "妮露(制服)",
       "description": "C&C，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/893932.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "FES限定"
       ],
-      "progress": "3小时0分钟后开始UP",
-      "start_time": "2026-06-04T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下6天3小时",
+      "start_time": null,
+      "end_time": "2026-06-11T13:00:00+08:00+08:00"
     },
     {
       "title": "圣娅",
       "description": "茶话会，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/65552.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下3小时0分钟",
+      "progress": "已经有20小时48分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-04T13:00:00+08:00+08:00"
+      "end_time": "2026-06-04T14:00:00+08:00+08:00"
     },
     {
       "title": "明日奈(制服)",
       "description": "C&C，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/941260.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下3小时0分钟",
+      "progress": "已经有20小时48分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-04T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "爱丽丝(女仆)",
-      "description": "游戏开发部，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/245977.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-28T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "桃井(女仆)",
-      "description": "游戏开发部，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/269030.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-28T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "绿(女仆)",
-      "description": "游戏开发部，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/987217.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-28T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "时(兔女郎)",
-      "description": "C&C，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/922278.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-28T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "日鞠",
-      "description": "超现调，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/890795.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-05-28T14:00:00+08:00+08:00"
+      "end_time": "2026-06-04T14:00:00+08:00+08:00"
     }
   ]
 }
