@@ -1,35 +1,11 @@
 {
-  "crawl_time": "2026-06-07T10:00:00+08:00",
+  "crawl_time": "2026-06-08T10:00:00+08:00",
   "activities": [
-    {
-      "title": "账号经验值2倍活动",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/2394.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-06-08T03:00:00+08:00"
-    },
-    {
-      "title": "无限制决战【获刻玛 • 重装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/257039.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
-      "tags": [
-        "其他",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": "2026-06-10T10:00:00+08:00"
-    },
     {
       "title": "总力战【格武拉 • 野外战】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/928796.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "总力战",
         "总力大决"
@@ -41,7 +17,7 @@
       "title": "【特别委托】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/725564.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -50,10 +26,22 @@
       "end_time": "2026-06-10T10:00:00+08:00"
     },
     {
+      "title": "无限制决战【获刻玛 • 重装甲】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/257039.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "2天后结束",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-06-10T10:00:00+08:00"
+    },
+    {
       "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/621925.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "活动"
@@ -65,12 +53,24 @@
       "title": "限时签到【千禧年博览会开幕礼】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/80936.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17天后结束",
+      "progress": "16天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2026-06-24T10:00:00+08:00"
+    },
+    {
+      "title": "账号经验值2倍活动",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/2394.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.05-26.06.07",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "100次免费招募",
@@ -115,17 +115,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "沙勒总决算",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1920/h_1080/829/492704/2026/3/9/558733.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.05.13-26.05.28",
-      "tags": [
-        "其他"
       ],
       "start_time": null,
       "end_time": null
