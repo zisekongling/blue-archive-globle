@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-06-11T10:00:00+08:00",
+  "crawl_time": "2026-06-12T10:00:00+08:00",
   "activities": [
-    {
-      "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/621925.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-06-11T13:00:00+08:00"
-    },
     {
       "title": "【任务（普通难度）】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/19921.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +17,7 @@
       "title": "【悬赏通缉、日程】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/897007.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -41,12 +29,59 @@
       "title": "限时签到【千禧年博览会开幕礼】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/80936.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2026-06-24T10:00:00+08:00"
+    },
+    {
+      "title": "限时活动【特殊调查：质点之树】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/143407.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-06-25T10:00:00+08:00"
+    },
+    {
+      "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/621925.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.05.28-26.06.11",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【圣堂的圣夜祝福 ~救护骑士团的礼物~】常驻化更新",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/192020.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.11-26.06.11",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【EX.神名十文字篇】第2章Part2更新",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/57831.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.11-26.06.11",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【特别委托】道具掉落量3倍",
@@ -68,41 +103,6 @@
       "tags": [
         "其他",
         "爬塔"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "总力战【格武拉 • 野外战】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/928796.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.04-26.06.10",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "账号经验值2倍活动",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/2394.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.05-26.06.07",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "100次免费招募",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/547452.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.05.28-26.06.04",
-      "tags": [
-        "其他"
       ],
       "start_time": null,
       "end_time": null

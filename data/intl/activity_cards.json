@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-06-11T10:00:00+08:00",
+  "crawl_time": "2026-06-12T10:00:00+08:00",
   "activities": [
     {
       "title": "任務(Hard)獎勵3倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/5/8/1780933360149_1780933209710_8lyvejj4nn_zqqzavwbsc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "懸賞通緝獎勵3倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/191981/2026/5/8/1780933265561_1780933207108_lozgfwfcoy_uenq2ahcym.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "任務(Normal)獎勵3倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/5/8/1780933310673_1780933207014_d8dbippin3_tzy9y070o3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -41,7 +41,7 @@
       "title": "制約解除決戰 - 霍刻瑪(特殊裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722643922_1779722601165_cwgn17dss1_k35v4vb2dv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "11天后结束",
+      "progress": "10天后结束",
       "tags": [
         "其他",
         "爬塔"
