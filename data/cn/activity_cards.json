@@ -1,11 +1,23 @@
 {
-  "crawl_time": "2026-06-12T10:00:00+08:00",
+  "crawl_time": "2026-06-13T10:00:00+08:00",
   "activities": [
     {
       "title": "【任务（普通难度）】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/19921.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-06-14T10:00:00+08:00"
+    },
+    {
+      "title": "账号经验值2倍活动",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/482990.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +29,7 @@
       "title": "【悬赏通缉、日程】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/897007.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +41,7 @@
       "title": "限时签到【千禧年博览会开幕礼】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/80936.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他"
       ],
@@ -40,13 +52,25 @@
       "title": "限时活动【特殊调查：质点之树】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/143407.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
       "end_time": "2026-06-25T10:00:00+08:00"
+    },
+    {
+      "title": "无限制决战【赛特之怒•轻装甲】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/829/492704/2026/4/18/63873.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "18天后结束",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-01T10:00:00+08:00"
     },
     {
       "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
