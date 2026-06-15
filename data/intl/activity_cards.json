@@ -1,53 +1,53 @@
 {
-  "crawl_time": "2026-06-14T10:00:00+08:00",
+  "crawl_time": "2026-06-15T11:00:00+08:00",
   "activities": [
     {
       "title": "任務(Hard)獎勵3倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/5/8/1780933360149_1780933209710_8lyvejj4nn_zqqzavwbsc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "15小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-15T10:00:00+08:00"
+      "end_time": "2026-06-16T02:00:00+08:00"
     },
     {
       "title": "懸賞通緝獎勵3倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/829/191981/2026/5/8/1780933265561_1780933207108_lozgfwfcoy_uenq2ahcym.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "15小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-15T10:00:00+08:00"
+      "end_time": "2026-06-16T02:00:00+08:00"
     },
     {
       "title": "任務(Normal)獎勵3倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/5/8/1780933310673_1780933207014_d8dbippin3_tzy9y070o3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "15小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-15T10:00:00+08:00"
+      "end_time": "2026-06-16T02:00:00+08:00"
     },
     {
       "title": "制約解除決戰 - 霍刻瑪(特殊裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/191981/2026/4/25/1779722643922_1779722601165_cwgn17dss1_k35v4vb2dv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-06-22T10:00:00+08:00"
+      "end_time": "2026-06-22T11:00:00+08:00"
     },
     {
       "title": "鋼鐵大陸攻略戰&聯合作戰",
