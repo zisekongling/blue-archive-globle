@@ -1,35 +1,35 @@
 {
-  "crawl_time": "2026-06-15T11:00:00+08:00",
+  "crawl_time": "2026-06-16T11:00:00+08:00",
   "activities": [
     {
       "title": "合同火力演习「射击演习」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/5/9/1780987778137_1780987776253_tar5jgkyvl_fgb4cdi9me.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "15小时后结束",
       "tags": [
         "其他",
         "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-06-16T11:00:00+08:00"
+      "end_time": "2026-06-17T02:00:00+08:00"
     },
     {
       "title": "日程表·学园交流会掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/4/26/1779782215710_1779780886528_m2y4jee90f_quw9xr8l1g.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "15小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-06-16T11:00:00+08:00"
+      "end_time": "2026-06-17T02:00:00+08:00"
     },
     {
       "title": "制约解除决战「赛特的愤怒」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/4/26/1779782066579_1779780872631_vzrsfod9bo_48wiff6e9a.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
@@ -41,7 +41,7 @@
       "title": "复刻 百花脱颖唯一朵 ~水上对战 一决胜负~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/829/492704/2026/5/9/1780987730481_1780987685174_xazic6d8ox_48qiuzhxvq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "复刻",
         "活动"
