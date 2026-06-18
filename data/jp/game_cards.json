@@ -1,107 +1,87 @@
 {
-  "crawl_time": "2026-06-17T11:24:50+08:00",
+  "crawl_time": "2026-06-18T10:54:20+08:00",
   "pools": [
+    {
+      "title": "好美(乐队)",
+      "description": "好美(乐队)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/399789/2026/5/17/85298054mqhim9qr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "限定"
+      ],
+      "progress": "UP还剩下5天23小时",
+      "start_time": null,
+      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "和纱(乐队)",
+      "description": "和纱(乐队)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/399789/2026/5/17/01678130mqhikxr8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "限定"
+      ],
+      "progress": "UP还剩下5天23小时",
+      "start_time": null,
+      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "夏(乐队)",
+      "description": "夏(乐队)",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/399789/2026/5/17/32074807mqhinhu7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下5天23小时",
+      "start_time": null,
+      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+    },
     {
       "title": "名草(泳装)",
       "description": "百花缭乱，百鬼",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/191981/2026/5/10/1781081217645_1781081138170_7c0rk50oej_17mtgip3ik.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下6天22小时",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+      "end_time": "2026-06-17T10:00:00+08:00+08:00"
     },
     {
       "title": "紫(泳装)",
       "description": "百花缭乱，百鬼",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/5/9/1780987487876_1780987219136_qhv2cw3le4_jzcoiazdpe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天22小时",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+      "end_time": "2026-06-17T10:00:00+08:00+08:00"
     },
     {
       "title": "桔梗(泳装)",
       "description": "百花缭乱，百鬼",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/5/9/1780987561240_1780987241997_sykqc4jkhu_ayk46nxmhg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天22小时",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+      "end_time": "2026-06-17T10:00:00+08:00+08:00"
     },
     {
       "title": "莲华(泳装)",
       "description": "百花缭乱，百鬼",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/5/9/1780987599315_1780987236259_sndml9lduc_tr7bfq5y1q.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下6天22小时",
-      "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "睦月(礼服)",
-      "description": "便利屋，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/492704/2026/4/27/1779884360367_1779878409907_qikdo07bwd_3kg9qk14iu.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有7天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-10T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "遥香(礼服)",
-      "description": "便利屋，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/492704/2026/4/27/1779884350897_1779878477013_kctz7ye2s9_xtcp3pefk5.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有7天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-10T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "阿露(礼服)",
-      "description": "便利屋，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/26/1779781829409_1779781558045_w39ac1ine6_fhou5frbhs.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天1小时未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": "2026-06-10T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "佳代子(礼服)",
-      "description": "便利屋，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/26/1779781888136_1779781565736_3u1k0z7dlm_2pwxw3i9ec.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有7天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-10T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "纱织(礼服)",
-      "description": "阿里乌斯小队",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/26/1779781940030_1779781573440_hw0nz1dbbe_drxtpmjnmw.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有7天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-10T10:00:00+08:00+08:00"
+      "end_time": "2026-06-17T10:00:00+08:00+08:00"
     }
   ]
 }
