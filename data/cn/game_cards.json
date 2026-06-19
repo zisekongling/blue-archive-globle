@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-06-18T10:55:06+08:00",
+  "crawl_time": "2026-06-19T11:42:00+08:00",
   "pools": [
     {
       "title": "朱莉(打工)",
@@ -7,7 +7,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/759091.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天2小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -17,7 +17,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/348164.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "将开始",
       "tags": [],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天2小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -30,7 +30,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天2小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -43,7 +43,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天2小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -55,7 +55,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天2小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -67,7 +67,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "14天3小时后开始UP",
+      "progress": "13天2小时后开始UP",
       "start_time": "2026-07-02T13:00:00+08:00+08:00",
       "end_time": null
     },
@@ -75,108 +75,71 @@
       "title": "真纪(露营)",
       "description": "真理社，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/641656.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "3小时5分钟后开始UP",
-      "start_time": "2026-06-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天2小时",
+      "start_time": null,
+      "end_time": "2026-07-02T13:00:00+08:00+08:00"
     },
     {
       "title": "晴(露营)",
       "description": "真理社，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/727476.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时5分钟后开始UP",
-      "start_time": "2026-06-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天2小时",
+      "start_time": null,
+      "end_time": "2026-07-02T13:00:00+08:00+08:00"
     },
     {
       "title": "小玉(露营)",
       "description": "真理社，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/937587.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时5分钟后开始UP",
-      "start_time": "2026-06-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天2小时",
+      "start_time": null,
+      "end_time": "2026-07-02T13:00:00+08:00+08:00"
     },
     {
       "title": "艾米(泳装)",
       "description": "超现调，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/298107.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "3小时5分钟后开始UP",
-      "start_time": "2026-06-18T13:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下13天2小时",
+      "start_time": null,
+      "end_time": "2026-07-02T13:00:00+08:00+08:00"
     },
     {
       "title": "芹娜(圣诞)",
       "description": "救护骑士团，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/343711.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3小时5分钟",
+      "progress": "已经有21小时41分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-18T13:00:00+08:00+08:00"
+      "end_time": "2026-06-18T14:00:00+08:00+08:00"
     },
     {
       "title": "花江(圣诞)",
       "description": "救护骑士团，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/67158.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下3小时5分钟",
+      "progress": "已经有21小时41分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-18T13:00:00+08:00+08:00"
-    },
-    {
-      "title": "花子(泳装)",
-      "description": "补习部，三一",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/348410.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "FES限定",
-        "复刻"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-11T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "莉音",
-      "description": "研讨会，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/116569.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "FES限定"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-11T14:00:00+08:00+08:00"
-    },
-    {
-      "title": "妮露(制服)",
-      "description": "C&C，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/893932.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "FES限定"
-      ],
-      "progress": "已经有6天20小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-11T14:00:00+08:00+08:00"
+      "end_time": "2026-06-18T14:00:00+08:00+08:00"
     }
   ]
 }
