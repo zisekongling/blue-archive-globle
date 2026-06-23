@@ -1,107 +1,251 @@
 {
-  "crawl_time": "2026-06-22T11:33:56+08:00",
+  "crawl_time": "2026-06-23T10:40:45+08:00",
   "pools": [
+    {
+      "title": "桃井(女仆)",
+      "description": "游戏部，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/49182333mqp52xzh.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "绿(女仆)",
+      "description": "游戏部，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/41987571mqp53y76.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "爱丽丝(女仆)",
+      "description": "游戏部，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/89127130mqp54wuj.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "佳代子(正月)",
+      "description": "便利屋，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/15144993mqp55vaq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "梓(泳装)",
+      "description": "补习部，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/84131179mqp5brba.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "真白(泳装)",
+      "description": "正实委，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/15860513mqp5cvy2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "日奈(泳装)",
+      "description": "风纪委，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/54852589mqp5dw5z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "伊织(泳装)",
+      "description": "风纪委，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/71216666mqp5exnu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "妮露(兔女郎)",
+      "description": "C&C，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/46710855mqp5kmwj.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "花凛(兔女郎)",
+      "description": "C&C，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/61505417mqp5lmox.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "阿露(正月)",
+      "description": "便利屋，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/65871279mqp5mo5u.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "睦月(正月)",
+      "description": "便利屋，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/14376841mqp5nluo.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "泉奈(泳装)",
+      "description": "忍术研，百鬼",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/78770468mqp5oy83.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "千世(泳装)",
+      "description": "阴阳部，百鬼",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/23872583mqp5pu3t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "安可"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-07T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "柚子(临战)",
+      "description": "游戏部，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/32279596mqp4nuyq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-07-07T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "艾米(临战)",
+      "description": "超现调，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/12545830mqp4p1zs.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-07-07T09:00:00+08:00+08:00"
+    },
     {
       "title": "一花",
       "description": "三一，正实部",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932838746_1780932812533_4eiqn3653x_embnt2svkm.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下22小时26分钟",
+      "progress": "已经有40分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "霞",
       "description": "格黑娜，温泉部",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932878477_1780932807098_72ptnqx2cn_aexx10uk5z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下22小时26分钟",
+      "progress": "已经有40分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "艾米（泳装）",
       "description": "千年，特搜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932954410_1780932916617_35eqz762gs_uc5r19qcz9.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下22小时26分钟",
+      "progress": "已经有40分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "樱子",
       "description": "三一，修女会",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932986970_1780932911927_owta7vurn8_s5g2idncsd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下22小时26分钟",
+      "progress": "已经有40分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-23T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "爱丽丝（临战）",
-      "description": "千年，游戏开发部",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932554635_1780932508909_0pielht83l_9fuzbrpzcu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES限定"
-      ],
-      "progress": "已经有6天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-16T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "柯伊",
-      "description": "千年，特搜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932607026_1780932511941_0wrv9nsv6k_ti04oc2etu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES限定"
-      ],
-      "progress": "已经有6天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-16T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "白子*恐怖",
-      "description": "阿拜多斯，学生会",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932658449_1780932514848_7aa1vg0wlj_8n3rbdjx54.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES限定",
-        "复刻"
-      ],
-      "progress": "已经有6天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-16T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "星野（临战）",
-      "description": "阿拜多斯，对策委",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/191981/2026/5/8/1780932693385_1780932519249_vh94unzkv5_wlucoiiryq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES限定",
-        "复刻"
-      ],
-      "progress": "已经有6天1小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-16T10:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }
