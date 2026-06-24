@@ -1,87 +1,126 @@
 {
-  "crawl_time": "2026-06-23T10:39:12+08:00",
+  "crawl_time": "2026-06-24T10:39:41+08:00",
   "pools": [
+    {
+      "title": "若藻",
+      "description": "百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/30619937mqqb9pwm.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-08T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "星野(泳装)",
+      "description": "对策委，阿拜多斯",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/00155992mqqbarou.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-08T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "未花",
+      "description": "茶话会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/29696735mqqbbirp.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-08T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "花子(泳装)",
+      "description": "补习部，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/77206244mqqbckfn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-08T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "日奈(礼服)",
+      "description": "风纪委，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/26139741mqqbdjgj.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻",
+        "回忆"
+      ],
+      "progress": "13天23小时后开始UP",
+      "start_time": "2026-07-08T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "妃咲(泳装)",
+      "description": "玄龙门，山海经",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/98760424mqqb6edr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-07-08T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "瞬(泳装)",
+      "description": "梅花园，山海经",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_338/492704/2026/5/23/94890705mqqb7ex9.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-07-08T09:00:00+08:00+08:00"
+    },
     {
       "title": "好美(乐队)",
       "description": "好美(乐队)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/399789/2026/5/17/85298054mqhim9qr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下23小时21分钟",
+      "progress": "已经有39分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "和纱(乐队)",
       "description": "和纱(乐队)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/399789/2026/5/17/01678130mqhikxr8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定"
       ],
-      "progress": "UP还剩下23小时21分钟",
+      "progress": "已经有39分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "夏(乐队)",
       "description": "夏(乐队)",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/399789/2026/5/17/32074807mqhinhu7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下23小时21分钟",
-      "start_time": null,
-      "end_time": "2026-06-24T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "名草(泳装)",
-      "description": "百花缭乱，百鬼",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/829/191981/2026/5/10/1781081217645_1781081138170_7c0rk50oej_17mtgip3ik.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有6天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-17T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "紫(泳装)",
-      "description": "百花缭乱，百鬼",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/5/9/1780987487876_1780987219136_qhv2cw3le4_jzcoiazdpe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天0小时未UP",
+      "progress": "已经有39分钟未UP",
       "start_time": null,
-      "end_time": "2026-06-17T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "桔梗(泳装)",
-      "description": "百花缭乱，百鬼",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/5/9/1780987561240_1780987241997_sykqc4jkhu_ayk46nxmhg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-17T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "莲华(泳装)",
-      "description": "百花缭乱，百鬼",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/5/9/1780987599315_1780987236259_sndml9lduc_tr7bfq5y1q.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有6天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-06-17T10:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-06-23T10:00:00+08:00",
+  "crawl_time": "2026-06-24T10:00:00+08:00",
   "activities": [
     {
       "title": "Normal任务2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/5/22/88142434mqp5s4z4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "联合作战:神名十字决战",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/492704/2026/5/22/93795458mqp4rxr0.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "活动"
@@ -29,13 +29,25 @@
       "title": "网站活动 Palace : Belonged",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/492704/2026/5/22/05451682mqp4tm7t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
       "end_time": "2026-07-06T10:00:00+08:00"
+    },
+    {
+      "title": "塞特的愤怒(特殊装甲)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/30609916mqp4uo1y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26天后结束",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-20T10:00:00+08:00"
     },
     {
       "title": "Ex. 十字神名篇﻿ ﻿第3章「合一之空」Part 4",
