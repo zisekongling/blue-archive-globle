@@ -1,50 +1,26 @@
 {
-  "crawl_time": "2026-07-06T10:00:00+08:00",
+  "crawl_time": "2026-07-07T10:00:00+08:00",
   "activities": [
     {
-      "title": "悬赏通缉2倍",
+      "title": "综合战术考试:射击考试",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/5/22/05357952mqp5sxwk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/71169815mqp516q4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "考试",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-13T10:00:00+08:00"
+    },
+    {
+      "title": "特殊任务2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/5/22/22511991mqp5tz2e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-07T02:00:00+08:00"
-    },
-    {
-      "title": "网站活动 Palace : Belonged",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/492704/2026/5/22/05451682mqp4tm7t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-07T02:00:00+08:00"
-    },
-    {
-      "title": "总力战:薇娜(野战)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/70927003mqp4z8uu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-07T02:00:00+08:00"
-    },
-    {
-      "title": "情人节的约定",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_2560/h_1067/492704/2026/5/22/49885847mqp4y769.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
-      "tags": [
-        "其他",
-        "活动"
       ],
       "start_time": null,
       "end_time": "2026-07-13T10:00:00+08:00"
@@ -53,7 +29,19 @@
       "title": "游戏开发部清扫大作战！",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_2560/h_1064/492704/2026/5/22/94216166mqp4wpkq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-13T10:00:00+08:00"
+    },
+    {
+      "title": "情人节的约定",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_2560/h_1067/492704/2026/5/22/49885847mqp4y769.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -65,13 +53,49 @@
       "title": "塞特的愤怒(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/30609916mqp4uo1y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-07-20T10:00:00+08:00"
+    },
+    {
+      "title": "悬赏通缉2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/5/22/05357952mqp5sxwk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.29-26.07.06",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "总力战:薇娜(野战)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/70927003mqp4z8uu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.30-26.07.06",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "网站活动 Palace : Belonged",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/492704/2026/5/22/05451682mqp4tm7t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.23-26.07.06",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "经验2倍",
@@ -93,41 +117,6 @@
       "tags": [
         "其他",
         "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "Normal任务2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/5/22/88142434mqp5s4z4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.22-26.06.29",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "经验2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/5/22/60446277mqp5unck.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.26-26.06.28",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "Ex. 十字神名篇﻿ ﻿第3章「合一之空」Part 4",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/492704/2026/5/22/23521087mqp4qbzk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.23-26.06.23",
-      "tags": [
-        "其他"
       ],
       "start_time": null,
       "end_time": null
