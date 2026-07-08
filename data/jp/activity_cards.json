@@ -1,47 +1,47 @@
 {
-  "crawl_time": "2026-07-07T10:00:00+08:00",
+  "crawl_time": "2026-07-08T10:00:00+08:00",
   "activities": [
     {
-      "title": "特别依赖、学园交流会2倍",
+      "title": "日程表2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/21842855mqqaxf1g.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/30224861mqqaxz8q.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-07-08T02:00:00+08:00"
+      "end_time": "2026-07-14T10:00:00+08:00"
     },
     {
-      "title": "总力战 「室内战・格里高利」",
+      "title": "联合火力演习「突破演习」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/42097576mqqavgfn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-08T02:00:00+08:00"
-    },
-    {
-      "title": "【活动】「岚过天晴」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/41150470mqqatq0k.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "23小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/7/92509038mrac9h6c.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-14T10:00:00+08:00"
+    },
+    {
+      "title": "【复刻活动】「海兰德铁道暴走事件～然后列车消失了～」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/7/29670720mrac85kr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "复刻",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-07-08T09:00:00+08:00"
+      "end_time": "2026-07-21T10:00:00+08:00"
     },
     {
       "title": "制约解除决战「提法瑞特」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/39830564mqqauswb.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "21天后结束",
+      "progress": "20天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
@@ -50,58 +50,58 @@
       "end_time": "2026-07-28T10:00:00+08:00"
     },
     {
-      "title": "经验2倍",
+      "title": "常驻化活动「Sheside outside」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/69916959mqqb2jw3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.03-26.07.05",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/7/91694462mrac8uar.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.08-26.07.08",
       "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "指名手配2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/12933441mqqawsqg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.23-26.06.30",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "经验2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/02575752mqqb1ync.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.26-26.06.28",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "复刻 百花脱颖唯一朵 ~水上对战 一决胜负~",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/829/492704/2026/5/9/1780987730481_1780987685174_xazic6d8ox_48qiuzhxvq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.10-26.06.24",
-      "tags": [
-        "复刻",
+        "其他",
         "活动"
       ],
       "start_time": null,
       "end_time": null
     },
     {
-      "title": "困难任务掉落2倍",
+      "title": "【活动】「岚过天晴」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/829/492704/2026/4/26/1779782272133_1779780886528_0ekt5x6cwe_alssbhixce.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.20-26.06.23",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/41150470mqqatq0k.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.24-26.07.08",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "特别依赖、学园交流会2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/21842855mqqaxf1g.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.06.30-26.07.07",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "总力战 「室内战・格里高利」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/42097576mqqavgfn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.01-26.07.07",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "经验2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/69916959mqqb2jw3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.03-26.07.05",
       "tags": [
         "资源翻倍",
         "多倍活动"
