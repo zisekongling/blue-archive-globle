@@ -1,13 +1,201 @@
 {
-  "crawl_time": "2026-07-10T10:24:00+08:00",
+  "crawl_time": "2026-07-11T10:02:02+08:00",
   "pools": [
+    {
+      "title": "菲娜(导游)",
+      "description": "庆运管，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/40426945mrenjd7e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "33天3小时后开始UP",
+      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "椿(导游)",
+      "description": "修行部，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/28964556mrenklpg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "33天3小时后开始UP",
+      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "海香",
+      "description": "庆运管，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/30975482mrenlk00.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "33天3小时后开始UP",
+      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "渚",
+      "description": "茶话会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/78757411mrenmtbb.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "33天3小时后开始UP",
+      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "时",
+      "description": "C&C，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/76177117mrennq9l.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "33天3小时后开始UP",
+      "start_time": "2026-08-13T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "望",
+      "description": "CCC。海兰德",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/31292982mrend8io.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "19天3小时后开始UP",
+      "start_time": "2026-07-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "光",
+      "description": "CCC，海兰德",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/60948253mrene2yu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "19天3小时后开始UP",
+      "start_time": "2026-07-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "纱织",
+      "description": "阿里乌斯",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/85229975mrenf7w4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "19天3小时后开始UP",
+      "start_time": "2026-07-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "日和",
+      "description": "阿里乌斯",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/90280805mrengr1t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "19天3小时后开始UP",
+      "start_time": "2026-07-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "亚津子",
+      "description": "阿里乌斯",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/68966608mrenhoqi.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "19天3小时后开始UP",
+      "start_time": "2026-07-30T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "堇(打工)",
+      "description": "训练部，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/49329706mren4eh6.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "4天23小时后开始UP",
+      "start_time": "2026-07-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "莱依",
+      "description": "训练部，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/68920014mren65uh.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "4天23小时后开始UP",
+      "start_time": "2026-07-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "泉(新年)",
+      "description": "美食研，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/47444555mren7s18.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "4天23小时后开始UP",
+      "start_time": "2026-07-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "晴奈(新年)",
+      "description": "美食研，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/64034638mren9781.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "4天23小时后开始UP",
+      "start_time": "2026-07-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "风香(新年)",
+      "description": "供餐部，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/88130612mrenah6b.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "4天23小时后开始UP",
+      "start_time": "2026-07-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "明里(新年)",
+      "description": "美食研，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/10/33899938mrenbqjq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "4天23小时后开始UP",
+      "start_time": "2026-07-16T09:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "朱莉(打工)",
       "description": "供餐部，格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/759091.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天3小时",
+      "progress": "UP还剩下5天3小时",
       "start_time": null,
       "end_time": "2026-07-16T13:00:00+08:00+08:00"
     },
@@ -17,7 +205,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/348164.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下6天3小时",
+      "progress": "UP还剩下5天3小时",
       "start_time": null,
       "end_time": "2026-07-16T13:00:00+08:00+08:00"
     },
@@ -30,7 +218,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下6天3小时",
+      "progress": "UP还剩下5天3小时",
       "start_time": null,
       "end_time": "2026-07-16T13:00:00+08:00+08:00"
     },
@@ -43,7 +231,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下6天3小时",
+      "progress": "UP还剩下5天3小时",
       "start_time": null,
       "end_time": "2026-07-16T13:00:00+08:00+08:00"
     },
@@ -55,7 +243,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天3小时",
+      "progress": "UP还剩下5天3小时",
       "start_time": null,
       "end_time": "2026-07-16T13:00:00+08:00+08:00"
     },
@@ -67,7 +255,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天3小时",
+      "progress": "UP还剩下5天3小时",
       "start_time": null,
       "end_time": "2026-07-16T13:00:00+08:00+08:00"
     },
@@ -77,7 +265,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/829/492704/2026/4/18/641656.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有7天20小时未UP",
+      "progress": "已经有8天20小时未UP",
       "start_time": null,
       "end_time": "2026-07-02T14:00:00+08:00+08:00"
     },
@@ -89,7 +277,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天20小时未UP",
+      "progress": "已经有8天20小时未UP",
       "start_time": null,
       "end_time": "2026-07-02T14:00:00+08:00+08:00"
     },
@@ -101,7 +289,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天20小时未UP",
+      "progress": "已经有8天20小时未UP",
       "start_time": null,
       "end_time": "2026-07-02T14:00:00+08:00+08:00"
     },
@@ -113,7 +301,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有7天20小时未UP",
+      "progress": "已经有8天20小时未UP",
       "start_time": null,
       "end_time": "2026-07-02T14:00:00+08:00+08:00"
     }
