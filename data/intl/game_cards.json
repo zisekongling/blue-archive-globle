@@ -1,6 +1,66 @@
 {
-  "crawl_time": "2026-07-13T10:08:31+08:00",
+  "crawl_time": "2026-07-14T09:53:59+08:00",
   "pools": [
+    {
+      "title": "小雪(睡衣)",
+      "description": "研讨会，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/91932175mrj8331t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "6分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "优香(睡衣)",
+      "description": "研讨会，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/14890356mrj84ljf.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "6分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "诺亚(睡衣)",
+      "description": "研讨会，千年",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/83106435mrj85ygd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "6分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "晴奈(正月)",
+      "description": "美食研，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/01371745mrj87gie.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "6分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "枫香(正月)",
+      "description": "供餐部，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/19899500mrj88qlc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "6分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "桃井(女仆)",
       "description": "游戏部，千年",
@@ -9,9 +69,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "绿(女仆)",
@@ -21,9 +81,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "爱丽丝(女仆)",
@@ -33,9 +93,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "佳代子(正月)",
@@ -45,9 +105,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "梓(泳装)",
@@ -58,9 +118,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "真白(泳装)",
@@ -71,9 +131,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "日奈(泳装)",
@@ -84,9 +144,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "伊织(泳装)",
@@ -97,9 +157,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "妮露(兔女郎)",
@@ -110,9 +170,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "花凛(兔女郎)",
@@ -123,9 +183,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "阿露(正月)",
@@ -136,9 +196,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "睦月(正月)",
@@ -149,9 +209,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "泉奈(泳装)",
@@ -162,9 +222,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "千世(泳装)",
@@ -175,9 +235,9 @@
         "限定",
         "安可"
       ],
-      "progress": "UP还剩下23小时51分钟",
+      "progress": "UP还剩下6分钟",
       "start_time": null,
-      "end_time": "2026-07-14T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "柚子(临战)",
@@ -185,7 +245,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/32279596mqp4nuyq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天0小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-07-07T10:00:00+08:00+08:00"
     },
@@ -195,7 +255,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/5/22/12545830mqp4p1zs.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有6天0小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-07-07T10:00:00+08:00+08:00"
     }
