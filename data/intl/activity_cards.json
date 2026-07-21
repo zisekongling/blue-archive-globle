@@ -1,83 +1,47 @@
 {
-  "crawl_time": "2026-07-20T11:00:00+08:00",
+  "crawl_time": "2026-07-21T10:00:00+08:00",
   "activities": [
     {
-      "title": "學園交流會獎勵2倍活動",
+      "title": "懸賞通緝獎勵2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/13/31118879mrj805f1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "15小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/20/62274922mrt2ulj5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-07-21T02:00:00+08:00"
+      "end_time": "2026-07-27T10:00:00+08:00"
     },
     {
-      "title": "課程表獎勵2倍活動",
+      "title": "奇普托斯・未確認謎團 ～追尋未知生物槌之子～",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/13/03757504mrj7zfv9.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "15小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-21T02:00:00+08:00"
-    },
-    {
-      "title": "大決戰 – 耶羅尼姆斯(城鎮戰)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/13/75567585mrj7yc3v.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "15小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/20/13490218mrt2qy40.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
       "tags": [
         "其他",
-        "总力大决"
+        "活动"
       ],
       "start_time": null,
-      "end_time": "2026-07-21T02:00:00+08:00"
+      "end_time": "2026-08-03T10:00:00+08:00"
     },
     {
-      "title": "任務(Hard)獎勵2倍活動",
+      "title": "電腦新春行進曲 -常駐-",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/13/62070034mrj80zdy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "15小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-21T02:00:00+08:00"
-    },
-    {
-      "title": "塞特的愤怒(特殊装甲)",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/30609916mqp4uo1y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "15小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/20/75866432mrt2ruhp.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.21-26.07.21",
       "tags": [
         "其他",
-        "爬塔"
+        "活动"
       ],
       "start_time": null,
-      "end_time": "2026-07-21T02:00:00+08:00"
+      "end_time": null
     },
     {
       "title": "祕密的午夜派對～鐘響時刻的捉迷藏～ -復刻-",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/13/61672605mrj7wf0n.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "22小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-21T09:00:00+08:00"
-    },
-    {
-      "title": "「鋼鐵大陸攻略戰」 -常設化-",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/13/55608730mrj7xgj1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.14-26.07.14",
+      "progress": "26.07.14-26.07.21",
       "tags": [
         "其他",
         "活动"
@@ -86,49 +50,37 @@
       "end_time": null
     },
     {
-      "title": "游戏开发部清扫大作战！",
+      "title": "學園交流會獎勵2倍活動",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_2560/h_1064/492704/2026/5/22/94216166mqp4wpkq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.30-26.07.14",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "情人节的约定",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_2560/h_1067/492704/2026/5/22/49885847mqp4y769.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.30-26.07.14",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "综合战术考试:射击考试",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/5/22/71169815mqp516q4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.07-26.07.13",
-      "tags": [
-        "考试",
-        "战术测试"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "特殊任务2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/5/22/22511991mqp5tz2e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.06-26.07.13",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/13/31118879mrj805f1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.13-26.07.20",
       "tags": [
         "资源翻倍",
         "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "課程表獎勵2倍活動",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/13/03757504mrj7zfv9.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.13-26.07.20",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "大決戰 – 耶羅尼姆斯(城鎮戰)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/13/75567585mrj7yc3v.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.14-26.07.20",
+      "tags": [
+        "其他",
+        "总力大决"
       ],
       "start_time": null,
       "end_time": null
