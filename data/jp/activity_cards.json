@@ -1,53 +1,89 @@
 {
-  "crawl_time": "2026-07-21T10:00:00+08:00",
+  "crawl_time": "2026-07-22T10:00:00+08:00",
   "activities": [
-    {
-      "title": "大决战 「室内战・霍德」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/7/18113905mraca8cn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-22T02:00:00+08:00"
-    },
-    {
-      "title": "困难任务2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/47507952mqqayiei.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-22T02:00:00+08:00"
-    },
-    {
-      "title": "【复刻活动】「海兰德铁道暴走事件～然后列车消失了～」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/7/29670720mrac85kr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "23小时后结束",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-07-22T09:00:00+08:00"
-    },
     {
       "title": "制约解除决战「提法瑞特」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/39830564mqqauswb.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-07-28T10:00:00+08:00"
+    },
+    {
+      "title": "普通任务2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/56694069mqqayzr3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-28T10:00:00+08:00"
+    },
+    {
+      "title": "夏莱总结算with联邦学生会",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/7/33712727mracboaw.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "其他",
+        "指引任务"
+      ],
+      "start_time": null,
+      "end_time": "2026-07-28T10:00:00+08:00"
+    },
+    {
+      "title": "常驻化活动「向阳而放 她们的小夜曲」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/7/80427551mracar7b.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.22-26.07.22",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "【复刻活动】「海兰德铁道暴走事件～然后列车消失了～」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/7/29670720mrac85kr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.08-26.07.22",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "大决战 「室内战・霍德」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/6/7/18113905mraca8cn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.15-26.07.21",
+      "tags": [
+        "大决战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "困难任务2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/47507952mqqayiei.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.14-26.07.21",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "联合火力演习「突破演习」",
@@ -57,54 +93,6 @@
       "tags": [
         "其他",
         "战术测试"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "日程表2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/30224861mqqaxz8q.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.07-26.07.14",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "常驻化活动「Sheside outside」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/7/91694462mrac8uar.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.08-26.07.08",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【活动】「岚过天晴」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/41150470mqqatq0k.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.24-26.07.08",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "特别依赖、学园交流会2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/21842855mqqaxf1g.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.06.30-26.07.07",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
