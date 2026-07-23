@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-07-22T10:00:28+08:00",
+  "crawl_time": "2026-07-23T10:07:44+08:00",
   "pools": [
     {
       "title": "真琴",
@@ -10,7 +10,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-07-29T09:00:00+08:00+08:00"
     },
@@ -23,7 +23,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-07-29T09:00:00+08:00+08:00"
     },
@@ -35,7 +35,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-07-29T09:00:00+08:00+08:00"
     },
@@ -47,7 +47,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-07-29T09:00:00+08:00+08:00"
     },
@@ -59,7 +59,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天23小时",
+      "progress": "UP还剩下5天23小时",
       "start_time": null,
       "end_time": "2026-07-29T09:00:00+08:00+08:00"
     },
@@ -72,9 +72,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有0分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-22T10:00:00+08:00+08:00"
     },
     {
       "title": "望",
@@ -85,9 +85,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有0分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-22T10:00:00+08:00+08:00"
     },
     {
       "title": "纱织(泳装)",
@@ -98,9 +98,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有0分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-22T10:00:00+08:00+08:00"
     },
     {
       "title": "日和(泳装)",
@@ -111,9 +111,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有0分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-22T10:00:00+08:00+08:00"
     },
     {
       "title": "美咲(泳装)",
@@ -123,9 +123,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有0分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-22T10:00:00+08:00+08:00"
     }
   ]
 }
