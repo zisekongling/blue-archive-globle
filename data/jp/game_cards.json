@@ -1,155 +1,91 @@
 {
-  "crawl_time": "2026-07-29T09:58:45+08:00",
+  "crawl_time": "2026-07-30T09:50:00+08:00",
   "pools": [
     {
       "title": "皋月(泳装)",
       "description": "万魔殿，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/28/56687309ms4pejeu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/6/29/64515313ms66bxrb.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [
         "限定"
       ],
-      "progress": "1分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "真琴(泳装)",
       "description": "万魔殿，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/28/32996962ms4pfh9j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/6/29/88213400ms66brk3.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [
         "限定"
       ],
-      "progress": "1分钟后开始UP",
+      "progress": "UP还剩下6天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-05T09:00:00+08:00+08:00"
     },
     {
       "title": "真琴",
       "description": "格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/6/21/37066808mruelyat.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1分钟",
+      "progress": "已经有23小时49分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-29T10:00:00+08:00+08:00"
     },
     {
       "title": "亚子(礼服)",
       "description": "格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/6/21/15992515mruenyq5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下1分钟",
+      "progress": "已经有23小时49分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-29T10:00:00+08:00+08:00"
     },
     {
       "title": "皋月",
       "description": "格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/6/21/01144702mruepe9l.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1分钟",
+      "progress": "已经有23小时49分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-29T10:00:00+08:00+08:00"
     },
     {
       "title": "千秋",
       "description": "格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/6/21/85567769mrueqhl2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1分钟",
+      "progress": "已经有23小时49分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-07-29T10:00:00+08:00+08:00"
     },
     {
       "title": "康娜(泳装)",
       "description": "瓦尔基里",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/6/21/77368457mrues2if.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下1分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "光",
-      "description": "CCC，海兰德",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/7/92080012mrabvarz.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-22T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "望",
-      "description": "CCC，海兰德",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/7/06760113mrabwg7r.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-22T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "纱织(泳装)",
-      "description": "阿里乌斯",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/7/63420707mrabx9c1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-22T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "日和(泳装)",
-      "description": "阿里乌斯",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/7/72394415mrabybiz.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有6天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-22T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "美咲(泳装)",
-      "description": "阿里乌斯",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/7/19624882mrabzraf.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有6天23小时未UP",
+      "progress": "已经有23小时49分钟未UP",
       "start_time": null,
-      "end_time": "2026-07-22T10:00:00+08:00+08:00"
+      "end_time": "2026-07-29T10:00:00+08:00+08:00"
     }
   ]
 }
