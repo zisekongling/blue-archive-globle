@@ -1,51 +1,63 @@
 {
-  "crawl_time": "2026-07-30T09:00:00+08:00",
+  "crawl_time": "2026-07-31T10:00:00+08:00",
   "activities": [
     {
       "title": "学园交流会掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/76834230ms4p49m6.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-04T09:00:00+08:00"
+      "end_time": "2026-08-04T10:00:00+08:00"
     },
     {
       "title": "每日1次免费10连招募活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/60748386ms4p0d8c.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": "2026-08-05T09:00:00+08:00"
+      "end_time": "2026-08-04T10:00:00+08:00"
     },
     {
       "title": "出航！万魔船　真琴议长的华丽避暑",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/92583813ms4ozijr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-12T09:00:00+08:00"
+      "end_time": "2026-08-11T10:00:00+08:00"
+    },
+    {
+      "title": "制约解除决战「赛特的愤怒」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "25天后结束",
+      "tags": [
+        "制约解除决战",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-25T10:00:00+08:00"
     },
     {
       "title": "5.5周年纪念 登录奖励",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "27天后结束",
+      "progress": "25天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00"
+      "end_time": "2026-08-25T10:00:00+08:00"
     },
     {
       "title": "夏莱总结算with联邦学生会",
