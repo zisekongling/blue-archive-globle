@@ -1,181 +1,121 @@
 {
-  "crawl_time": "2026-08-04T09:55:42+08:00",
+  "crawl_time": "2026-08-05T09:56:16+08:00",
   "pools": [
     {
       "title": "朱音(制服)",
       "description": "C&C，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/3/38010698msdc5eze.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-18T09:00:00+08:00+08:00"
     },
     {
       "title": "时(兔女郎)",
       "description": "C&C，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/3/81299404msdc7bf1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-18T09:00:00+08:00+08:00"
     },
     {
       "title": "明日奈(制服)",
       "description": "C&C，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/3/39098588msdc8o63.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-18T09:00:00+08:00+08:00"
     },
     {
       "title": "圣娅",
       "description": "茶会，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/3/19682783msdc9ol5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "status": "进行中",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "4分钟后开始UP",
+      "progress": "UP还剩下13天0小时",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-18T09:00:00+08:00+08:00"
     },
     {
       "title": "木乃香",
       "description": "公安局，瓦尔基里",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/20/50439358mrt2i5cl.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4分钟",
+      "progress": "已经有23小时55分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-04T10:00:00+08:00+08:00"
     },
     {
       "title": "蕾娜",
       "description": "神秘研，狂猎",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/20/45659703mrt2jml2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下4分钟",
+      "progress": "已经有23小时55分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-04T10:00:00+08:00+08:00"
     },
     {
       "title": "晴(露营)",
       "description": "真理社，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/20/26847023mrt2kv38.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4分钟",
+      "progress": "已经有23小时55分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-04T10:00:00+08:00+08:00"
     },
     {
       "title": "小玉(露营)",
       "description": "真理社，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/20/32493738mrt2m92d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4分钟",
+      "progress": "已经有23小时55分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-04T10:00:00+08:00+08:00"
     },
     {
       "title": "真纪(露营)",
       "description": "真理社，千年",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/20/89704869mrt2nnm5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下4分钟",
+      "progress": "已经有23小时55分钟未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-04T10:00:00+08:00+08:00"
     },
     {
       "title": "美咲",
       "description": "阿里乌斯小队",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/20/83353319mrt2pbjq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "UP还剩下4分钟",
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "小雪(睡衣)",
-      "description": "研讨会，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/91932175mrj8331t.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-21T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "优香(睡衣)",
-      "description": "研讨会，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/14890356mrj84ljf.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "已经有13天23小时未UP",
+      "progress": "已经有23小时55分钟未UP",
       "start_time": null,
-      "end_time": "2026-07-21T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "诺亚(睡衣)",
-      "description": "研讨会，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/83106435mrj85ygd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-21T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "晴奈(正月)",
-      "description": "美食研，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/01371745mrj87gie.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-21T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "枫香(正月)",
-      "description": "供餐部，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/6/13/19899500mrj88qlc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "复刻"
-      ],
-      "progress": "已经有13天23小时未UP",
-      "start_time": null,
-      "end_time": "2026-07-21T10:00:00+08:00+08:00"
+      "end_time": "2026-08-04T10:00:00+08:00+08:00"
     }
   ]
 }

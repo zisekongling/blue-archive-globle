@@ -1,23 +1,23 @@
 {
-  "crawl_time": "2026-08-04T09:00:00+08:00",
+  "crawl_time": "2026-08-05T09:00:00+08:00",
   "activities": [
     {
-      "title": "奇普托斯・未確認謎團 ～追尋未知生物槌之子～",
+      "title": "突破考试",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/20/13490218mrt2qy40.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4分钟后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/43977569msdchzn4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
       "tags": [
         "其他",
-        "活动"
+        "战术测试"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-10T09:00:00+08:00"
     },
     {
       "title": "交流会双倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/64379728msdclybt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "课程表双倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/63548284msdcldrk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "多倍活动"
@@ -41,13 +41,37 @@
       "title": "制約解除決戰 – 提法瑞特(彈力裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/20/53099051mrt2st4p.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-08-17T09:00:00+08:00"
+    },
+    {
+      "title": "CODE：BOX - 千禧年的阴影：一个问题与两个答案",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/3/72158406msdcetlb.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-18T09:00:00+08:00"
+    },
+    {
+      "title": "奇普托斯・未確認謎團 ～追尋未知生物槌之子～",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/20/13490218mrt2qy40.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.21-26.08.04",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "任務(Normal)獎勵2倍",
@@ -90,18 +114,6 @@
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/492704/2026/6/20/75866432mrt2ruhp.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "progress": "26.07.21-26.07.21",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "祕密的午夜派對～鐘響時刻的捉迷藏～ -復刻-",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/13/61672605mrj7wf0n.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.14-26.07.21",
       "tags": [
         "其他",
         "活动"
