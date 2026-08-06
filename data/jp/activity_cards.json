@@ -1,22 +1,11 @@
 {
-  "crawl_time": "2026-08-05T09:00:00+08:00",
+  "crawl_time": "2026-08-06T09:00:00+08:00",
   "activities": [
-    {
-      "title": "每日1次免费10连招募活动",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/60748386ms4p0d8c.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5分钟后结束",
-      "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
     {
       "title": "普通任务掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/78974352ms4p4wjn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -25,10 +14,22 @@
       "end_time": "2026-08-08T09:00:00+08:00"
     },
     {
+      "title": "总力战「市区战・希罗尼穆斯」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/91493513ms4p2voy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-11T09:00:00+08:00"
+    },
+    {
       "title": "特别依赖掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/40526134ms4p5hl4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -40,7 +41,7 @@
       "title": "出航！万魔船　真琴议长的华丽避暑",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/92583813ms4ozijr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -52,7 +53,7 @@
       "title": "制约解除决战「赛特的愤怒」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "20天后结束",
+      "progress": "19天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
@@ -64,12 +65,23 @@
       "title": "5.5周年纪念 登录奖励",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "21天后结束",
+      "progress": "20天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2026-08-26T09:00:00+08:00"
+    },
+    {
+      "title": "每日1次免费10连招募活动",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/60748386ms4p0d8c.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.29-26.08.05",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "学园交流会掉落3倍",
@@ -115,18 +127,6 @@
       "tags": [
         "制约解除决战",
         "爬塔"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "普通任务2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/5/23/56694069mqqayzr3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.21-26.07.28",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
