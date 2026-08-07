@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-08-06T09:56:42+08:00",
+  "crawl_time": "2026-08-07T10:19:55+08:00",
   "pools": [
     {
       "title": "伊吕波(泳装)",
@@ -10,7 +10,7 @@
         "限定",
         "FES"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
       "end_time": "2026-08-12T09:00:00+08:00+08:00"
     },
@@ -23,7 +23,7 @@
         "限定",
         "FES"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
       "end_time": "2026-08-12T09:00:00+08:00+08:00"
     },
@@ -37,7 +37,7 @@
         "FES",
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
       "end_time": "2026-08-12T09:00:00+08:00+08:00"
     },
@@ -51,7 +51,7 @@
         "FES",
         "复刻"
       ],
-      "progress": "UP还剩下6天0小时",
+      "progress": "UP还剩下4天23小时",
       "start_time": null,
       "end_time": "2026-08-12T09:00:00+08:00+08:00"
     },
@@ -63,7 +63,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有23小时56分钟未UP",
+      "progress": "已经有2天0小时未UP",
       "start_time": null,
       "end_time": "2026-08-05T10:00:00+08:00+08:00"
     },
@@ -75,7 +75,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有23小时56分钟未UP",
+      "progress": "已经有2天0小时未UP",
       "start_time": null,
       "end_time": "2026-08-05T10:00:00+08:00+08:00"
     }
