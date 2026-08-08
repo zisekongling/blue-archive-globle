@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-08-07T10:00:00+08:00",
+  "crawl_time": "2026-08-08T09:00:00+08:00",
   "activities": [
     {
       "title": "突破考试",
@@ -11,43 +11,43 @@
         "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-08-09T10:00:00+08:00"
+      "end_time": "2026-08-10T09:00:00+08:00"
     },
     {
       "title": "交流会双倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/64379728msdclybt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "其他",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-10T10:00:00+08:00"
+      "end_time": "2026-08-10T09:00:00+08:00"
     },
     {
       "title": "课程表双倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/63548284msdcldrk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "其他",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-10T10:00:00+08:00"
+      "end_time": "2026-08-10T09:00:00+08:00"
     },
     {
       "title": "制約解除決戰 – 提法瑞特(彈力裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/20/53099051mrt2st4p.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "10天后结束",
+      "progress": "9天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-08-17T10:00:00+08:00"
+      "end_time": "2026-08-17T09:00:00+08:00"
     },
     {
       "title": "CODE：BOX - 千禧年的阴影：一个问题与两个答案",
@@ -59,7 +59,7 @@
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-17T10:00:00+08:00"
+      "end_time": "2026-08-18T09:00:00+08:00"
     },
     {
       "title": "奇普托斯・未確認謎團 ～追尋未知生物槌之子～",
