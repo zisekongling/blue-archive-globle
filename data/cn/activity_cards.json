@@ -1,23 +1,23 @@
 {
-  "crawl_time": "2026-08-08T09:00:00+08:00",
+  "crawl_time": "2026-08-09T09:00:00+08:00",
   "activities": [
     {
       "title": "账号经验值2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/93803565mren22bb.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-09T09:00:00+08:00"
+      "end_time": "2026-08-10T03:00:00+08:00"
     },
     {
       "title": "【学院交流会】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/61910671mremz0gp.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "三周年纪念登录活动",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/20195853mremoiuf.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他"
       ],
@@ -40,7 +40,7 @@
       "title": "综合战术测试：【突破 • 轻装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/98937475mrems4my.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "战术测试"
@@ -52,7 +52,7 @@
       "title": "网页活动【全速前进！铁轨巡游大作战】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/22603388mremplkx.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "活动"
@@ -64,7 +64,7 @@
       "title": "特殊调查：质点之树",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/88695941mremqehq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "活动"
@@ -76,7 +76,7 @@
       "title": "海兰德铁道失控事件~无车生还~",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/65818449mremmbkt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "活动"
@@ -88,7 +88,7 @@
       "title": "无限制决战：【提翡瑞 • 弹力装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/90515993mremt0su.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18天后结束",
+      "progress": "17天后结束",
       "tags": [
         "其他",
         "爬塔"
