@@ -1,6 +1,54 @@
 {
-  "crawl_time": "2026-08-11T09:11:03+08:00",
+  "crawl_time": "2026-08-12T09:18:53+08:00",
   "pools": [
+    {
+      "title": "濑名(私服)",
+      "description": "急救部，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/41831256mson13t0.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "41分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "朱莉(打工)",
+      "description": "供餐部，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/86642364mson2e4y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "41分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "名草",
+      "description": "百花，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/92601327mson3y3e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "41分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "妮娅",
+      "description": "阴阳部，百鬼夜行",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/21287129mson51cg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "41分钟后开始UP",
+      "start_time": null,
+      "end_time": null
+    },
     {
       "title": "伊吕波(泳装)",
       "description": "万魔殿，格黑娜",
@@ -10,9 +58,9 @@
         "限定",
         "FES"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下41分钟",
       "start_time": null,
-      "end_time": "2026-08-12T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "伊吹(泳装)",
@@ -23,9 +71,9 @@
         "限定",
         "FES"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下41分钟",
       "start_time": null,
-      "end_time": "2026-08-12T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "妮露(制服)",
@@ -37,9 +85,9 @@
         "FES",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下41分钟",
       "start_time": null,
-      "end_time": "2026-08-12T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "莉音",
@@ -51,9 +99,9 @@
         "FES",
         "复刻"
       ],
-      "progress": "UP还剩下1天0小时",
+      "progress": "UP还剩下41分钟",
       "start_time": null,
-      "end_time": "2026-08-12T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "皋月(泳装)",
@@ -63,7 +111,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-08-05T10:00:00+08:00+08:00"
     },
@@ -75,7 +123,7 @@
       "tags": [
         "限定"
       ],
-      "progress": "已经有5天23小时未UP",
+      "progress": "已经有6天23小时未UP",
       "start_time": null,
       "end_time": "2026-08-05T10:00:00+08:00+08:00"
     }

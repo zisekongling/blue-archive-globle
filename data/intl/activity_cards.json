@@ -1,14 +1,14 @@
 {
-  "crawl_time": "2026-08-11T09:00:00+08:00",
+  "crawl_time": "2026-08-12T09:00:00+08:00",
   "activities": [
     {
-      "title": "困难双倍",
+      "title": "Perorodzilla（野战）",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/3/47872251msdcpur4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/3/59787028msdcji1g.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
       "tags": [
         "其他",
-        "多倍活动"
+        "总力大决"
       ],
       "start_time": null,
       "end_time": "2026-08-17T09:00:00+08:00"
@@ -17,7 +17,7 @@
       "title": "特需双倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/31994631msdcowqv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "悬赏双倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/23701146msdco9j1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "多倍活动"
@@ -41,7 +41,7 @@
       "title": "制約解除決戰 – 提法瑞特(彈力裝甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/20/53099051mrt2st4p.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -50,10 +50,34 @@
       "end_time": "2026-08-17T09:00:00+08:00"
     },
     {
+      "title": "困难双倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/3/47872251msdcpur4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
+      "tags": [
+        "其他",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-17T09:00:00+08:00"
+    },
+    {
       "title": "CODE：BOX - 千禧年的阴影：一个问题与两个答案",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/3/72158406msdcetlb.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-18T09:00:00+08:00"
+    },
+    {
+      "title": "夏莱联邦总结算",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/191981/2026/7/3/41774663msdchhla.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
