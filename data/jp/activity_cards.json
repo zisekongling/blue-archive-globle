@@ -1,23 +1,23 @@
 {
-  "crawl_time": "2026-08-12T09:00:00+08:00",
+  "crawl_time": "2026-08-13T09:00:00+08:00",
   "activities": [
     {
-      "title": "出航！万魔船　真琴议长的华丽避暑",
+      "title": "联合火力演习「护卫演习」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/92583813ms4ozijr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "41分钟后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_3628/h_2040/492704/2026/7/11/15171460mson9wq5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
       "tags": [
         "其他",
-        "活动"
+        "战术测试"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-08-18T09:00:00+08:00"
     },
     {
       "title": "日程表掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/35309535ms4p6r27.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +29,7 @@
       "title": "制约解除决战「赛特的愤怒」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
@@ -41,12 +41,59 @@
       "title": "5.5周年纪念 登录奖励",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2026-08-26T09:00:00+08:00"
+    },
+    {
+      "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-26T09:00:00+08:00"
+    },
+    {
+      "title": "出航！万魔船　真琴议长的华丽避暑",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/92583813ms4ozijr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.29-26.08.12",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "第2部主线故事Vol.1「炎与影」篇 第1章「让格赫娜再次伟大！」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/11/64301168mson8edo.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.12-26.08.12",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "总力战「市区战・希罗尼穆斯」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/91493513ms4p2voy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.05-26.08.11",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "困难任务掉落3倍",
@@ -65,42 +112,6 @@
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/40526134ms4p5hl4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "progress": "26.08.04-26.08.11",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "总力战「市区战・希罗尼穆斯」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/91493513ms4p2voy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.05-26.08.11",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/65929163ms4p9xyi.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.07-26.08.09",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "普通任务掉落3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/78974352ms4p4wjn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.04-26.08.08",
       "tags": [
         "资源翻倍",
         "多倍活动"
