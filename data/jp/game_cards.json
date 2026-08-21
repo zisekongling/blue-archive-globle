@@ -1,5 +1,5 @@
 {
-  "crawl_time": "2026-08-20T08:51:40+08:00",
+  "crawl_time": "2026-08-21T08:55:15+08:00",
   "pools": [
     {
       "title": "濑名(私服)",
@@ -9,7 +9,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天1小时",
+      "progress": "UP还剩下5天1小时",
       "start_time": null,
       "end_time": "2026-08-26T09:00:00+08:00+08:00"
     },
@@ -21,7 +21,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天1小时",
+      "progress": "UP还剩下5天1小时",
       "start_time": null,
       "end_time": "2026-08-26T09:00:00+08:00+08:00"
     },
@@ -33,7 +33,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天1小时",
+      "progress": "UP还剩下5天1小时",
       "start_time": null,
       "end_time": "2026-08-26T09:00:00+08:00+08:00"
     },
@@ -45,7 +45,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下6天1小时",
+      "progress": "UP还剩下5天1小时",
       "start_time": null,
       "end_time": "2026-08-26T09:00:00+08:00+08:00"
     },
@@ -58,7 +58,7 @@
         "限定",
         "FES"
       ],
-      "progress": "已经有7天22小时未UP",
+      "progress": "已经有8天22小时未UP",
       "start_time": null,
       "end_time": "2026-08-12T10:00:00+08:00+08:00"
     },
@@ -71,7 +71,7 @@
         "限定",
         "FES"
       ],
-      "progress": "已经有7天22小时未UP",
+      "progress": "已经有8天22小时未UP",
       "start_time": null,
       "end_time": "2026-08-12T10:00:00+08:00+08:00"
     },
@@ -85,7 +85,7 @@
         "FES",
         "复刻"
       ],
-      "progress": "已经有7天22小时未UP",
+      "progress": "已经有8天22小时未UP",
       "start_time": null,
       "end_time": "2026-08-12T10:00:00+08:00+08:00"
     },
@@ -99,7 +99,7 @@
         "FES",
         "复刻"
       ],
-      "progress": "已经有7天22小时未UP",
+      "progress": "已经有8天22小时未UP",
       "start_time": null,
       "end_time": "2026-08-12T10:00:00+08:00+08:00"
     }

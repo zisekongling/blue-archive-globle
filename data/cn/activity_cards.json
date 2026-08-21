@@ -1,35 +1,11 @@
 {
-  "crawl_time": "2026-08-20T08:00:00+08:00",
+  "crawl_time": "2026-08-21T08:00:00+08:00",
   "activities": [
-    {
-      "title": "复刻活动【笑笑闹闹 走走绕绕】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/82535183mremu7p2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5小时后结束",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-20T13:00:00+08:00"
-    },
-    {
-      "title": "无限制决战：【提翡瑞 • 弹力装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/90515993mremt0su.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
-      "tags": [
-        "其他",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T08:00:00+08:00"
-    },
     {
       "title": "【悬赏通缉、日程、特别委托】道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/23650316msrdeb7n.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -38,16 +14,87 @@
       "end_time": "2026-08-26T08:00:00+08:00"
     },
     {
+      "title": "无限制决战：【提翡瑞 • 弹力装甲】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/90515993mremt0su.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-26T08:00:00+08:00"
+    },
+    {
+      "title": "总力战：【格武拉 • 野外战】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/21106424msrd7kzd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": "2026-08-26T08:00:00+08:00"
+    },
+    {
       "title": "【沙勒总决算】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/76761023msrd61k3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "指引任务"
       ],
       "start_time": null,
       "end_time": "2026-09-03T08:00:00+08:00"
+    },
+    {
+      "title": "指引任务【和乐庆典特别庆祝活动！】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/96407647msrd5a5j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "27天后结束",
+      "tags": [
+        "其他",
+        "指引任务"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-17T08:00:00+08:00"
+    },
+    {
+      "title": "【龙武同舟】常驻化更新",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/94134848msrd4fce.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.20-26.08.20",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "主线故事【百花缭乱篇】第2章 Part1更新",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/71345490msrd36go.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.20-26.08.20",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "复刻活动【笑笑闹闹 走走绕绕】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/82535183mremu7p2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.13-26.08.20",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【任务（困难难度）】道具掉落量3倍",
@@ -69,41 +116,6 @@
       "tags": [
         "大决战",
         "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【任务（普通难度）】道具掉落量3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/33299196mremzpmg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.12-26.08.16",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【战术对抗赛】第九赛季更新",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/68490284mremw1b4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.13-26.08.13",
-      "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "海兰德铁道失控事件~无车生还~",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/6/10/65818449mremmbkt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.30-26.08.13",
-      "tags": [
-        "其他",
-        "活动"
       ],
       "start_time": null,
       "end_time": null
