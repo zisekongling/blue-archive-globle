@@ -1,35 +1,35 @@
 {
-  "crawl_time": "2026-08-22T08:00:00+08:00",
+  "crawl_time": "2026-08-23T08:00:00+08:00",
   "activities": [
     {
-      "title": "普通任务掉落3倍",
+      "title": "经验值2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/79007987ms4p7zs2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/13479818ms4paz4j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "progress": "18小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-23T02:00:00+08:00"
+      "end_time": "2026-08-24T02:00:00+08:00"
     },
     {
-      "title": "经验值2倍",
+      "title": "困难任务掉落3倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/13479818ms4paz4j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/25771813ms4p8nhe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-23T08:00:00+08:00"
+      "end_time": "2026-08-25T08:00:00+08:00"
     },
     {
       "title": "大决战「室外战・比纳」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/51159049msonbrx1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "大决战",
         "总力大决"
@@ -41,7 +41,7 @@
       "title": "制约解除决战「赛特的愤怒」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
@@ -53,7 +53,7 @@
       "title": "特别依赖掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/33015803ms4p7fxn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -65,7 +65,7 @@
       "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "复刻",
         "活动"
@@ -77,12 +77,24 @@
       "title": "5.5周年纪念 登录奖励",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2026-08-26T08:00:00+08:00"
+    },
+    {
+      "title": "普通任务掉落3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/79007987ms4p7zs2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.18-26.08.22",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "第2部主线故事Vol.1「炎与影」篇 第2章「化作烈焰的我们」",
@@ -127,18 +139,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "出航！万魔船　真琴议长的华丽避暑",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/92583813ms4ozijr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.29-26.08.12",
-      "tags": [
-        "其他",
-        "活动"
       ],
       "start_time": null,
       "end_time": null
