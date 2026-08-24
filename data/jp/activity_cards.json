@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-08-23T08:00:00+08:00",
+  "crawl_time": "2026-08-24T08:00:00+08:00",
   "activities": [
-    {
-      "title": "经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/13479818ms4paz4j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-24T02:00:00+08:00"
-    },
     {
       "title": "困难任务掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/25771813ms4p8nhe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -29,7 +17,7 @@
       "title": "大决战「室外战・比纳」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/51159049msonbrx1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "大决战",
         "总力大决"
@@ -41,7 +29,7 @@
       "title": "制约解除决战「赛特的愤怒」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
@@ -53,7 +41,7 @@
       "title": "特别依赖掉落3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/33015803ms4p7fxn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "2天后结束",
+      "progress": "1天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -65,7 +53,7 @@
       "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "复刻",
         "活动"
@@ -77,12 +65,24 @@
       "title": "5.5周年纪念 登录奖励",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3天后结束",
+      "progress": "2天后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
       "end_time": "2026-08-26T08:00:00+08:00"
+    },
+    {
+      "title": "经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/13479818ms4paz4j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.21-26.08.23",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "普通任务掉落3倍",
@@ -127,18 +127,6 @@
       "tags": [
         "其他",
         "战术测试"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/17008997ms4pagd7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.14-26.08.16",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
