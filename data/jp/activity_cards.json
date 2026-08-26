@@ -1,76 +1,88 @@
 {
-  "crawl_time": "2026-08-25T08:00:00+08:00",
+  "crawl_time": "2026-08-26T08:00:00+08:00",
   "activities": [
-    {
-      "title": "困难任务掉落3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/25771813ms4p8nhe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T02:00:00+08:00"
-    },
-    {
-      "title": "大决战「室外战・比纳」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/51159049msonbrx1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18小时后结束",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T02:00:00+08:00"
-    },
-    {
-      "title": "制约解除决战「赛特的愤怒」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18小时后结束",
-      "tags": [
-        "制约解除决战",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T02:00:00+08:00"
-    },
-    {
-      "title": "特别依赖掉落3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/33015803ms4p7fxn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T02:00:00+08:00"
-    },
     {
       "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "1小时后结束",
       "tags": [
         "复刻",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-26T08:00:00+08:00"
+      "end_time": "2026-08-26T09:00:00+08:00"
     },
     {
       "title": "5.5周年纪念 登录奖励",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "1小时后结束",
       "tags": [
         "其他"
       ],
       "start_time": null,
-      "end_time": "2026-08-26T08:00:00+08:00"
+      "end_time": "2026-08-26T09:00:00+08:00"
+    },
+    {
+      "title": "日程表、学园交流会掉落2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/59918836mt8gdpgy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-01T08:00:00+08:00"
+    },
+    {
+      "title": "特别依赖掉落3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/33015803ms4p7fxn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.18-26.08.25",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "制约解除决战「赛特的愤怒」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.30-26.08.25",
+      "tags": [
+        "制约解除决战",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "大决战「室外战・比纳」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/51159049msonbrx1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.19-26.08.25",
+      "tags": [
+        "大决战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "困难任务掉落3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/25771813ms4p8nhe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.22-26.08.25",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "经验值2倍",
@@ -80,53 +92,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "普通任务掉落3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/79007987ms4p7zs2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.18-26.08.22",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "第2部主线故事Vol.1「炎与影」篇 第2章「化作烈焰的我们」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/11/54354924msonaupj.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.19-26.08.19",
-      "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "日程表掉落3倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/35309535ms4p6r27.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.11-26.08.18",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "联合火力演习「护卫演习」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_3628/h_2040/492704/2026/7/11/15171460mson9wq5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.12-26.08.18",
-      "tags": [
-        "其他",
-        "战术测试"
       ],
       "start_time": null,
       "end_time": null

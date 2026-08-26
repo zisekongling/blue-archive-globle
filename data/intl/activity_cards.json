@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-08-25T08:00:00+08:00",
+  "crawl_time": "2026-08-26T08:00:00+08:00",
   "activities": [
     {
       "title": "任務(Normal)獎勵2倍活動",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/24/66437988mt7dbcxn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "總力戰 - KAITEN FX MK.0（城鎮戰）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/17/05282119msx9kfol.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "其他",
         "总力大决"
@@ -29,7 +29,7 @@
       "title": "特殊作戰：怪談追蹤篇",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_440/191981/2026/7/17/19793415msx9h5ve.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "7天后结束",
+      "progress": "6天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,7 +41,7 @@
       "title": "制約解除決戰 - 霍刻瑪（重裝甲）",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/191981/2026/7/17/39130140msx9j7jh.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "20天后结束",
+      "progress": "19天后结束",
       "tags": [
         "其他",
         "爬塔"
