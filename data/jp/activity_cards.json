@@ -1,73 +1,72 @@
 {
-  "crawl_time": "2026-08-26T08:00:00+08:00",
+  "crawl_time": "2026-08-27T14:00:00+08:00",
   "activities": [
-    {
-      "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1小时后结束",
-      "tags": [
-        "复刻",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00"
-    },
-    {
-      "title": "5.5周年纪念 登录奖励",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1小时后结束",
-      "tags": [
-        "其他"
-      ],
-      "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00"
-    },
     {
       "title": "日程表、学园交流会掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/59918836mt8gdpgy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-01T08:00:00+08:00"
+      "end_time": "2026-09-01T14:00:00+08:00"
     },
     {
-      "title": "特别依赖掉落3倍",
+      "title": "【活动】「DIVE into OCEAN！」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/33015803ms4p7fxn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.18-26.08.25",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/25/57385061mt8gag37.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "12天后结束",
       "tags": [
-        "资源翻倍",
-        "多倍活动"
+        "其他",
+        "活动"
       ],
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-08T14:00:00+08:00"
     },
     {
-      "title": "制约解除决战「赛特的愤怒」",
+      "title": "制约解除决战「科库玛」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.07.30-26.08.25",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/30270736mt8gbyup.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
       ],
       "start_time": null,
+      "end_time": "2026-09-22T14:00:00+08:00"
+    },
+    {
+      "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.12-26.08.26",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
       "end_time": null
     },
     {
-      "title": "大决战「室外战・比纳」",
+      "title": "5.5周年纪念 登录奖励",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/51159049msonbrx1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.19-26.08.25",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/71878837ms4p19z8.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.29-26.08.26",
       "tags": [
-        "大决战",
-        "总力大决"
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "第2部 主线剧情Vol.2「奥德赛」篇 第1章「映在眼眸中的水平线」前半 公开",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/62748403mt8gazuw.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.26-26.08.26",
+      "tags": [
+        "其他"
       ],
       "start_time": null,
       "end_time": null
@@ -85,13 +84,13 @@
       "end_time": null
     },
     {
-      "title": "经验值2倍",
+      "title": "制约解除决战「赛特的愤怒」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/13479818ms4paz4j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.21-26.08.23",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/6/28/31254421ms4p25l5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.07.30-26.08.25",
       "tags": [
-        "资源翻倍",
-        "多倍活动"
+        "制约解除决战",
+        "爬塔"
       ],
       "start_time": null,
       "end_time": null

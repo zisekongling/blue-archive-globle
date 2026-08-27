@@ -1,127 +1,73 @@
 {
-  "crawl_time": "2026-08-26T08:54:07+08:00",
+  "crawl_time": "2026-08-27T14:36:55+08:00",
   "pools": [
     {
       "title": "心",
       "description": "潜水部，奥德赛",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_300/492704/2026/7/25/95816316mt8a78xc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/7/26/44254522mta46v48.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [],
-      "progress": "1小时6分钟后开始UP",
-      "start_time": "2026-08-26T09:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下12天19小时",
+      "start_time": null,
+      "end_time": "2026-09-09T09:00:00+08:00+08:00"
     },
     {
       "title": "琴音",
       "description": "潜水部，奥德赛",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_300/492704/2026/7/25/73023084mt8a824d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "将开始",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/7/26/26493985mta46pm5.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
       "tags": [],
-      "progress": "1小时6分钟后开始UP",
-      "start_time": "2026-08-26T09:00:00+08:00+08:00",
-      "end_time": null
+      "progress": "UP还剩下12天19小时",
+      "start_time": null,
+      "end_time": "2026-09-09T09:00:00+08:00+08:00"
     },
     {
       "title": "濑名(私服)",
       "description": "急救部，格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/41831256mson13t0.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1小时6分钟",
+      "progress": "已经有1天4小时未UP",
       "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00+08:00"
+      "end_time": "2026-08-26T10:00:00+08:00+08:00"
     },
     {
       "title": "朱莉(打工)",
       "description": "供餐部，格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/86642364mson2e4y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1小时6分钟",
+      "progress": "已经有1天4小时未UP",
       "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00+08:00"
+      "end_time": "2026-08-26T10:00:00+08:00+08:00"
     },
     {
       "title": "名草",
       "description": "百花，百鬼夜行",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/92601327mson3y3e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1小时6分钟",
+      "progress": "已经有1天4小时未UP",
       "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00+08:00"
+      "end_time": "2026-08-26T10:00:00+08:00+08:00"
     },
     {
       "title": "妮娅",
       "description": "阴阳部，百鬼夜行",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/11/21287129mson51cg.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下1小时6分钟",
+      "progress": "已经有1天4小时未UP",
       "start_time": null,
-      "end_time": "2026-08-26T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "伊吕波(泳装)",
-      "description": "万魔殿，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/191981/2026/7/5/07197376msexcojc.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES"
-      ],
-      "progress": "已经有13天22小时未UP",
-      "start_time": null,
-      "end_time": "2026-08-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "伊吹(泳装)",
-      "description": "万魔殿，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/191981/2026/7/5/43924664msexdpb1.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES"
-      ],
-      "progress": "已经有13天22小时未UP",
-      "start_time": null,
-      "end_time": "2026-08-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "妮露(制服)",
-      "description": "C&C，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/5/65561880msexfenq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES",
-        "复刻"
-      ],
-      "progress": "已经有13天22小时未UP",
-      "start_time": null,
-      "end_time": "2026-08-12T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "莉音",
-      "description": "研讨会，千年",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/5/93355407msexgrhq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定",
-        "FES",
-        "复刻"
-      ],
-      "progress": "已经有13天22小时未UP",
-      "start_time": null,
-      "end_time": "2026-08-12T10:00:00+08:00+08:00"
+      "end_time": "2026-08-26T10:00:00+08:00+08:00"
     }
   ]
 }
