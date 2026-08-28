@@ -1,41 +1,41 @@
 {
-  "crawl_time": "2026-08-27T14:00:00+08:00",
+  "crawl_time": "2026-08-28T16:00:00+08:00",
   "activities": [
     {
       "title": "日程表、学园交流会掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/59918836mt8gdpgy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-01T14:00:00+08:00"
+      "end_time": "2026-09-01T16:00:00+08:00"
     },
     {
       "title": "【活动】「DIVE into OCEAN！」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/25/57385061mt8gag37.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-08T14:00:00+08:00"
+      "end_time": "2026-09-08T16:00:00+08:00"
     },
     {
       "title": "制约解除决战「科库玛」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/30270736mt8gbyup.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26天后结束",
+      "progress": "25天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-09-22T14:00:00+08:00"
+      "end_time": "2026-09-22T16:00:00+08:00"
     },
     {
       "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
