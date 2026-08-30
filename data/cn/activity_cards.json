@@ -1,77 +1,77 @@
 {
-  "crawl_time": "2026-08-29T13:00:00+08:00",
+  "crawl_time": "2026-08-30T10:00:00+08:00",
   "activities": [
     {
       "title": "【任务（普通难度）】道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/43213785msrdevay.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "17小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-08-30T13:00:00+08:00"
+      "end_time": "2026-08-31T03:00:00+08:00"
     },
     {
       "title": "综合战术测试：【射击 • 弹力装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/06263130msrd8i0e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "战术测试"
       ],
       "start_time": null,
-      "end_time": "2026-09-02T13:00:00+08:00"
+      "end_time": "2026-09-02T10:00:00+08:00"
     },
     {
       "title": "【学院交流会】道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/18157982msrdg1ub.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-02T13:00:00+08:00"
+      "end_time": "2026-09-02T10:00:00+08:00"
     },
     {
       "title": "【沙勒总决算】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/76761023msrd61k3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "指引任务"
       ],
       "start_time": null,
-      "end_time": "2026-09-03T13:00:00+08:00"
+      "end_time": "2026-09-03T10:00:00+08:00"
     },
     {
       "title": "无限制决战：【获刻玛 • 重装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/94093713msrd9a2z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "18天后结束",
+      "progress": "17天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
-      "end_time": "2026-09-16T13:00:00+08:00"
+      "end_time": "2026-09-16T10:00:00+08:00"
     },
     {
       "title": "指引任务【和乐庆典特别庆祝活动！】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/96407647msrd5a5j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "19天后结束",
+      "progress": "18天后结束",
       "tags": [
         "其他",
         "指引任务"
       ],
       "start_time": null,
-      "end_time": "2026-09-17T13:00:00+08:00"
+      "end_time": "2026-09-17T10:00:00+08:00"
     },
     {
       "title": "主线故事【百花缭乱篇】第2章 Part2更新",
