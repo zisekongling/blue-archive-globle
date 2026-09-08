@@ -1,89 +1,123 @@
 {
-  "crawl_time": "2026-09-07T10:19:11+08:00",
+  "crawl_time": "2026-09-08T10:31:39+08:00",
   "pools": [
     {
-      "title": "遥香(正月)",
-      "description": "格黑娜，便利屋",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/67759767msx9anvl.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "title": "繪里香",
+      "description": "格黑娜，回家部",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/1609130/2026/8/7/01372281mtrepach.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-09-15T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "綺羅羅",
+      "description": "格黑娜，回家部",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/1609130/2026/8/7/38142844mtreqkr7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时41分钟",
+      "progress": "UP还剩下6天23小时",
       "start_time": null,
-      "end_time": "2026-09-08T09:00:00+08:00+08:00"
+      "end_time": "2026-09-15T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "海花",
+      "description": "百鬼，庆典委",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/1609130/2026/8/7/52133848mtrerhci.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-09-15T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "菲娜(導覽員)",
+      "description": "百鬼，修行部",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/1609130/2026/8/7/49957664mtret0gr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-09-15T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "椿(導覽員)",
+      "description": "百鬼，修行部",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/1609130/2026/8/7/91242221mtreucim.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "UP还剩下6天23小时",
+      "start_time": null,
+      "end_time": "2026-09-15T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "遥香(正月)",
+      "description": "格黑娜，便利屋",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/67759767msx9anvl.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "已结束",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "已经有31分钟未UP",
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "明里(正月)",
       "description": "格黑娜，美食研",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/62918812msx9c0ru.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时41分钟",
+      "progress": "已经有31分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-08T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "泉(正月)",
       "description": "格黑娜，美食研",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/68751023msx9dj8l.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时41分钟",
+      "progress": "已经有31分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-08T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "莱伊",
       "description": "千年，运动部",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/80762341msx9eoqr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时41分钟",
+      "progress": "已经有31分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-08T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "堇(打工)",
       "description": "千年，运动部",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/34311692msx9fn1b.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时41分钟",
+      "progress": "已经有31分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-08T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "妮可",
-      "description": "SRT，FOX小队",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/28239174msx96x0y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定"
-      ],
-      "progress": "已经有6天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-09-01T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "胡桃",
-      "description": "SRT，FOX小队",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/191981/2026/7/17/82113769msx981x2.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [
-        "限定"
-      ],
-      "progress": "已经有6天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-09-01T10:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }
