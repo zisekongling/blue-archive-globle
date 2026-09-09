@@ -1,53 +1,100 @@
 {
-  "crawl_time": "2026-09-08T10:00:00+08:00",
+  "crawl_time": "2026-09-09T10:00:00+08:00",
   "activities": [
     {
-      "title": "困难任务掉落2倍",
+      "title": "联合火力演习「射击演习」",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/28469267mt8gel77.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1920/h_1080/492704/2026/8/8/34583743mtslxqhe.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-15T10:00:00+08:00"
+    },
+    {
+      "title": "指名手配掉落2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/70789517mt8gf476.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-09T02:00:00+08:00"
-    },
-    {
-      "title": "总力战「屋内战・佩洛洛吉拉」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/82195431mt8gclza.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "16小时后结束",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-09T02:00:00+08:00"
-    },
-    {
-      "title": "【活动】「DIVE into OCEAN！」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/25/57385061mt8gag37.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "23小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-09T09:00:00+08:00"
+      "end_time": "2026-09-15T10:00:00+08:00"
     },
     {
       "title": "制约解除决战「科库玛」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/30270736mt8gbyup.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-09-22T10:00:00+08:00"
+    },
+    {
+      "title": "【复刻活动】「夏日天空的约定」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1280/h_720/492704/2026/8/8/68986784mtslx4oi.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "复刻",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-22T10:00:00+08:00"
+    },
+    {
+      "title": "【活动】「DIVE into OCEAN！」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/25/57385061mt8gag37.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.26-26.09.09",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "第2部 主线故事 Vol.2「奥德赛」篇 第1章「映在眼中的水平线」后半部分 公开",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1280/h_720/492704/2026/8/8/31575264mtslw8f6.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.09-26.09.09",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "困难任务掉落2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/28469267mt8gel77.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.05-26.09.08",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "总力战「屋内战・佩洛洛吉拉」",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/82195431mt8gclza.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.02-26.09.08",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "经验值2倍",
@@ -57,54 +104,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "普通任务掉落2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/16385432mt8ge5z5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.09.01-26.09.05",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "日程表、学园交流会掉落2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/59918836mt8gdpgy.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.25-26.09.01",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "经验值2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/7/25/36455804mt8gg0ya.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.28-26.08.30",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【复刻活动】「PANDEMIC HAZARD～奇迹的一张～」",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/492704/2026/7/11/74254667mson95sd.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.12-26.08.26",
-      "tags": [
-        "复刻",
-        "活动"
       ],
       "start_time": null,
       "end_time": null
