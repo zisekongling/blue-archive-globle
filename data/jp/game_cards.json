@@ -1,13 +1,13 @@
 {
-  "crawl_time": "2026-09-09T10:31:31+08:00",
+  "crawl_time": "2026-09-10T10:32:28+08:00",
   "pools": [
     {
       "title": "霞(泳装)",
       "description": "温泉部，格黑娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_331/492704/2026/8/8/36060643mtsm36hr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/8/9/33253099mtu29qqc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-09-23T09:00:00+08:00+08:00"
     },
@@ -20,7 +20,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-09-23T09:00:00+08:00+08:00"
     },
@@ -33,7 +33,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-09-23T09:00:00+08:00+08:00"
     },
@@ -45,7 +45,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-09-23T09:00:00+08:00+08:00"
     },
@@ -57,7 +57,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-09-23T09:00:00+08:00+08:00"
     },
@@ -67,9 +67,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/7/26/44254522mta46v48.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有31分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-09T10:00:00+08:00+08:00"
     },
     {
       "title": "琴音",
@@ -77,9 +77,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/7/26/26493985mta46pm5.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有31分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-09T10:00:00+08:00+08:00"
     }
   ]
 }
