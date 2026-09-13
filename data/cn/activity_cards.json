@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-09-12T10:00:00+08:00",
+  "crawl_time": "2026-09-13T10:00:00+08:00",
   "activities": [
     {
       "title": "【学院交流会】道具掉落量2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/35961945msrdh5n3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "无限制决战：【获刻玛 • 重装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/94093713msrd9a2z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "其他",
         "爬塔"
@@ -29,7 +29,7 @@
       "title": "总力战：【格兹 • 室内战】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/18549799msrdc5o7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "4天后结束",
+      "progress": "3天后结束",
       "tags": [
         "总力战",
         "总力大决"
@@ -41,7 +41,7 @@
       "title": "指引任务【和乐庆典特别庆祝活动！】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/96407647msrd5a5j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "其他",
         "指引任务"
@@ -53,7 +53,7 @@
       "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55317080msrdbics.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "活动"
