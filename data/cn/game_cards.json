@@ -1,13 +1,170 @@
 {
-  "crawl_time": "2026-09-15T10:52:52+08:00",
+  "crawl_time": "2026-09-16T10:48:22+08:00",
   "pools": [
+    {
+      "title": "康娜(泳装)",
+      "description": "瓦尔基里",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/06661128mu2kbyyu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "36天3小时后开始UP",
+      "start_time": "2026-10-22T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "吹雪(泳装)",
+      "description": "瓦尔基里",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/86087250mu2kd5t9.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "36天3小时后开始UP",
+      "start_time": "2026-10-22T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "宫子(泳装)",
+      "description": "SRT",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/92143456mu2kdye1.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "36天3小时后开始UP",
+      "start_time": "2026-10-22T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "萌绘(泳装)",
+      "description": "SRT",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/24820263mu2kfhgk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "36天3小时后开始UP",
+      "start_time": "2026-10-22T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "咲(泳装)",
+      "description": "SRT",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/27319864mu2kge0f.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "复刻"
+      ],
+      "progress": "36天3小时后开始UP",
+      "start_time": "2026-10-22T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "夏(乐队)",
+      "description": "甜点部，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/09834504mu2k6z3y.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [],
+      "progress": "22天3小时后开始UP",
+      "start_time": "2026-10-08T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "和纱(乐队)",
+      "description": "甜点部，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/61846073mu2k8ckf.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "22天3小时后开始UP",
+      "start_time": "2026-10-08T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "好美(乐队)",
+      "description": "甜点部，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/04679848mu2k9ft0.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定",
+        "复刻"
+      ],
+      "progress": "22天3小时后开始UP",
+      "start_time": "2026-10-08T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "渚(泳装)",
+      "description": "茶会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/89398864mu2k2q9b.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "FES"
+      ],
+      "progress": "15天3小时后开始UP",
+      "start_time": "2026-10-01T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "未花(泳装)",
+      "description": "茶会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/70882818mu2k46nu.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "FES"
+      ],
+      "progress": "15天3小时后开始UP",
+      "start_time": "2026-10-01T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "日奈(礼服)",
+      "description": "风纪委，格黑娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/73354366mu2k5hyv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "FES",
+        "复刻"
+      ],
+      "progress": "15天3小时后开始UP",
+      "start_time": "2026-10-01T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "圣娅(泳装)",
+      "description": "茶会，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/12081822mu2jzx9g.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "8天3小时后开始UP",
+      "start_time": "2026-09-24T13:00:00+08:00+08:00",
+      "end_time": null
+    },
+    {
+      "title": "莲见(泳装)",
+      "description": "正实委，三一",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/492704/2026/8/15/56681471mu2k1d25.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "将开始",
+      "tags": [
+        "限定"
+      ],
+      "progress": "8天3小时后开始UP",
+      "start_time": "2026-09-24T13:00:00+08:00+08:00",
+      "end_time": null
+    },
     {
       "title": "桔梗(泳装)",
       "description": "百花，百鬼夜行",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/13/41050559msrdye6h.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下9天3小时",
+      "progress": "UP还剩下8天3小时",
       "start_time": null,
       "end_time": "2026-09-24T13:00:00+08:00+08:00"
     },
@@ -17,7 +174,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/13/67584315msrdzjhr.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下9天3小时",
+      "progress": "UP还剩下8天3小时",
       "start_time": null,
       "end_time": "2026-09-24T13:00:00+08:00+08:00"
     },
@@ -27,7 +184,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/13/04598130msre0j3a.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下9天3小时",
+      "progress": "UP还剩下8天3小时",
       "start_time": null,
       "end_time": "2026-09-24T13:00:00+08:00+08:00"
     },
@@ -40,7 +197,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下9天3小时",
+      "progress": "UP还剩下8天3小时",
       "start_time": null,
       "end_time": "2026-09-24T13:00:00+08:00+08:00"
     },
@@ -53,7 +210,7 @@
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下9天3小时",
+      "progress": "UP还剩下8天3小时",
       "start_time": null,
       "end_time": "2026-09-24T13:00:00+08:00+08:00"
     },
@@ -65,7 +222,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下9天3小时",
+      "progress": "UP还剩下8天3小时",
       "start_time": null,
       "end_time": "2026-09-24T13:00:00+08:00+08:00"
     },
@@ -75,7 +232,7 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_338/492704/2026/7/13/76057018msrds799.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有4天20小时未UP",
+      "progress": "已经有5天20小时未UP",
       "start_time": null,
       "end_time": "2026-09-10T14:00:00+08:00+08:00"
     },
@@ -87,7 +244,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有4天20小时未UP",
+      "progress": "已经有5天20小时未UP",
       "start_time": null,
       "end_time": "2026-09-10T14:00:00+08:00+08:00"
     },
@@ -99,7 +256,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有4天20小时未UP",
+      "progress": "已经有5天20小时未UP",
       "start_time": null,
       "end_time": "2026-09-10T14:00:00+08:00+08:00"
     },
@@ -111,7 +268,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有4天20小时未UP",
+      "progress": "已经有5天20小时未UP",
       "start_time": null,
       "end_time": "2026-09-10T14:00:00+08:00+08:00"
     },
@@ -123,7 +280,7 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有4天20小时未UP",
+      "progress": "已经有5天20小时未UP",
       "start_time": null,
       "end_time": "2026-09-10T14:00:00+08:00+08:00"
     }

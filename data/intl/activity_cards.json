@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-09-15T10:00:00+08:00",
+  "crawl_time": "2026-09-16T10:00:00+08:00",
   "activities": [
     {
       "title": "悬赏通缉2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_439/492704/2026/8/14/72347746mu16pz4d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,13 +17,25 @@
       "title": "特殊作战：怪谈追踪篇",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_440/492704/2026/8/14/38818249mu16727b.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
       "end_time": "2026-09-28T10:00:00+08:00"
+    },
+    {
+      "title": "制约解除决战－赛特的愤怒(特殊装甲)",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1280/h_720/492704/2026/8/14/70317916mu1681wt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26天后结束",
+      "tags": [
+        "制约解除决战",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": "2026-10-12T10:00:00+08:00"
     },
     {
       "title": "特殊任務 2倍",
