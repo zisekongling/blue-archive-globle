@@ -1,65 +1,77 @@
 {
-  "crawl_time": "2026-09-16T10:00:00+08:00",
+  "crawl_time": "2026-09-17T10:00:00+08:00",
   "activities": [
-    {
-      "title": "无限制决战：【获刻玛 • 重装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/94093713msrd9a2z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17小时后结束",
-      "tags": [
-        "其他",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-17T03:00:00+08:00"
-    },
-    {
-      "title": "【学院交流会】道具掉落量2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/35961945msrdh5n3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-17T03:00:00+08:00"
-    },
-    {
-      "title": "总力战：【格兹 • 室内战】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/18549799msrdc5o7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17小时后结束",
-      "tags": [
-        "总力战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-17T03:00:00+08:00"
-    },
     {
       "title": "指引任务【和乐庆典特别庆祝活动！】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/96407647msrd5a5j.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "3小时后结束",
       "tags": [
         "其他",
         "指引任务"
       ],
       "start_time": null,
-      "end_time": "2026-09-17T10:00:00+08:00"
+      "end_time": "2026-09-17T13:00:00+08:00"
+    },
+    {
+      "title": "【任务（普通难度）】道具掉落量2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/50011955msrdhq4d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "3天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-20T10:00:00+08:00"
     },
     {
       "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55317080msrdbics.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
       "end_time": "2026-09-24T10:00:00+08:00"
+    },
+    {
+      "title": "【学院交流会】道具掉落量2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/35961945msrdh5n3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.09-26.09.16",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "总力战：【格兹 • 室内战】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/18549799msrdc5o7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.10-26.09.16",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "无限制决战：【获刻玛 • 重装甲】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/94093713msrd9a2z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.08.28-26.09.16",
+      "tags": [
+        "其他",
+        "爬塔"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "限时复刻活动【0068 来自歌剧的爱情！】",
@@ -81,42 +93,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "大决战：【希罗尼穆斯 • 街区战】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/26321356msrdatzn.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.09.03-26.09.07",
-      "tags": [
-        "大决战",
-        "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【沙勒总决算】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/76761023msrd61k3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.19-26.09.03",
-      "tags": [
-        "其他",
-        "指引任务"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "综合战术测试：【射击 • 弹力装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/06263130msrd8i0e.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.27-26.09.02",
-      "tags": [
-        "其他",
-        "战术测试"
       ],
       "start_time": null,
       "end_time": null
