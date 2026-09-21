@@ -1,35 +1,23 @@
 {
-  "crawl_time": "2026-09-20T10:00:00+08:00",
+  "crawl_time": "2026-09-21T10:00:00+08:00",
   "activities": [
     {
-      "title": "帐号经验值2倍",
+      "title": "悬赏通缉2倍",
       "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_439/492704/2026/8/14/90336398mu16pgmv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_439/492704/2026/8/14/72347746mu16pz4d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "progress": "16小时后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-21T02:00:00+08:00"
-    },
-    {
-      "title": "悬赏通缉2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_439/492704/2026/8/14/72347746mu16pz4d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-21T10:00:00+08:00"
+      "end_time": "2026-09-22T02:00:00+08:00"
     },
     {
       "title": "特殊作战：怪谈追踪篇",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_440/492704/2026/8/14/38818249mu16727b.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "8天后结束",
+      "progress": "7天后结束",
       "tags": [
         "其他",
         "活动"
@@ -41,13 +29,25 @@
       "title": "制约解除决战－赛特的愤怒(特殊装甲)",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_1280/h_720/492704/2026/8/14/70317916mu1681wt.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "22天后结束",
+      "progress": "21天后结束",
       "tags": [
         "制约解除决战",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-10-12T10:00:00+08:00"
+    },
+    {
+      "title": "帐号经验值2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_780/h_439/492704/2026/8/14/90336398mu16pgmv.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.18-26.09.20",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "特殊任務 2倍",
@@ -92,18 +92,6 @@
       "tags": [
         "其他",
         "总力大决"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "夏萊總結算with聯邦學生會",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_780/h_439/1609130/2026/8/7/76478813mtrevyjc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.09.08-26.09.15",
-      "tags": [
-        "其他",
-        "活动"
       ],
       "start_time": null,
       "end_time": null
