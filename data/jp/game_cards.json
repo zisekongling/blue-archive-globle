@@ -1,85 +1,85 @@
 {
-  "crawl_time": "2026-09-22T10:47:20+08:00",
+  "crawl_time": "2026-09-23T10:47:50+08:00",
   "pools": [
+    {
+      "title": "艾莉娜",
+      "description": "艾莉娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_371/1609130/2026/8/22/04476607mucavfjk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-10-07T09:00:00+08:00+08:00"
+    },
+    {
+      "title": "安娜",
+      "description": "安娜",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_387/1609130/2026/8/22/87850366mucawm8c.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "status": "进行中",
+      "tags": [],
+      "progress": "UP还剩下13天23小时",
+      "start_time": null,
+      "end_time": "2026-10-07T09:00:00+08:00+08:00"
+    },
     {
       "title": "霞(泳装)",
       "description": "温泉部，格黑娜",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/8/9/33253099mtu29qqc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [],
-      "progress": "UP还剩下23小时13分钟",
+      "progress": "已经有47分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "圣娅(泳装)",
       "description": "茶话会，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_339/492704/2026/8/8/16841038mtsm5csm.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下23小时13分钟",
+      "progress": "已经有47分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "莲见(泳装)",
       "description": "正实委，三一",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_339/492704/2026/8/8/71883815mtsm6q9p.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "限定",
         "复刻"
       ],
-      "progress": "UP还剩下23小时13分钟",
+      "progress": "已经有47分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "萌绘(泳装)",
       "description": "SRT",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_339/492704/2026/8/8/01264395mtsm829s.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时13分钟",
+      "progress": "已经有47分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-23T09:00:00+08:00+08:00"
+      "end_time": null
     },
     {
       "title": "吹雪(泳装)",
       "description": "瓦尔基里",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/50580/images/w_300/h_339/492704/2026/8/8/10537772mtsmaenc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "进行中",
+      "status": "已结束",
       "tags": [
         "复刻"
       ],
-      "progress": "UP还剩下23小时13分钟",
+      "progress": "已经有47分钟未UP",
       "start_time": null,
-      "end_time": "2026-09-23T09:00:00+08:00+08:00"
-    },
-    {
-      "title": "心",
-      "description": "潜水部，奥德赛",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/7/26/44254522mta46v48.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-09-09T10:00:00+08:00+08:00"
-    },
-    {
-      "title": "琴音",
-      "description": "潜水部，奥德赛",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/7/26/26493985mta46pm5.png?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "status": "已结束",
-      "tags": [],
-      "progress": "已经有13天0小时未UP",
-      "start_time": null,
-      "end_time": "2026-09-09T10:00:00+08:00+08:00"
+      "end_time": null
     }
   ]
 }
