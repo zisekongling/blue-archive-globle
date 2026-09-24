@@ -1,53 +1,65 @@
 {
-  "crawl_time": "2026-09-23T10:00:00+08:00",
+  "crawl_time": "2026-09-24T10:00:00+08:00",
   "activities": [
-    {
-      "title": "综合战术测试：【防御 • 特殊装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55404339msrdcrlk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17小时后结束",
-      "tags": [
-        "其他",
-        "战术测试"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-24T03:00:00+08:00"
-    },
-    {
-      "title": "【任务（困难难度）】道具掉落量2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/62040322msrdi6a5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "17小时后结束",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-24T03:00:00+08:00"
-    },
     {
       "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55317080msrdbics.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "1天后结束",
+      "progress": "3小时后结束",
       "tags": [
         "其他",
         "活动"
       ],
       "start_time": null,
-      "end_time": "2026-09-24T10:00:00+08:00"
+      "end_time": "2026-09-24T13:00:00+08:00"
+    },
+    {
+      "title": "【悬赏通缉、日程】道具掉落量3倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/50805066mu2jny96.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-30T10:00:00+08:00"
     },
     {
       "title": "无限制决战：【赛特之怒 • 轻装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/30147147msrddi08.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "14天后结束",
+      "progress": "13天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-10-07T10:00:00+08:00"
+    },
+    {
+      "title": "【任务（困难难度）】道具掉落量2倍",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/62040322msrdi6a5.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.20-26.09.23",
+      "tags": [
+        "资源翻倍",
+        "多倍活动"
+      ],
+      "start_time": null,
+      "end_time": null
+    },
+    {
+      "title": "综合战术测试：【防御 • 特殊装甲】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55404339msrdcrlk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.17-26.09.23",
+      "tags": [
+        "其他",
+        "战术测试"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【任务（普通难度）】道具掉落量2倍",
@@ -81,30 +93,6 @@
       "tags": [
         "资源翻倍",
         "多倍活动"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "无限制决战：【获刻玛 • 重装甲】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/94093713msrd9a2z.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.08.28-26.09.16",
-      "tags": [
-        "其他",
-        "爬塔"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "总力战：【格兹 • 室内战】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/18549799msrdc5o7.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.09.10-26.09.16",
-      "tags": [
-        "总力战",
-        "总力大决"
       ],
       "start_time": null,
       "end_time": null

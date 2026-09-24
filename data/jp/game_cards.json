@@ -1,23 +1,23 @@
 {
-  "crawl_time": "2026-09-23T10:47:50+08:00",
+  "crawl_time": "2026-09-24T10:37:20+08:00",
   "pools": [
     {
       "title": "艾莉娜",
       "description": "艾莉娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_371/1609130/2026/8/22/04476607mucavfjk.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/1609130/2026/8/23/90614912mue8ns01.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-10-07T09:00:00+08:00+08:00"
     },
     {
       "title": "安娜",
       "description": "安娜",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_387/1609130/2026/8/22/87850366mucawm8c.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_300/h_339/1609130/2026/8/23/62137404mue8nn3d.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "进行中",
       "tags": [],
-      "progress": "UP还剩下13天23小时",
+      "progress": "UP还剩下12天23小时",
       "start_time": null,
       "end_time": "2026-10-07T09:00:00+08:00+08:00"
     },
@@ -27,9 +27,9 @@
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_404/h_456/492704/2026/8/9/33253099mtu29qqc.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
       "status": "已结束",
       "tags": [],
-      "progress": "已经有47分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-23T10:00:00+08:00+08:00"
     },
     {
       "title": "圣娅(泳装)",
@@ -40,9 +40,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有47分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-23T10:00:00+08:00+08:00"
     },
     {
       "title": "莲见(泳装)",
@@ -53,9 +53,9 @@
         "限定",
         "复刻"
       ],
-      "progress": "已经有47分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-23T10:00:00+08:00+08:00"
     },
     {
       "title": "萌绘(泳装)",
@@ -65,9 +65,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有47分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-23T10:00:00+08:00+08:00"
     },
     {
       "title": "吹雪(泳装)",
@@ -77,9 +77,9 @@
       "tags": [
         "复刻"
       ],
-      "progress": "已经有47分钟未UP",
+      "progress": "已经有1天0小时未UP",
       "start_time": null,
-      "end_time": null
+      "end_time": "2026-09-23T10:00:00+08:00+08:00"
     }
   ]
 }
