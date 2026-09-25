@@ -1,11 +1,11 @@
 {
-  "crawl_time": "2026-09-24T10:00:00+08:00",
+  "crawl_time": "2026-09-25T10:00:00+08:00",
   "activities": [
     {
       "title": "指明手配掉落2倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/1609130/2026/8/22/65815141mucb2skq.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "5天后结束",
+      "progress": "4天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -17,7 +17,7 @@
       "title": "「It's our Engine! ～逃离183号班！～」",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1280/h_720/1609130/2026/8/22/31549132mucaytis.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "12天后结束",
+      "progress": "11天后结束",
       "tags": [
         "其他",
         "活动"
@@ -29,7 +29,7 @@
       "title": "提法瑞特",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/1609130/2026/8/22/52166855mucazsaf.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "33天后结束",
+      "progress": "32天后结束",
       "tags": [
         "其他",
         "爬塔"

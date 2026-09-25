@@ -1,23 +1,11 @@
 {
-  "crawl_time": "2026-09-24T10:00:00+08:00",
+  "crawl_time": "2026-09-25T10:00:00+08:00",
   "activities": [
-    {
-      "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55317080msrdbics.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "3小时后结束",
-      "tags": [
-        "其他",
-        "活动"
-      ],
-      "start_time": null,
-      "end_time": "2026-09-24T13:00:00+08:00"
-    },
     {
       "title": "【悬赏通缉、日程】道具掉落量3倍",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/50805066mu2jny96.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "6天后结束",
+      "progress": "5天后结束",
       "tags": [
         "资源翻倍",
         "多倍活动"
@@ -26,16 +14,86 @@
       "end_time": "2026-09-30T10:00:00+08:00"
     },
     {
+      "title": "总力战：【霍德 • 街区战】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/04017215mu2jg6ej.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "5天后结束",
+      "tags": [
+        "总力战",
+        "总力大决"
+      ],
+      "start_time": null,
+      "end_time": "2026-09-30T10:00:00+08:00"
+    },
+    {
+      "title": "100次免费招募",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/15235683mu2je4jx.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "6天后结束",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": "2026-10-01T10:00:00+08:00"
+    },
+    {
+      "title": "限时网页活动【月饼复制危机！泡泡月饼大作战 】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/37319371mu2jfgm9.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "12天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-10-07T10:00:00+08:00"
+    },
+    {
       "title": "无限制决战：【赛特之怒 • 轻装甲】",
       "description": "",
       "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/30147147msrddi08.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "13天后结束",
+      "progress": "12天后结束",
       "tags": [
         "其他",
         "爬塔"
       ],
       "start_time": null,
       "end_time": "2026-10-07T10:00:00+08:00"
+    },
+    {
+      "title": "限时活动【夏日天空的约定】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/26449051mu2jdaqp.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "13天后结束",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": "2026-10-08T10:00:00+08:00"
+    },
+    {
+      "title": "限时签到【碧波&海风 假日嘉年华！】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1920/h_1080/492704/2026/8/15/21412938mu2jeus4.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26天后结束",
+      "tags": [
+        "其他"
+      ],
+      "start_time": null,
+      "end_time": "2026-10-21T10:00:00+08:00"
+    },
+    {
+      "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
+      "description": "",
+      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/55317080msrdbics.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
+      "progress": "26.09.10-26.09.24",
+      "tags": [
+        "其他",
+        "活动"
+      ],
+      "start_time": null,
+      "end_time": null
     },
     {
       "title": "【任务（困难难度）】道具掉落量2倍",
@@ -81,18 +139,6 @@
       "tags": [
         "其他",
         "指引任务"
-      ],
-      "start_time": null,
-      "end_time": null
-    },
-    {
-      "title": "【学院交流会】道具掉落量2倍",
-      "description": "",
-      "image_url": "https://cdnimg-v2.gamekee.com/wiki2.0/pro/829/images/w_1192/h_671/492704/2026/7/13/35961945msrdh5n3.webp?x-image-process=image/format,webp/ignore-error,1&eo-img.format=webp",
-      "progress": "26.09.09-26.09.16",
-      "tags": [
-        "资源翻倍",
-        "多倍活动"
       ],
       "start_time": null,
       "end_time": null
